@@ -12,6 +12,8 @@ on:
 
 jobs:
   github-metrics:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Metrics 1

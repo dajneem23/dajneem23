@@ -1,9 +1,9 @@
 # These are supported funding model platforms
 
-github: [ansidev]
-patreon: ansidev
+github: [dajneem23]
+patreon: dajneem23
 # open_collective: # Replace with a single Open Collective username
-ko_fi: ansidev
+ko_fi: dajneem23
 # tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 # community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 # liberapay: # Replace with a single Liberapay username
@@ -11,6 +11,6 @@ ko_fi: ansidev
 # otechie: # Replace with a single Otechie username
 # lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 custom:
-  - https://paypal.me/ansidev
-  - https://buymeacoffee.com/ansidev
-  - https://me.momo.vn/ansidev
+  - https://paypal.me/dajneem23
+  - https://buymeacoffee.com/dajneem23
+  - https://me.momo.vn/dajneem23

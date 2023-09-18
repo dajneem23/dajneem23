@@ -19,7 +19,7 @@
 <br>
 
 #### 🌟 Topics
-<img src="./metrics.plugin.topics.icons.png" />
+<img src="./metrics.plugin.topics.icons.svg" />
 
 <img src="./metrics.plugin.stars.svg" />
 

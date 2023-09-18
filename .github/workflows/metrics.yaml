@@ -105,3 +105,20 @@ jobs:
           base: ""
           plugin_music: yes
           plugin_music_playlist: hhttps://open.spotify.com/playlist/4mdzICkf87GYVd1b6ovVIN?si=0da40dc4c5914e47
+
+      - name: Current year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.svg
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 4

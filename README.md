@@ -1,4 +1,4 @@
-### Hi there, I'm Tran Nhat Thanh (aka dajneem23) 👋
+### Hi there, I'm Tran Nhat Thanh (aka @dajneem23) 👋
 
 <img src="https://komarev.com/ghpvc/?username=dajneem23" alt="Profile view" />
 
@@ -71,7 +71,7 @@
 />
 
 #### How to contact me?
-
+[<img align="left" width="32px" src="" style="padding-top: 4px;" />][website]
 <a href="mailto:dajneem23@gmail.com">
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
 </a>

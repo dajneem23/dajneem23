@@ -4,7 +4,7 @@
 
 #### 📕 About me
 
-- ✝️ I'm a Protestant, developer, blogger, and open-source maintainer & contributor!
+- ✝️ I'm a developer, blogger, and open-source maintainer & contributor!
 - 🇻🇳 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
 - 🔭 I’m currently working on personal projects!
 - 🌱 I’m currently learning English, Javascript, and full-stacks!
@@ -71,7 +71,7 @@
 />
 
 #### How to contact me?
-[<img align="left" width="32px" src=""  alt="" style="padding-top: 4px;" />][website]
+[<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
 <a href="mailto:dajneem23@gmail.com">
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
 </a>

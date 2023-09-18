@@ -104,7 +104,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
-          plugin_music_playlist: hhttps://open.spotify.com/playlist/4mdzICkf87GYVd1b6ovVIN?si=0da40dc4c5914e47
+          plugin_music_playlist: ${{vars.MUSIC_PLAYLIST}}
 
       - name: Current year calendar
         uses: lowlighter/metrics@latest
@@ -122,7 +122,7 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 4
-          
+
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:

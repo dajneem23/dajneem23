@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: Metrics 1
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
@@ -70,6 +71,7 @@ jobs:
           use_prebuilt_image: yes
           # repositories_skipped:
       - name: Labels
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.svg
@@ -79,6 +81,7 @@ jobs:
           plugin_topics_limit: 12
 
       - name: Icons
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
@@ -89,6 +92,7 @@ jobs:
           plugin_topics_mode: icons
 
       - name: LeetCode
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
@@ -99,6 +103,7 @@ jobs:
           
       - name: Spotify - Random track from playlist
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics.plugin.music.playlist.spotify.svg
           token: NOT_NEEDED
@@ -107,6 +112,7 @@ jobs:
           plugin_music_playlist: ${{vars.MUSIC_PLAYLIST}}
 
       - name: Current year calendar
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.svg
@@ -124,6 +130,7 @@ jobs:
           plugin_stars_limit: 4
 
       - name: Favorites anime and currently watching
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.svg
@@ -135,6 +142,7 @@ jobs:
           plugin_anilist_limit: 1
 
       - name: Favorites manga and currently reading
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.manga.svg
@@ -146,6 +154,7 @@ jobs:
           plugin_anilist_limit: 1
 
       - name: Favorites characters
+        continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.characters.svg

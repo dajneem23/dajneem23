@@ -3,6 +3,12 @@ on:
   # Schedule daily updates
   schedule:
     - cron: "0 0 * * *"
+      
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Message'
+        required: true
 
 jobs:
   github-metrics:

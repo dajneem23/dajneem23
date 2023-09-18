@@ -4,7 +4,7 @@
 
 #### 📕 About me
 
-- ✝️ I'm a Protestant, developer, blogger, and open-source maintainer & contributor!
+- ✝️ I'm a developer, blogger, and open-source maintainer & contributor!
 - 🇻🇳 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
 - 🔭 I’m currently working on personal projects!
 - 🌱 I’m currently learning English, Javascript, and full-stacks!
@@ -87,6 +87,8 @@
 [telegram]: https://t.me/thanhtran2704
 [twitter]: https://twitter.com/Thanh06660548
 [linkedin]: https://www.linkedin.com/in/thanhtran2704
+[facebook]: https://www.facebook.com/thanhtran2704
+[reddit]: https://www.reddit.com/user/dajneem23
 [paypal]: https://paypal.me/dajneem23
 [kofi]: https://ko-fi.com/dajneem23
 [buymeacoffee]: https://buymeacoffee.com/dajneem23

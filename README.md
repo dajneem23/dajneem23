@@ -71,7 +71,7 @@
 />
 
 #### How to contact me?
-[<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
+[<img align="left" width="32px" src=""  alt="" style="padding-top: 4px;" />][website]
 <a href="mailto:dajneem23@gmail.com">
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
 </a>
@@ -102,6 +102,8 @@
 [telegram]: https://t.me/thanhtran2704
 [twitter]: https://twitter.com/Thanh06660548
 [linkedin]: https://www.linkedin.com/in/thanhtran2704
+[facebook]: https://www.facebook.com/thanhtran2704
+[reddit]: https://www.reddit.com/user/dajneem23
 [paypal]: https://paypal.me/dajneem23
 [kofi]: https://ko-fi.com/dajneem23
 [buymeacoffee]: https://buymeacoffee.com/dajneem23

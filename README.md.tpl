@@ -10,6 +10,20 @@
 - 🌱 I’m currently learning English, Javascript, and full-stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
+
+#### My farvorite languages and tools ⚒️
+- Javascript/Typescript <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" />/ <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
+- ReactJS <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" />
+- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
+- MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+- MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+- Postgres <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres" />
+- Redis <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
+- Kafka <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka" />
+- Elasticsearch <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" />
+- Docker <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+- Jenkins <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
+
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 5}}

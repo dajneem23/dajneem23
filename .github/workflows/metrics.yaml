@@ -111,6 +111,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
+          plugin_music_provider: spotify
           plugin_music_playlist: ${{vars.MUSIC_PLAYLIST}}
 
       - name: Current year calendar

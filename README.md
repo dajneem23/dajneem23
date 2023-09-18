@@ -18,7 +18,8 @@
 
 <br>
 
-#### 🌟 Starred topics
+#### 🌟 Topics
+<img src="./metrics.plugin.topics.icons.png" />
 
 <img src="./metrics.plugin.stars.svg" />
 

@@ -40,15 +40,7 @@
 
 #### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
@@ -71,7 +63,7 @@
 />
 
 #### How to contact me?
-[<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
+
 <a href="mailto:dajneem23@gmail.com">
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
 </a>
@@ -87,7 +79,7 @@
 
 
 #### How to donate to me?
-
+[<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
 [<img align="left" height="32px" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg"  alt="Donate dajneem23 via Paypal" />][paypal]
 [<img align="left" height="32px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png"      alt="Donate dajneem23 via  Ko-fi" />][kofi]
 [<img align="left" height="32px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"          alt="Donate dajneem23 via Buymeacoffee" />][buymeacoffee]
@@ -95,19 +87,17 @@
 <br/>
 <br/>
 
-[website]: https://dajneem23.xyz/?utm_source=github&utm_medium=readme
+
+[website]: https://dajneem23.github.io
 [email]: dajneem23@gmail.com
 [github]: https://github.com/dajneem23
-[facebook]: https://facebook.com/leminhtri.py
-[telegram]: https://t.me/dajneem23
-[twitter]: https://twitter.com/dajneem23
-[linkedin]: https://linkedin.com/in/tri-le-minh-1b05bb51/
-[reddit]: https://reddit.com/u/dajneem23
+[telegram]: https://t.me/thanhtran2704
+[twitter]: https://twitter.com/Thanh06660548
+[linkedin]: https://www.linkedin.com/in/thanhtran2704
 [paypal]: https://paypal.me/dajneem23
 [kofi]: https://ko-fi.com/dajneem23
 [buymeacoffee]: https://buymeacoffee.com/dajneem23
 [momo]: https://me.momo.vn/dajneem23
-
 <br/>
 <br/>
 

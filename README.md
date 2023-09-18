@@ -10,9 +10,45 @@
 - 🌱 I’m currently learning English, Javascript, and full-stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
+#### 👷 Check out what I'm currently working on
 
 
+- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (today)
+- [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API) (1 month ago)
+- [dajneem23/architecture-notes](https://github.com/dajneem23/architecture-notes) (1 month ago)
+- [dajneem23/node-modern-boilerplate](https://github.com/dajneem23/node-modern-boilerplate) (1 month ago)
+- [dajneem23/balance-checker](https://github.com/dajneem23/balance-checker) (2 months ago)
 
+#### 🌱 My latest projects
+
+- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io)
+- [dajneem23/elasticsearch](https://github.com/dajneem23/elasticsearch)
+- [dajneem23/sample-gRPC](https://github.com/dajneem23/sample-gRPC)
+- [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API)
+- [dajneem23/node-modern-boilerplate](https://github.com/dajneem23/node-modern-boilerplate)
+
+#### 🔭 Latest releases I've contributed to
+
+
+#### 🔨 Latest Pull Requests I published
+
+- [merge to main](https://github.com/dajneem23/KLTN-18110199-18110151/pull/133) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (8 months ago)
+- [fix: build](https://github.com/dajneem23/KLTN-18110199-18110151/pull/90) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
+- [fix: dockerfile](https://github.com/dajneem23/KLTN-18110199-18110151/pull/89) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
+- [feat: deploy strapi](https://github.com/dajneem23/KLTN-18110199-18110151/pull/88) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
+- [Admin/init](https://github.com/dajneem23/KLTN-18110199-18110151/pull/87) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
+
+#### 📜 My recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
+- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
+- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
+- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
+- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
+- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
+- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
+<!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 
@@ -36,20 +72,19 @@
 
 #### How to contact me?
 
-
-<a href="mailto:ansidev@gmail.com">
- <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="ansidev | Email" />
+<a href="mailto:dajneem23@gmail.com">
+ <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
 </a>
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"       alt="ansidev | GitHub" />][github]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/telegram-app.png" alt="ansidev | Telegram" />][telegram]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.png"     alt="ansidev | Facebook" />][facebook]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.png"     alt="ansidev | LinkedIn" />][linkedin]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.png"       alt="ansidev | Reddit" />][reddit]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/twitter.png"      alt="ansidev | Twitter" />][twitter]
-
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"       alt="dajneem23 | GitHub" />][github]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/telegram-app.png" alt="dajneem23 | Telegram" />][telegram]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.png"     alt="dajneem23 | Facebook" />][facebook]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.png"     alt="dajneem23 | LinkedIn" />][linkedin]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.png"       alt="dajneem23 | Reddit" />][reddit]
+[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/twitter.png"      alt="dajneem23 | Twitter" />][twitter]
 
 <br/>
 <br/>
+
 
 #### How to donate to me?
 
@@ -57,22 +92,21 @@
 [<img align="left" height="32px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png"      alt="Donate dajneem23 via  Ko-fi" />][kofi]
 [<img align="left" height="32px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"          alt="Donate dajneem23 via Buymeacoffee" />][buymeacoffee]
 [<img align="left" height="32px" src="https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png"         alt="Donate dajneem23 via Momo" />][momo]
-
 <br/>
 <br/>
 
-[website]: https://dajneem23.github.io
+[website]: https://dajneem23.xyz/?utm_source=github&utm_medium=readme
 [email]: dajneem23@gmail.com
 [github]: https://github.com/dajneem23
-[telegram]: https://t.me/thanhtran2704
-[twitter]: https://twitter.com/Thanh06660548
-[linkedin]: https://www.linkedin.com/in/thanhtran2704
+[facebook]: https://facebook.com/leminhtri.py
+[telegram]: https://t.me/dajneem23
+[twitter]: https://twitter.com/dajneem23
+[linkedin]: https://linkedin.com/in/tri-le-minh-1b05bb51/
+[reddit]: https://reddit.com/u/dajneem23
 [paypal]: https://paypal.me/dajneem23
 [kofi]: https://ko-fi.com/dajneem23
 [buymeacoffee]: https://buymeacoffee.com/dajneem23
 [momo]: https://me.momo.vn/dajneem23
-[facebook]: https://facebook.com/dajneem23.py
-[reddit]: https://reddit.com/u/dajneem23
 
 <br/>
 <br/>

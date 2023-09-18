@@ -166,6 +166,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
+
       - name: Contributions
         uses: lowlighter/metrics@latest
         with:
@@ -173,3 +174,4 @@ jobs:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           base: ""
           plugin_notable: yes
+          plugin_notable_from: organization

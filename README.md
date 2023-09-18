@@ -18,6 +18,10 @@
 
 <br>
 
+#### 🌟 Starred topics
+
+<img src="./metrics.plugin.stars.svg" />
+
 #### 👷 Check out what I'm currently working on
 
 
@@ -46,6 +50,8 @@
 - [feat: deploy strapi](https://github.com/dajneem23/KLTN-18110199-18110151/pull/88) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
 - [Admin/init](https://github.com/dajneem23/KLTN-18110199-18110151/pull/87) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
 
+#### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
+<img src="./metrics.plugin.leetcode.svg" />
 
 #### Coding statistics
 
@@ -107,6 +113,7 @@
 [momo]: https://me.momo.vn/dajneem23
 <br/>
 <br/>
+
 
 <details>
   <summary>My personal GitHub Metrics</summary>

@@ -18,6 +18,10 @@
 
 <br>
 
+#### 🌟 Starred topics
+
+<img src="./metrics.plugin.stars.svg" />
+
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 5}}
@@ -38,6 +42,9 @@
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+#### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
+<img src="./metrics.plugin.leetcode.svg" />
 
 
 #### Coding statistics
@@ -101,12 +108,18 @@
 <br/>
 <br/>
 
+
+
+
+
 <details>
   <summary>My personal GitHub Metrics</summary>
   <br/>
   <img src="./github_metrics_01.svg" />
   <img src="./github_metrics_02.svg" />
 </details>
+
+
 
 ### LICENSE
 

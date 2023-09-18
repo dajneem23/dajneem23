@@ -10,6 +10,20 @@
 - 🌱 I’m currently learning English, Javascript, and full-stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
+
+#### My farvorite languages and tools ⚒️
+- Javascript/Typescript <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" />/ <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
+- ReactJS <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" />
+- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
+- MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+- MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+- Postgres <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres" />
+- Redis <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
+- Kafka <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka" />
+- Elasticsearch <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" />
+- Docker <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+- Jenkins <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
+
 #### 👷 Check out what I'm currently working on
 
 
@@ -38,17 +52,6 @@
 - [feat: deploy strapi](https://github.com/dajneem23/KLTN-18110199-18110151/pull/88) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
 - [Admin/init](https://github.com/dajneem23/KLTN-18110199-18110151/pull/87) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
 
-#### 📜 My recent blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to install OpenJDK on macOS?](https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos)
-- [GitHub Actions notes](https://ansidev.xyz/posts/2023-06-17-github-actions-notes)
-- [How to gpgsign git commit using lazygit?](https://ansidev.xyz/posts/2023-06-16-how-to-gpgsign-git-commit-using-lazygit)
-- [2468. Split message based on limit](https://leetcode-blog.netlify.app/2468-split-message-based-on-limit/)
-- [WezTerm cheatsheet](https://ansidev.xyz/posts/2023-05-18-wezterm-cheatsheet)
-- [Solutions for VirtualBox issues](https://ansidev.xyz/posts/2023-05-13-solutions-for-virtualbox-issues)
-- [How to change the highlight style using vim-illuminate?](https://ansidev.xyz/posts/2023-04-25-how-to-change-the-highlight-style-using-vim-illuminate)
-<!-- BLOG-POST-LIST:END -->
 
 #### Coding statistics
 

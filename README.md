@@ -40,16 +40,6 @@
 - [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API)
 - [dajneem23/balance-checker](https://github.com/dajneem23/balance-checker)
 
-#### 🔭 Latest releases I've contributed to
-
-
-#### 🔨 Latest Pull Requests I published
-
-- [merge to main](https://github.com/dajneem23/KLTN-18110199-18110151/pull/133) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (8 months ago)
-- [fix: build](https://github.com/dajneem23/KLTN-18110199-18110151/pull/90) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
-- [fix: dockerfile](https://github.com/dajneem23/KLTN-18110199-18110151/pull/89) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
-- [feat: deploy strapi](https://github.com/dajneem23/KLTN-18110199-18110151/pull/88) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
-- [Admin/init](https://github.com/dajneem23/KLTN-18110199-18110151/pull/87) on [dajneem23/KLTN-18110199-18110151](https://github.com/dajneem23/KLTN-18110199-18110151) (10 months ago)
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
 <img src="./metrics.plugin.leetcode.svg" />

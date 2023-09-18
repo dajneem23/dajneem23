@@ -12,17 +12,11 @@
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
 
 #### My farvorite languages and tools ⚒️
-- Javascript/Typescript <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" />/ <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
-- ReactJS <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" />
-- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
-- MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-- MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-- Postgres <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres" />
-- Redis <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
-- Kafka <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka" />
-- Elasticsearch <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" />
-- Docker <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-- Jenkins <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
+<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" /> <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" /> <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres" />
+<img align="left" width="32px" align="left" width="32px" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" /><img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="Kafka" />
+<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
+
+<br>
 
 #### 👷 Check out what I'm currently working on
 

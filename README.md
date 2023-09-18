@@ -24,8 +24,8 @@
 - [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (today)
 - [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API) (1 month ago)
 - [dajneem23/architecture-notes](https://github.com/dajneem23/architecture-notes) (1 month ago)
-- [dajneem23/node-modern-boilerplate](https://github.com/dajneem23/node-modern-boilerplate) (1 month ago)
 - [dajneem23/balance-checker](https://github.com/dajneem23/balance-checker) (2 months ago)
+- [dajneem23/debank-crawl](https://github.com/dajneem23/debank-crawl) (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@
 - [dajneem23/elasticsearch](https://github.com/dajneem23/elasticsearch)
 - [dajneem23/sample-gRPC](https://github.com/dajneem23/sample-gRPC)
 - [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API)
-- [dajneem23/node-modern-boilerplate](https://github.com/dajneem23/node-modern-boilerplate)
+- [dajneem23/balance-checker](https://github.com/dajneem23/balance-checker)
 
 #### 🔭 Latest releases I've contributed to
 

@@ -6,12 +6,16 @@
 
 - ✝️ I'm a developer, blogger, and open-source maintainer & contributor!
 - 🇻🇳 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
+- 🇺🇸 I'm currently living in Ho Chi Minh City, Vietnam.
+- 🎓 I'm a student at Ho Chi Minh City University of Technology and Education.
+- 📚 I'm majoring in Information Technology.
+- 🏢 I'm currently working as Full-stack Developer.
 - 🔭 I’m currently working on personal projects!
 - 🌱 I’m currently learning English, Javascript, and full-stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
 
-#### My farvorite languages and tools ⚒️
+#### ⚒️ My farvorite languages and tools 
 <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" /> <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" /> <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres" />
 <img align="left" width="32px" align="left" width="32px" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" /><img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="Kafka" />
 <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
@@ -93,7 +97,7 @@
 
 [website]: https://dajneem23.github.io
 [email]: dajneem23@gmail.com
-[github]: https://github.com/dajneem23
+[github]: https://github.com/dajneem23/dajneem23/issues
 [telegram]: https://t.me/thanhtran2704
 [twitter]: https://twitter.com/Thanh06660548
 [linkedin]: https://www.linkedin.com/in/thanhtran2704
@@ -117,7 +121,10 @@
   <img src="./github_metrics_02.svg" />
 </details>
 
-
+### NOTE
+- You can fork this repo and change the `README.md.tpl` file to generate your own content.
+- Need help? Feel free to contact me via email or telegram.
+- Don't forget to give this repo a star :star2:!
 
 ### LICENSE
 

@@ -5,8 +5,8 @@
 #### 📕 About me
 
 - ✝️ I'm a developer, blogger, and open-source maintainer & contributor!
-- 🇻🇳 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
-- 🇺🇸 I'm currently living in Ho Chi Minh City, Vietnam.
+- 🤖 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
+- 🇻🇳 I'm currently living in Ho Chi Minh City, Vietnam.
 - 🎓 I'm a student at Ho Chi Minh City University of Technology and Education.
 - 📚 I'm majoring in Information Technology.
 - 🏢 I'm currently working as Full-stack Developer.

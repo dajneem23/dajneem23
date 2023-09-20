@@ -36,6 +36,7 @@
 
 ☁️ **Cloud, infrastructure and OS:**
 
+![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge-slim&logo=linux&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge-slim&logo=googlecloud&logoColor=fff)

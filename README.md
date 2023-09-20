@@ -38,6 +38,7 @@
 
 🛠 **General technology knowledge:**
 
+![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
 [![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://actions-badge.atrox.dev/atrox/sync-dotenv/goto)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)

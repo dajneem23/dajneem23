@@ -57,7 +57,7 @@
 🛠 **General technology knowledge:**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
-[![Github Actions](https://github.com/dajneem23/dajneem23/actions/workflows/readme.yaml/badge.svg)](https://github.com/dajneem23/dajneem23/actions/workflows/readme.yaml)
+[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://github.com/dajneem23/dajneem23/actions/workflows/readme.yaml)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge-slim&logo=vite&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge-slim&logo=nginx&logoColor=fff)

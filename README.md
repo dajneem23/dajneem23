@@ -4,7 +4,7 @@
 
 #### 📕 About me
 
-- ✝️ I'm a developer, blogger, and open-source maintainer & contributor!
+- 😅 I'm a developer, blogger, and open-source maintainer & contributor!
 - 💀 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
 - 🇻🇳 I'm currently living in Ho Chi Minh City, Vietnam.
 - 🎓 I'm a student at Ho Chi Minh City University of Technology and Education.
@@ -30,7 +30,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (1 day ago)
+- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (2 days ago)
 - [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API) (1 month ago)
 - [dajneem23/architecture-notes](https://github.com/dajneem23/architecture-notes) (1 month ago)
 - [dajneem23/balance-checker](https://github.com/dajneem23/balance-checker) (2 months ago)

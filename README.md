@@ -15,13 +15,63 @@
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
 
-#### ⚒️ My farvorite languages and tools 
-<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Javascript" /> <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" /> <img align="left" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres" />
-<img align="left" width="32px" align="left" width="32px" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" /><img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="Kafka" />
-<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /><img align="left" width="32px" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
+---
 
-<br>
+🔥 **Technologies in focus:**
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge-slim&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=whit)
+![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge-slim&logo=eslint)
+![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge-slim&logo=graphql&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-ED4D53?style=for-the-badge-slim&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-99435B?style=for-the-badge-slim&logo=jest&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge-slim&logo=nestjs&logoColor=fff)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
+
+---
+
+☁️ **Cloud, infrastructure and OS:**
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge-slim&logo=linux&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge-slim&logo=googlecloud&logoColor=fff)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge-slim&logo=digitalocean&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge-slim&logo=vercel&logoColor=fff)
+
+---
+
+💻 **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge-slim&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge-slim&logo=mysql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge-slim&logo=redis&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge-slim&logo=mongodb&logoColor=fff)
+
+---
+
+🛠 **General technology knowledge:**
+
+[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://actions-badge.atrox.dev/atrox/sync-dotenv/goto)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge-slim&logo=vite&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge-slim&logo=nginx&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=for-the-badge-slim&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-slim&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge-slim&logo=css3&logoColor=white)
+
+
+---
+
+⚒️ **Other Technologies**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+---
 #### 🌟 Topics
 <img src="./metrics.plugin.topics.icons.svg" />
 

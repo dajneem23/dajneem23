@@ -75,9 +75,7 @@
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
 </a>
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"       alt="dajneem23 | GitHub" />][github]
-[
-<img align="left" width="32px" src="./assets/medium.logo.svg"  alt="dajneem23 | Medium" />
-][medium]
+[<img align="left" width="32px" src="./assets/medium.logo.svg"  alt="dajneem23 | Medium" />][medium]
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/telegram-app.png" alt="dajneem23 | Telegram" />][telegram]
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.png"     alt="dajneem23 | Facebook" />][facebook]
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.png"     alt="dajneem23 | LinkedIn" />][linkedin]

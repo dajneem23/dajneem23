@@ -17,6 +17,23 @@
 
 ---
 
+🔥 **Technologies in focus:**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge-slim&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=whit)
+![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge-slim&logo=eslint)
+![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge-slim&logo=graphql&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-ED4D53?style=for-the-badge-slim&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-99435B?style=for-the-badge-slim&logo=jest&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge-slim&logo=nestjs&logoColor=fff)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
+
+---
+
 ☁️ **Cloud, infrastructure and OS:**
 
 ![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)

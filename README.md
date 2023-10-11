@@ -81,7 +81,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 days ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (4 days ago)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia) (2 weeks ago)
 - [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (3 weeks ago)
 - [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API) (2 months ago)

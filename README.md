@@ -83,17 +83,17 @@
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 week ago)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia) (3 weeks ago)
-- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (3 weeks ago)
+- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (4 weeks ago)
 - [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API) (2 months ago)
 - [dajneem23/architecture-notes](https://github.com/dajneem23/architecture-notes) (2 months ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia)
 - [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io)
 - [dajneem23/elasticsearch](https://github.com/dajneem23/elasticsearch)
 - [dajneem23/sample-gRPC](https://github.com/dajneem23/sample-gRPC)
-- [dajneem23/Xero-Accounting-API](https://github.com/dajneem23/Xero-Accounting-API)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

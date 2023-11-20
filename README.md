@@ -81,7 +81,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (2 days ago)
+- [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (1 day ago)
 - [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task) (1 month ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 month ago)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia) (1 month ago)

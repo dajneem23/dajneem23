@@ -83,7 +83,7 @@
 
 - [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (2 weeks ago)
 - [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task) (1 month ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 month ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (2 months ago)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia) (2 months ago)
 - [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (2 months ago)
 

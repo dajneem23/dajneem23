@@ -9,9 +9,8 @@
 - 🇻🇳 I'm currently living in Ho Chi Minh City, Vietnam.
 - 🎓 I'm a student at Ho Chi Minh City University of Technology and Education.
 - 📚 I'm majoring in Information Technology.
-- 🏢 I'm currently working as Full-stack Developer.
+- 🏢 I'm currently working as a Full-stack Developer.
 - 🔭 I’m currently working on personal projects!
-- 🌱 I’m currently learning English, Javascript, and full-stacks!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
 

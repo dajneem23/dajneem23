@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dajneem23/nestjs-boilerplate-microservice](https://github.com/dajneem23/nestjs-boilerplate-microservice) (1 day ago)
 - [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (1 month ago)
 - [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task) (3 months ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 months ago)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia) (3 months ago)
-- [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io) (4 months ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/nestjs-boilerplate-microservice](https://github.com/dajneem23/nestjs-boilerplate-microservice)
 - [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript)
 - [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia)
 - [dajneem23/dajneem23.github.io](https://github.com/dajneem23/dajneem23.github.io)
-- [dajneem23/elasticsearch](https://github.com/dajneem23/elasticsearch)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

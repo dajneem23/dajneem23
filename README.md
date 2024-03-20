@@ -149,7 +149,7 @@
 
 
 #### How to donate to me?
-[<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
+[<img align="left" width="32px" src="" alt="" style="padding-top: 4px;" />][website]
 [<img align="left" height="32px" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg"  alt="Donate dajneem23 via Paypal" />][paypal]
 [<img align="left" height="32px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png"      alt="Donate dajneem23 via  Ko-fi" />][kofi]
 [<img align="left" height="32px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"          alt="Donate dajneem23 via Buymeacoffee" />][buymeacoffee]
@@ -174,8 +174,9 @@
 <br/>
 <br/>
 
-
-
+EVM address: 0x28f0fAdeA04381b1440A23eBB87565f32356EE77
+<br/>
+<br/>
 
 
 <details>

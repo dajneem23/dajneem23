@@ -95,7 +95,7 @@
 - [dajneem23/nestjs-boilerplate-microservice](https://github.com/dajneem23/nestjs-boilerplate-microservice) (4 months ago)
 - [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (6 months ago)
 - [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task) (7 months ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (7 months ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (8 months ago)
 - [dajneem23/hi-elysia](https://github.com/dajneem23/hi-elysia) (8 months ago)
 
 #### 🌱 My latest projects

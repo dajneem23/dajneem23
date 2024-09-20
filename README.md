@@ -92,8 +92,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (3 days ago)
-- [dajneem23/js-playground](https://github.com/dajneem23/js-playground) (3 days ago)
+- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (4 days ago)
+- [dajneem23/js-playground](https://github.com/dajneem23/js-playground) (4 days ago)
 - [dajneem23/nestjs-boilerplate-microservice](https://github.com/dajneem23/nestjs-boilerplate-microservice) (8 months ago)
 - [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (10 months ago)
 - [dajneem23/arch-way-task](https://github.com/dajneem23/arch-way-task) (11 months ago)

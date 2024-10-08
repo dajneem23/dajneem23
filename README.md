@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/microservices-NATS](https://github.com/dajneem23/microservices-NATS) (today)
+- [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (1 day ago)
+- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (1 day ago)
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (3 weeks ago)
 - [dajneem23/js-playground](https://github.com/dajneem23/js-playground) (3 weeks ago)
 - [dajneem23/nestjs-boilerplate-microservice](https://github.com/dajneem23/nestjs-boilerplate-microservice) (8 months ago)
-- [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript) (10 months ago)
 
 #### 🌱 My latest projects
 
-- [dajneem23/microservices-NATS](https://github.com/dajneem23/microservices-NATS)
+- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services)
+- [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices)
 - [dajneem23/js-playground](https://github.com/dajneem23/js-playground)
 - [dajneem23/nestjs-boilerplate-microservice](https://github.com/dajneem23/nestjs-boilerplate-microservice)
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust)
-- [dajneem23/Hello-AssemblyScript](https://github.com/dajneem23/Hello-AssemblyScript)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

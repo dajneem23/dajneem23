@@ -93,10 +93,10 @@
 
 
 - [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (today)
-- [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (1 day ago)
-- [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services) (1 day ago)
-- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (6 days ago)
-- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (3 weeks ago)
+- [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (2 days ago)
+- [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services) (2 days ago)
+- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (1 week ago)
+- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (4 weeks ago)
 
 #### 🌱 My latest projects
 

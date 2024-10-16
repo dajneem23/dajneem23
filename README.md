@@ -92,11 +92,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (1 day ago)
-- [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (3 days ago)
-- [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services) (3 days ago)
+- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (2 days ago)
+- [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (4 days ago)
+- [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services) (4 days ago)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (1 week ago)
-- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (4 weeks ago)
+- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (1 month ago)
 
 #### 🌱 My latest projects
 

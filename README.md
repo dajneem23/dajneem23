@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (4 days ago)
+- [dajneem23/blockchain-price-tracker](https://github.com/dajneem23/blockchain-price-tracker) (1 day ago)
+- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (5 days ago)
 - [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (1 week ago)
 - [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services) (1 week ago)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (2 weeks ago)
-- [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (1 month ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/blockchain-price-tracker](https://github.com/dajneem23/blockchain-price-tracker)
 - [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services)
 - [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services)
 - [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices)
-- [dajneem23/js-playground](https://github.com/dajneem23/js-playground)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

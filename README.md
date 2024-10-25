@@ -92,7 +92,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/blockchain-price-tracker](https://github.com/dajneem23/blockchain-price-tracker) (1 day ago)
+- [dajneem23/blockchain-price-tracker](https://github.com/dajneem23/blockchain-price-tracker) (today)
 - [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (1 week ago)
 - [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (1 week ago)
 - [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services) (1 week ago)

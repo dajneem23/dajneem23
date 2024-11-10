@@ -92,8 +92,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (2 days ago)
-- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (5 days ago)
+- [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (3 days ago)
+- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (6 days ago)
 - [dajneem23/nestjs-boilerplate-mircoservice](https://github.com/dajneem23/nestjs-boilerplate-mircoservice) (2 weeks ago)
 - [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (3 weeks ago)
 - [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (4 weeks ago)

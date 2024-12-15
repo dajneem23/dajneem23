@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocoda/event-sourcing</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An event-sourcing library for NestJS</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pola-rs/polars</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</div>

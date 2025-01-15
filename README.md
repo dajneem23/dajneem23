@@ -95,7 +95,7 @@
 - [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (2 months ago)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (2 months ago)
 - [dajneem23/nestjs-boilerplate-mircoservice](https://github.com/dajneem23/nestjs-boilerplate-mircoservice) (2 months ago)
-- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (2 months ago)
+- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (3 months ago)
 - [dajneem23/node-rust-microservices](https://github.com/dajneem23/node-rust-microservices) (3 months ago)
 
 #### 🌱 My latest projects

@@ -93,7 +93,7 @@
 
 
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (2 weeks ago)
-- [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (2 months ago)
+- [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (3 months ago)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (3 months ago)
 - [dajneem23/nestjs-boilerplate-mircoservice](https://github.com/dajneem23/nestjs-boilerplate-mircoservice) (3 months ago)
 - [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (3 months ago)

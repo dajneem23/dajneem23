@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lensesio/stream-reactor</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of open source Apache 2.0 Kafka Connector maintained by Lenses.io.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>graphql/graphql-js</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reference implementation of GraphQL for JavaScript</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>debezium/container-images</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker images for Debezium. Please log issues in our JIRA at https://issues.redhat.com/projects/DBZ/summary</div>
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>confluentinc/demo-scene</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluentinc/tutorials/</div>

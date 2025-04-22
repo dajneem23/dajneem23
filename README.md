@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (1 day ago)
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (3 weeks ago)
 - [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (5 months ago)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (5 months ago)
 - [dajneem23/nestjs-boilerplate-mircoservice](https://github.com/dajneem23/nestjs-boilerplate-mircoservice) (5 months ago)
-- [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess) (6 months ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit)
 - [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze)
 - [dajneem23/nestjs-boilerplate-mircoservice](https://github.com/dajneem23/nestjs-boilerplate-mircoservice)
 - [dajneem23/Rust-services](https://github.com/dajneem23/Rust-services)
 - [dajneem23/react-wasm-chess](https://github.com/dajneem23/react-wasm-chess)
-- [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

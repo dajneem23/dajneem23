@@ -92,7 +92,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (3 days ago)
+- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (4 days ago)
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (4 weeks ago)
 - [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (5 months ago)
 - [dajneem23/Nestjs-services](https://github.com/dajneem23/Nestjs-services) (5 months ago)

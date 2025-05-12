@@ -92,9 +92,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm) (3 days ago)
+- [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm) (4 days ago)
 - [dajneem23/telegram-reference-bot](https://github.com/dajneem23/telegram-reference-bot) (1 week ago)
-- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (2 weeks ago)
+- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (3 weeks ago)
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (1 month ago)
 - [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (6 months ago)
 

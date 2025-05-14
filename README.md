@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm) (5 days ago)
+- [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (1 day ago)
+- [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm) (6 days ago)
 - [dajneem23/telegram-reference-bot](https://github.com/dajneem23/telegram-reference-bot) (1 week ago)
 - [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (3 weeks ago)
 - [dajneem23/learning-rust](https://github.com/dajneem23/learning-rust) (1 month ago)
-- [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze) (6 months ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs)
 - [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm)
 - [dajneem23/telegram-reference-bot](https://github.com/dajneem23/telegram-reference-bot)
 - [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit)
 - [dajneem23/pixels-airdrop-analyze](https://github.com/dajneem23/pixels-airdrop-analyze)
-- [dajneem23/nestjs-boilerplate-mircoservice](https://github.com/dajneem23/nestjs-boilerplate-mircoservice)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

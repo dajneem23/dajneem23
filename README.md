@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/200--query-for-duck-developers-](https://github.com/dajneem23/200--query-for-duck-developers-) (1 day ago)
-- [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (2 days ago)
-- [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm) (5 days ago)
+- [dajneem23/simple-cloudflare-worker-rs](https://github.com/dajneem23/simple-cloudflare-worker-rs) (1 day ago)
+- [dajneem23/200--queries-for-duck-developers-](https://github.com/dajneem23/200--queries-for-duck-developers-) (2 days ago)
+- [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (3 days ago)
+- [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm) (6 days ago)
 - [dajneem23/telegram-reference-bot](https://github.com/dajneem23/telegram-reference-bot) (2 weeks ago)
-- [dajneem23/ZeroLend-audit](https://github.com/dajneem23/ZeroLend-audit) (1 month ago)
 
 #### 🌱 My latest projects
 
-- [dajneem23/200--query-for-duck-developers-](https://github.com/dajneem23/200--query-for-duck-developers-)
+- [dajneem23/simple-cloudflare-worker-rs](https://github.com/dajneem23/simple-cloudflare-worker-rs)
+- [dajneem23/200--queries-for-duck-developers-](https://github.com/dajneem23/200--queries-for-duck-developers-)
 - [dajneem23/v8_rs](https://github.com/dajneem23/v8_rs)
 - [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs)
 - [dajneem23/my-rl-swarm](https://github.com/dajneem23/my-rl-swarm)
-- [dajneem23/telegram-reference-bot](https://github.com/dajneem23/telegram-reference-bot)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

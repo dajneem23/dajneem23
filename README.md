@@ -93,7 +93,7 @@
 
 
 - [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle) (1 day ago)
-- [dajneem23/fibonacci.rs](https://github.com/dajneem23/fibonacci.rs) - a small module to compare some Fibonacci algorithm in Rust (4 days ago)
+- [dajneem23/fibonacci.rs](https://github.com/dajneem23/fibonacci.rs) - a small module to compare some Fibonacci algorithm in Rust (5 days ago)
 - [dajneem23/simple-cloudflare-worker-rs](https://github.com/dajneem23/simple-cloudflare-worker-rs) (1 week ago)
 - [dajneem23/200--queries-for-duck-developers-](https://github.com/dajneem23/200--queries-for-duck-developers-) (1 week ago)
 - [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (1 week ago)

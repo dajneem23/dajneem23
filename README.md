@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle) (5 days ago)
+- [dajneem23/rust-sha256-len-extension-attack](https://github.com/dajneem23/rust-sha256-len-extension-attack) (today)
+- [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle) (6 days ago)
 - [dajneem23/fibonacci.rs](https://github.com/dajneem23/fibonacci.rs) - a small module to compare some Fibonacci algorithm in Rust (1 week ago)
 - [dajneem23/simple-cloudflare-worker-rs](https://github.com/dajneem23/simple-cloudflare-worker-rs) (2 weeks ago)
 - [dajneem23/200--queries-for-duck-developers-](https://github.com/dajneem23/200--queries-for-duck-developers-) (2 weeks ago)
-- [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/rust-sha256-len-extension-attack](https://github.com/dajneem23/rust-sha256-len-extension-attack)
 - [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle)
 - [dajneem23/fibonacci.rs](https://github.com/dajneem23/fibonacci.rs) - a small module to compare some Fibonacci algorithm in Rust
 - [dajneem23/simple-cloudflare-worker-rs](https://github.com/dajneem23/simple-cloudflare-worker-rs)
 - [dajneem23/200--queries-for-duck-developers-](https://github.com/dajneem23/200--queries-for-duck-developers-)
-- [dajneem23/v8_rs](https://github.com/dajneem23/v8_rs)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

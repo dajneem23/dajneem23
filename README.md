@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo) (2 days ago)
-- [dajneem23/Terraform-AWS-Cost-Optimization-Project](https://github.com/dajneem23/Terraform-AWS-Cost-Optimization-Project) - terraform plans for optimize AWS cost, Game project purpose (4 days ago)
+- [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example) (1 day ago)
+- [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo) (3 days ago)
+- [dajneem23/Terraform-AWS-Cost-Optimization-Project](https://github.com/dajneem23/Terraform-AWS-Cost-Optimization-Project) - terraform plans for optimize AWS cost, Game project purpose (5 days ago)
 - [dajneem23/rust-sha256-len-extension-attack](https://github.com/dajneem23/rust-sha256-len-extension-attack) - Practical Length-Extension Attack Demo (on SHA-256) (1 week ago)
 - [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle) (2 weeks ago)
-- [dajneem23/fibonacci.rs](https://github.com/dajneem23/fibonacci.rs) - a small module to compare some Fibonacci algorithm in Rust (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example)
 - [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo)
 - [dajneem23/Terraform-AWS-Cost-Optimization-Project](https://github.com/dajneem23/Terraform-AWS-Cost-Optimization-Project) - terraform plans for optimize AWS cost, Game project purpose
 - [dajneem23/rust-sha256-len-extension-attack](https://github.com/dajneem23/rust-sha256-len-extension-attack) - Practical Length-Extension Attack Demo (on SHA-256)
 - [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle)
-- [dajneem23/fibonacci.rs](https://github.com/dajneem23/fibonacci.rs) - a small module to compare some Fibonacci algorithm in Rust
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

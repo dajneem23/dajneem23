@@ -92,9 +92,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example) (2 days ago)
-- [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo) (4 days ago)
-- [dajneem23/Terraform-AWS-Cost-Optimization-Project](https://github.com/dajneem23/Terraform-AWS-Cost-Optimization-Project) - terraform plans for optimize AWS cost, Game project purpose (6 days ago)
+- [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example) (3 days ago)
+- [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo) (5 days ago)
+- [dajneem23/Terraform-AWS-Cost-Optimization-Project](https://github.com/dajneem23/Terraform-AWS-Cost-Optimization-Project) - terraform plans for optimize AWS cost, Game project purpose (1 week ago)
 - [dajneem23/rust-sha256-len-extension-attack](https://github.com/dajneem23/rust-sha256-len-extension-attack) - Practical Length-Extension Attack Demo (on SHA-256) (1 week ago)
 - [dajneem23/sui-commandoss-chess-oracle](https://github.com/dajneem23/sui-commandoss-chess-oracle) (2 weeks ago)
 

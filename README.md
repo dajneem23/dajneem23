@@ -92,7 +92,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/axum-tokio-postgres-server-template](https://github.com/dajneem23/axum-tokio-postgres-server-template) (6 days ago)
+- [dajneem23/axum-tokio-postgres-server-template](https://github.com/dajneem23/axum-tokio-postgres-server-template) (1 week ago)
 - [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example) (1 week ago)
 - [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo) (1 week ago)
 - [dajneem23/Terraform-AWS-Cost-Optimization-Project](https://github.com/dajneem23/Terraform-AWS-Cost-Optimization-Project) - terraform plans for optimize AWS cost, Game project purpose (2 weeks ago)

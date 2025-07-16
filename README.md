@@ -92,11 +92,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (1 day ago)
 - [dajneem23/Multisig-Account](https://github.com/dajneem23/Multisig-Account) (1 week ago)
 - [dajneem23/ConsoleCanvas-rust](https://github.com/dajneem23/ConsoleCanvas-rust) (2 weeks ago)
 - [dajneem23/axum-tokio-postgres-server-template](https://github.com/dajneem23/axum-tokio-postgres-server-template) (3 weeks ago)
-- [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example) (4 weeks ago)
-- [dajneem23/rust-zmq-ipc-demo](https://github.com/dajneem23/rust-zmq-ipc-demo) (1 month ago)
+- [dajneem23/grpc-rust-node-example](https://github.com/dajneem23/grpc-rust-node-example) (1 month ago)
 
 #### 🌱 My latest projects
 

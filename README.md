@@ -92,19 +92,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server) (5 days ago)
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) (2 weeks ago)
+- [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc) (1 day ago)
+- [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server) (6 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) (3 weeks ago)
 - [dajneem23/vesting-contracts](https://github.com/dajneem23/vesting-contracts) (3 weeks ago)
 - [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (1 month ago)
-- [dajneem23/Multisig-Account](https://github.com/dajneem23/Multisig-Account) (2 months ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc)
 - [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server)
 - [dajneem23/vesting-contracts](https://github.com/dajneem23/vesting-contracts)
 - [dajneem23/Multisig-Account](https://github.com/dajneem23/Multisig-Account)
 - [dajneem23/ConsoleCanvas-rust](https://github.com/dajneem23/ConsoleCanvas-rust)
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

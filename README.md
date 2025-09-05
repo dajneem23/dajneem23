@@ -7,9 +7,9 @@
 - 😅 I'm a developer, blogger, and open-source maintainer & contributor!
 - 💀 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
 - 🇻🇳 I'm currently living in Ho Chi Minh City, Vietnam.
-- 🎓 I'm a student at Ho Chi Minh City University of Technology and Education.
+- 🎓 I was a student at Ho Chi Minh City University of Technology and Education.
 - 📚 I'm majoring in Information Technology.
-- 🏢 I'm currently working as a Full-stack Developer.
+- 🏢 I'm currently working as a Backend Developer and Blockchain Developer.
 - 🔭 I’m currently working on personal projects!
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
@@ -18,18 +18,13 @@
 
 🔥 **Technologies in focus:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge-slim&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=whit)
-![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge-slim&logo=eslint)
-![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge-slim&logo=graphql&logoColor=white)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-ED4D53?style=for-the-badge-slim&logo=testing-library&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-99435B?style=for-the-badge-slim&logo=jest&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge-slim&logo=nestjs&logoColor=fff)
-![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
+  - ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge-slim&logo=nestjs&logoColor=fff)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
+
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge-slim&logo=rust&logoColor=white)
+- ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge-slim&logo=solidity&logoColor=black)
 
 ---
 
@@ -58,12 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
 [![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://github.com/dajneem23/dajneem23/actions/workflows/readme.yaml)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge-slim&logo=vite&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge-slim&logo=nginx&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=for-the-badge-slim&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-slim&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge-slim&logo=css3&logoColor=white)
-
 
 ---
 
@@ -76,11 +66,9 @@
 
 🎯 **My current learning**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge-slim&logoColor=white)
 
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white) 
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge-slim&logo=WebAssembly&logoColor=white) 
 
 
 ---

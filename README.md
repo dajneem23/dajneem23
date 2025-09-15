@@ -80,7 +80,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 days ago)
 - [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc) (1 week ago)
 - [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server) (2 weeks ago)
 - [dajneem23/vesting-contracts](https://github.com/dajneem23/vesting-contracts) (1 month ago)

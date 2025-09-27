@@ -80,11 +80,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions. (1 day ago)
 - [dajneem23/eip7702](https://github.com/dajneem23/eip7702) (1 week ago)
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
 - [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc) (3 weeks ago)
 - [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server) (4 weeks ago)
-- [dajneem23/vesting-contracts](https://github.com/dajneem23/vesting-contracts) (1 month ago)
 
 #### 🌱 My latest projects
 

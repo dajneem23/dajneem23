@@ -80,19 +80,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions. (5 days ago)
-- [dajneem23/eip7702](https://github.com/dajneem23/eip7702) (1 week ago)
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
-- [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc) (3 weeks ago)
-- [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server) (1 month ago)
+- [dajneem23/gensyn-telegrambot](https://github.com/dajneem23/gensyn-telegrambot) - This is a Telegram bot that runs on Cloudflare Workers and provides the status of a Gensyn peer. (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions. (6 days ago)
+- [dajneem23/eip7702](https://github.com/dajneem23/eip7702) (2 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
+- [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc) (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/gensyn-telegrambot](https://github.com/dajneem23/gensyn-telegrambot) - This is a Telegram bot that runs on Cloudflare Workers and provides the status of a Gensyn peer.
 - [dajneem23/eip7702](https://github.com/dajneem23/eip7702)
 - [dajneem23/rustlings](https://github.com/dajneem23/rustlings)
 - [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc)
 - [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server)
-- [dajneem23/vesting-contracts](https://github.com/dajneem23/vesting-contracts)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

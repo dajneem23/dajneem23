@@ -80,7 +80,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (1 day ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (2 days ago)
 - [dajneem23/gensyn-telegrambot](https://github.com/dajneem23/gensyn-telegrambot) - This is a Telegram bot that runs on Cloudflare Workers and provides the status of a Gensyn peer. (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions. (2 weeks ago)
 - [dajneem23/eip7702](https://github.com/dajneem23/eip7702) (3 weeks ago)

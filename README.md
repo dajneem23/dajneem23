@@ -80,19 +80,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (1 week ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (1 day ago)
+- [dajneem23/moderm-react-starter-kit](https://github.com/dajneem23/moderm-react-starter-kit) (1 day ago)
 - [dajneem23/gensyn-telegrambot](https://github.com/dajneem23/gensyn-telegrambot) - This is a Telegram bot that runs on Cloudflare Workers and provides the status of a Gensyn peer. (2 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor) - A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions. (3 weeks ago)
-- [dajneem23/eip7702](https://github.com/dajneem23/eip7702) (4 weeks ago)
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
+- [dajneem23/eip7702](https://github.com/dajneem23/eip7702) (1 month ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/moderm-react-starter-kit](https://github.com/dajneem23/moderm-react-starter-kit)
 - [dajneem23/gensyn-telegrambot](https://github.com/dajneem23/gensyn-telegrambot) - This is a Telegram bot that runs on Cloudflare Workers and provides the status of a Gensyn peer.
 - [dajneem23/eip7702](https://github.com/dajneem23/eip7702)
 - [dajneem23/rustlings](https://github.com/dajneem23/rustlings)
 - [dajneem23/isolation-level-poc](https://github.com/dajneem23/isolation-level-poc)
-- [dajneem23/Jayson-Wasm-server](https://github.com/dajneem23/Jayson-Wasm-server)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

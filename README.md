@@ -80,11 +80,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig) (1 day ago)
-- [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (1 day ago)
-- [dajneem23/tradingview-rsi-webhook](https://github.com/dajneem23/tradingview-rsi-webhook) (2 days ago)
-- [dajneem23/moderm-react-starter-kit](https://github.com/dajneem23/moderm-react-starter-kit) (6 days ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (6 days ago)
+- [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (2 days ago)
+- [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig) (2 days ago)
+- [dajneem23/tradingview-rsi-webhook](https://github.com/dajneem23/tradingview-rsi-webhook) (3 days ago)
+- [dajneem23/moderm-react-starter-kit](https://github.com/dajneem23/moderm-react-starter-kit) (1 week ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (1 week ago)
 
 #### 🌱 My latest projects
 

@@ -80,19 +80,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (3 days ago)
+- [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators) (1 day ago)
+- [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (4 days ago)
 - [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (1 week ago)
 - [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig) (1 week ago)
 - [dajneem23/tradingview-rsi-webhook](https://github.com/dajneem23/tradingview-rsi-webhook) (1 week ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) (1 week ago)
 
 #### 🌱 My latest projects
 
+- [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators)
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc)
 - [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig)
 - [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig)
 - [dajneem23/tradingview-rsi-webhook](https://github.com/dajneem23/tradingview-rsi-webhook)
-- [dajneem23/moderm-react-starter-kit](https://github.com/dajneem23/moderm-react-starter-kit)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats

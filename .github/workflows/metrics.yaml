@@ -3,11 +3,11 @@ on:
   # Schedule daily updates
   schedule:
     - cron: "0 0 * * *"
-      
+
   workflow_dispatch:
     inputs:
       version:
-        description: 'Message'
+        description: "Message"
         required: true
 
 jobs:
@@ -102,7 +102,7 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-          
+
       - name: Spotify - Random track from playlist
         uses: lowlighter/metrics@latest
         continue-on-error: true

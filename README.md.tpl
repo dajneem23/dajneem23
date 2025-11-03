@@ -7,13 +7,13 @@
 - 😅 I'm a developer, blogger, and open-source maintainer & contributor!
 - 💀 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
 - 🇻🇳 I'm currently living in Ho Chi Minh City, Vietnam.
-- 🎓 I was a student at Ho Chi Minh City University of Technology and Education.
-- 📚 I'm majoring in Information Technology.
+- 🎓 I was a student at Ho Chi Minh City University of Technology and Education, majoring in Information Technology.
 - 🏢 I'm currently working as a Backend Developer and Blockchain Developer.
-- 🔭 I’m currently working on personal projects!
+- 🚀 I love building things that solve real-world problems and help people especially in blockchain technology(that's why I'm passionate about it!).
+- 📝 I write articles on [Medium](https://medium.com/@dajneem23) about programming, open-source, and my personal experiences.
+- I'm a bot in stackexchange: [dajneem23](https://stackexchange.com/users/35996761/nhat-thanh-tran)
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
-
 ---
 
 🔥 **Technologies in focus:**
@@ -30,12 +30,13 @@
 
 ☁️ **Cloud, infrastructure and OS:**
 
-![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge-slim&logo=linux&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge-slim&logo=googlecloud&logoColor=fff)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge-slim&logo=digitalocean&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge-slim&logo=vercel&logoColor=fff)
+- ![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social) - <i>i love it <3</i>
+- ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge-slim&logo=linux&logoColor=fff) - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge-slim&logo=ubuntu&logoColor=fff)=> <i>i love it<3</i>
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff) => <i>my company use it- i don't love it</3 but i need it for jobs</i>
+- ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge-slim&logo=googlecloud&logoColor=fff) => <i>my company use it- i don't love it</3 but i need it for jobs</i>
+- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge-slim&logo=digitalocean&logoColor=fff) => <i>my company use it- i don't love it</3 but i need it for jobs</i>
+- ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge-slim&logo=vercel&logoColor=fff) => <i>i don't love it</3 but i need it for jobs</i>
+- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge-slim&logo=cloudflare&logoColor=fff) => <i>i love it<3</i>
 
 ---
 
@@ -65,6 +66,8 @@
 ---
 
 🎯 **My current learning**
+
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge-slim&logo=zig&logoColor=black)
 
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge-slim&logoColor=white)
 
@@ -129,9 +132,8 @@
 <br/>
 <br/>
 
-
 #### How to donate to me?
-[<img align="left" width="32px" src="" alt="" style="padding-top: 4px;" />][website]
+
 [<img align="left" height="32px" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg"  alt="Donate dajneem23 via Paypal" />][paypal]
 [<img align="left" height="32px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png"      alt="Donate dajneem23 via  Ko-fi" />][kofi]
 [<img align="left" height="32px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"          alt="Donate dajneem23 via Buymeacoffee" />][buymeacoffee]
@@ -154,24 +156,25 @@
 [momo]: https://me.momo.vn/dajneem23
 [medium]: https://medium.com/@dajneem23
 <br/>
-<br/>
+[medium]: https://medium.com/@dajneem23
 
-EVM address: 0x28f0fAdeA04381b1440A23eBB87565f32356EE77
-<br/>
-<br/>
+**EVM address:** `0x28f0fAdeA04381b1440A23eBB87565f32356EE77`
 
+<br/>
+<br/>
 
 <details>
   <summary>My personal GitHub Metrics</summary>
   <br/>
-  <img src="./github_metrics_01.svg" />
-  <img src="./github_metrics_02.svg" />
+  <img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
+  <img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
 </details>
 
 ### NOTE
+
 - You can fork this repo and change the `README.md.tpl` file to generate your own content.
-- Need help? Feel free to contact me via email or telegram.
-- Don't forget to give this repo a star :star2:!
+- Need help? Feel free to contact me via email or Telegram.
+- Don't forget to give this repo a star ⭐!
 
 ### LICENSE
 
@@ -179,6 +182,10 @@ This source code is available under the [MIT LICENSE](/LICENSE).
 
 Feel free to fork/clone this repository, however, please adjust the template to generate your own content, especially the profile view link.
 
-Finally, don't just fork/clone it. Please give it a star :star2:!
+Finally, don't just fork/clone it. Please give it a star ⭐!
 
 <sub>Auto-generated by [markscribe](https://github.com/muesli/markscribe).</sub>
+
+### Any issues?
+
+If you found any issues, please feel free to open an issue on GitHub. I'll try my best to fix it. Thank you! 😊

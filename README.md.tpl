@@ -14,6 +14,7 @@
 - I'm a bot in stackexchange: [dajneem23](https://stackexchange.com/users/35996761/nhat-thanh-tran)
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
+
 ---
 
 🔥 **Technologies in focus:**
@@ -71,11 +72,12 @@
 
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge-slim&logoColor=white)
 
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge-slim&logo=WebAssembly&logoColor=white) 
-
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge-slim&logo=WebAssembly&logoColor=white)
 
 ---
+
 #### 🌟 Topics
+
 <img src="./metrics.plugin.topics.icons.svg" />
 
 <img src="./metrics.plugin.stars.svg" />
@@ -83,18 +85,20 @@
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 5}}
+
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
+
 {{range recentRepos 5}}
+
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
-<img src="./metrics.plugin.leetcode.svg" />
 
+<img src="./metrics.plugin.leetcode.svg" />
 
 #### Coding statistics
 
@@ -116,7 +120,8 @@
   style="display: inline; width: 320px;"
 />
 
-#### How to contact me?
+### How to contact me?
+
 [<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
 <a href="mailto:dajneem23@gmail.com">
  <img align="left" width="32px" src="https://img.icons8.com/fluency/32/gmail-new.png"    alt="dajneem23 | Email" />
@@ -124,41 +129,29 @@
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/github.png"       alt="dajneem23 | GitHub" />][github]
 [<img align="left" width="32px" src="./assets/medium.logo.svg"  alt="dajneem23 | Medium" />][medium]
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/telegram-app.png" alt="dajneem23 | Telegram" />][telegram]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/facebook.png"     alt="dajneem23 | Facebook" />][facebook]
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/linkedin.png"     alt="dajneem23 | LinkedIn" />][linkedin]
-[<img align="left" width="32px" src="https://img.icons8.com/fluency/32/reddit.png"       alt="dajneem23 | Reddit" />][reddit]
 [<img align="left" width="32px" src="https://img.icons8.com/fluency/32/twitter.png"      alt="dajneem23 | Twitter" />][twitter]
 
 <br/>
 <br/>
 
-#### How to donate to me?
+### How to donate to me?
+
+**EVM address:** `0x28f0fAdeA04381b1440A23eBB87565f32356EE77`
 
 [<img align="left" height="32px" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg"  alt="Donate dajneem23 via Paypal" />][paypal]
-[<img align="left" height="32px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png"      alt="Donate dajneem23 via  Ko-fi" />][kofi]
-[<img align="left" height="32px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"          alt="Donate dajneem23 via Buymeacoffee" />][buymeacoffee]
-[<img align="left" height="32px" src="https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png"         alt="Donate dajneem23 via Momo" />][momo]
 <br/>
 <br/>
-
 
 [website]: https://dajneem23.github.io
-[email]: dajneem23@gmail.com
-[github]: https://github.com/dajneem23/dajneem23/issues
+[github]: https://github.com/dajneem23/
 [telegram]: https://t.me/thanhtran2704
 [twitter]: https://twitter.com/Thanh06660548
 [linkedin]: https://www.linkedin.com/in/thanhtran2704
-[facebook]: https://www.facebook.com/thanhtran2704
-[reddit]: https://www.reddit.com/user/dajneem23
 [paypal]: https://paypal.me/dajneem23
-[kofi]: https://ko-fi.com/dajneem23
-[buymeacoffee]: https://buymeacoffee.com/dajneem23
-[momo]: https://me.momo.vn/dajneem23
 [medium]: https://medium.com/@dajneem23
 <br/>
-[medium]: https://medium.com/@dajneem23
 
-**EVM address:** `0x28f0fAdeA04381b1440A23eBB87565f32356EE77`
 
 <br/>
 <br/>
@@ -188,4 +181,4 @@ Finally, don't just fork/clone it. Please give it a star ⭐!
 
 ### Any issues?
 
-If you found any issues, please feel free to open an issue on GitHub. I'll try my best to fix it. Thank you! 😊
+Definitely! Nobody reads this far, but if you do, please open an issue on GitHub if you found any issues with this template. I'll try my best to fix it. Thank you! 😊

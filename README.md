@@ -86,15 +86,15 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
 
-- [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators) (5 days ago)
+- [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators) (6 days ago)
 
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (1 week ago)
 
-- [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (1 week ago)
+- [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig) (2 weeks ago)
 
-- [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig) (1 week ago)
+- [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (2 weeks ago)
 
 #### 🌱 My latest projects
 

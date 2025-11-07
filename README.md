@@ -86,19 +86,21 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
+- [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone) (today)
+
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
 
 - [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators) (1 week ago)
 
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (1 week ago)
-
-- [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig) (2 weeks ago)
 
 - [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (2 weeks ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs.
 
@@ -107,8 +109,6 @@
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc)
 
 - [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig)
-
-- [dajneem23/learn-zig](https://github.com/dajneem23/learn-zig)
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
 

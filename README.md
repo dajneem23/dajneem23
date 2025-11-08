@@ -86,19 +86,21 @@
 
 
 
-- [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone) (today)
+- [dajneem23/rust-aes-decrypt](https://github.com/dajneem23/rust-aes-decrypt) (1 day ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
+- [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone) (1 day ago)
+
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
 
 - [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators) (1 week ago)
 
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (1 week ago)
 
-- [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig) (2 weeks ago)
-
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/rust-aes-decrypt](https://github.com/dajneem23/rust-aes-decrypt)
 
 - [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone)
 
@@ -107,8 +109,6 @@
 - [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators)
 
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc)
-
-- [dajneem23/codecrafters-shell-zig](https://github.com/dajneem23/codecrafters-shell-zig)
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
 

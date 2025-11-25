@@ -15,6 +15,12 @@
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
 
+"The strongest principle of growth lies in the human choice"
+- George Eliot
+
+"Education is not the learning of facts, but the training of the mind to think" 
+- Albert Einstein
+
 ---
 
 🔥 **Technologies in focus:**

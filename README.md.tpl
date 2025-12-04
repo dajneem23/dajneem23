@@ -88,6 +88,12 @@
 
 <img src="./metrics.plugin.stars.svg" />
 
+#### 💬 Latest commit message
+
+```
+{{latestCommitMessage}}
+```
+
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 5}}

@@ -60,9 +60,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
 [![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://github.com/dajneem23/dajneem23/actions/workflows/readme.yaml)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge-slim&logo=jenkins&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge-slim&logo=terraform&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge-slim&logo=nginx&logoColor=fff)
-
+![Treafik](https://img.shields.io/badge/Traefik-2496ED?style=for-the-badge-slim&logo=traefik&logoColor=fff)
 ---
 
 ⚒️ **Other Technologies**

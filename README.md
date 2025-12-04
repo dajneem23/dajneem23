@@ -102,25 +102,12 @@
 
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (3 weeks ago)
 
-Recent releases 
+#### 🎉 Recent releases
 
 
-Name: OpenZeppelin/openzeppelin-monitor
-Git Tag: v1.1.0
-URL: https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0
-Published: 1 month ago
-
-Name: DefiLlama/DefiLlama-Adapters
-Git Tag: latest
-URL: https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest
-Published: 1 month ago
-
-Name: apache/iggy
-Git Tag: server-0.5.0
-URL: https://github.com/apache/iggy/releases/tag/server-0.5.0
-Published: 3 months ago
-
-
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.5.0) - `server-0.5.0` (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -135,29 +122,6 @@ Published: 3 months ago
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs.
 
 - [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators)
-
-### 🚀 My RSS Feed
-<!-- placehodler -->
-
-Title: Ghostty is now non-profit
-URL: https://mitchellh.com/writing/ghostty-non-profit
-Published: 1 day ago
-
-Title: Valve reveals it’s the architect behind a push to bring Windows games to Arm
-URL: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
-Published: 2 days ago
-
-Title: Average DRAM price in USD over last 18 months
-URL: https://pcpartpicker.com/trends/price/memory/
-Published: today
-
-Title: Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
-URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
-Published: 1 day ago
-
-Title: Micron Announces Exit from Crucial Consumer Business
-URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
-Published: 1 day ago
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -226,6 +190,31 @@ Published: 1 day ago
   <img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
   <img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
 </details>
+
+
+### 🚀 My RSS Feed
+<!-- placehodler -->
+
+Title: Ghostty is now non-profit
+URL: https://mitchellh.com/writing/ghostty-non-profit
+Published: 1 day ago
+
+Title: Valve reveals it’s the architect behind a push to bring Windows games to Arm
+URL: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
+Published: 2 days ago
+
+Title: Average DRAM price in USD over last 18 months
+URL: https://pcpartpicker.com/trends/price/memory/
+Published: today
+
+Title: Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
+URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+Published: 1 day ago
+
+Title: Micron Announces Exit from Crucial Consumer Business
+URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+Published: 1 day ago
+
 
 ### NOTE
 

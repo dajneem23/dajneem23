@@ -74,7 +74,7 @@
 
 🎯 **My current learning**
 
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge-slim&logo=zig&logoColor=black)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge-slim&logo=zig&logoColor=black) [Zigling ⚡](https://github.com/dajneem23/ziglings)
 
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge-slim&logoColor=white)
 

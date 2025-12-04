@@ -95,15 +95,11 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-Recent releases 
+#### 🎉 Recent releases
 
 {{range recentReleases 5}}
-Name: {{.Name}}
-Git Tag: {{.LastRelease.TagName}}
-URL: {{.LastRelease.URL}}
-Published: {{humanize .LastRelease.PublishedAt}}
-{{end}}
-
+- [{{.Name}}]({{.LastRelease.URL}}) - `{{.LastRelease.TagName}}` ({{humanize .LastRelease.PublishedAt}})
+{{- end}}
 
 #### 🌱 My latest projects
 
@@ -112,13 +108,6 @@ Published: {{humanize .LastRelease.PublishedAt}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-### 🚀 My RSS Feed
-<!-- placehodler -->
-{{range rss "https://news.ycombinator.com/rss" 5}}
-Title: {{.Title}}
-URL: {{.URL}}
-Published: {{humanize .PublishedAt}}
-{{end}}
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
 
@@ -186,6 +175,15 @@ Published: {{humanize .PublishedAt}}
   <img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
   <img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
 </details>
+
+
+### 🚀 My RSS Feed
+<!-- placehodler -->
+{{range rss "https://news.ycombinator.com/rss" 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+Published: {{humanize .PublishedAt}}
+{{end}}
 
 ### NOTE
 

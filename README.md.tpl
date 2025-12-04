@@ -113,7 +113,8 @@ Published: {{humanize .LastRelease.PublishedAt}}
 {{- end}}
 
 ### 🚀 My RSS Feed
-{{range rss "https://domain.tld/feed.xml" 5}}
+<!-- placehodler -->
+{{range rss "https://news.ycombinator.com/rss" 5}}
 Title: {{.Title}}
 URL: {{.URL}}
 Published: {{humanize .PublishedAt}}

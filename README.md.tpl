@@ -88,12 +88,6 @@
 
 <img src="./metrics.plugin.stars.svg" />
 
-#### 💬 Latest commit message
-
-```
-{{latestCommitMessage}}
-```
-
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 5}}
@@ -101,12 +95,29 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
+Recent releases 
+
+{{range recentReleases 5}}
+Name: {{.Name}}
+Git Tag: {{.LastRelease.TagName}}
+URL: {{.LastRelease.URL}}
+Published: {{humanize .LastRelease.PublishedAt}}
+{{end}}
+
+
 #### 🌱 My latest projects
 
 {{range recentRepos 5}}
 
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
+
+### 🚀 My RSS Feed
+{{range rss "https://domain.tld/feed.xml" 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+Published: {{humanize .PublishedAt}}
+{{end}}
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
 

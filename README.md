@@ -15,6 +15,12 @@
 - 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
 - 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
 
+"The strongest principle of growth lies in the human choice"
+- George Eliot
+
+"Education is not the learning of facts, but the training of the mind to think" 
+- Albert Einstein
+
 ---
 
 🔥 **Technologies in focus:**
@@ -86,19 +92,21 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (today)
 
-- [dajneem23/rust-aes-decrypt](https://github.com/dajneem23/rust-aes-decrypt) (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 days ago)
 
-- [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone) (3 days ago)
+- [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (2 weeks ago)
 
-- [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators) (1 week ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
 
-- [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (2 weeks ago)
+- [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (3 weeks ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC)
 
 - [dajneem23/rust-aes-decrypt](https://github.com/dajneem23/rust-aes-decrypt)
 
@@ -107,8 +115,6 @@
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs.
 
 - [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators)
-
-- [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc)
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
 

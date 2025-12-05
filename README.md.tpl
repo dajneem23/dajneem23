@@ -135,6 +135,14 @@
   style="display: inline; width: 320px;"
 />
 
+<img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
+
+<img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
+
+
+
+
+
 ### How to contact me?
 
 [<img align="left" width="32px" src=""                alt="" style="padding-top: 4px;" />][website]
@@ -182,11 +190,6 @@ Published: {{humanize .PublishedAt}}
 ```
 <br/>
 <br/>
-
-<img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
-
-<img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
-
 
 
 ### NOTE

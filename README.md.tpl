@@ -171,21 +171,23 @@
 <br/>
 <br/>
 
-<details>
-  <summary>My personal GitHub Metrics</summary>
-  <br/>
-  <img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
-  <img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
-</details>
-
-
 ### 🚀 My RSS Feed
 <!-- placehodler -->
+```
 {{range rss "https://news.ycombinator.com/rss" 5}}
 Title: {{.Title}}
 URL: {{.URL}}
 Published: {{humanize .PublishedAt}}
 {{end}}
+```
+<br/>
+<br/>
+
+<img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
+
+<img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
+
+
 
 ### NOTE
 

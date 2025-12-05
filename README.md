@@ -60,9 +60,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
 [![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge)](https://github.com/dajneem23/dajneem23/actions/workflows/readme.yaml)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge-slim&logo=jenkins&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge-slim&logo=terraform&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge-slim&logo=nginx&logoColor=fff)
-
+![Treafik](https://img.shields.io/badge/Traefik-2496ED?style=for-the-badge-slim&logo=traefik&logoColor=fff)
 ---
 
 ⚒️ **Other Technologies**
@@ -184,36 +186,38 @@
 <br/>
 <br/>
 
-<details>
-  <summary>My personal GitHub Metrics</summary>
-  <br/>
-  <img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
-  <img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
-</details>
-
-
 ### 🚀 My RSS Feed
 <!-- placehodler -->
+```
 
-Title: SMS phishers pivot to points, taxes, fake retailers
-URL: https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/
+Title: Netflix’s AV1 Journey: From Android to TVs and Beyond
+URL: https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80
+Published: today
+
+Title: BMW PHEV: Safety fuse replacement is extremely expensive
+URL: https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/
+Published: today
+
+Title: I have been writing a niche history blog for 15 years
+URL: https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history
 Published: 1 day ago
 
-Title: CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL
-URL: https://github.com/deepreinforce-ai/CUDA-L2
-Published: 1 day ago
+Title: Trick users and bypass warnings – Modern SVG Clickjacking attacks
+URL: https://lyra.horse/blog/2025/12/svg-clickjacking/
+Published: today
 
-Title: Multivox: Volumetric Display
-URL: https://github.com/AncientJames/multivox
-Published: 1 day ago
+Title: After 40 years of adventure games, Ron Gilbert pivots to outrunning Death
+URL: https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/
+Published: 4 days ago
 
-Title: State of AI: An Empirical 100T Token Study with OpenRouter
-URL: https://openrouter.ai/state-of-ai
-Published: 1 day ago
+```
+<br/>
+<br/>
 
-Title: Thoughts on Go vs. Rust vs. Zig
-URL: https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
-Published: 1 day ago
+<img src="./github_metrics_01.svg" alt="GitHub Metrics 1" />
+
+<img src="./github_metrics_02.svg" alt="GitHub Metrics 2" />
+
 
 
 ### NOTE

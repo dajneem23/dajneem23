@@ -92,13 +92,13 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (today)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 days ago)
 
 - [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (2 weeks ago)
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
 
 - [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (3 weeks ago)
 
@@ -195,24 +195,24 @@
 ### 🚀 My RSS Feed
 <!-- placehodler -->
 
-Title: Ghostty is now non-profit
-URL: https://mitchellh.com/writing/ghostty-non-profit
+Title: SMS phishers pivot to points, taxes, fake retailers
+URL: https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/
 Published: 1 day ago
 
-Title: Valve reveals it’s the architect behind a push to bring Windows games to Arm
-URL: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
-Published: 2 days ago
-
-Title: Average DRAM price in USD over last 18 months
-URL: https://pcpartpicker.com/trends/price/memory/
-Published: today
-
-Title: Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
-URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+Title: CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL
+URL: https://github.com/deepreinforce-ai/CUDA-L2
 Published: 1 day ago
 
-Title: Micron Announces Exit from Crucial Consumer Business
-URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+Title: Multivox: Volumetric Display
+URL: https://github.com/AncientJames/multivox
+Published: 1 day ago
+
+Title: State of AI: An Empirical 100T Token Study with OpenRouter
+URL: https://openrouter.ai/state-of-ai
+Published: 1 day ago
+
+Title: Thoughts on Go vs. Rust vs. Zig
+URL: https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
 Published: 1 day ago
 
 

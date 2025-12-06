@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (4 days ago)
 
 - [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (2 weeks ago)
 
@@ -107,9 +107,9 @@
 #### 🎉 Recent releases
 
 
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.5.0) - `server-0.5.0` (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Netflix’s AV1 Journey: From Android to TVs and Beyond
-URL: https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80
-Published: today
-
-Title: BMW PHEV: Safety fuse replacement is extremely expensive
-URL: https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/
-Published: today
-
-Title: I have been writing a niche history blog for 15 years
-URL: https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history
+Title: Netflix to Acquire Warner Bros
+URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros
 Published: 1 day ago
 
-Title: Trick users and bypass warnings – Modern SVG Clickjacking attacks
-URL: https://lyra.horse/blog/2025/12/svg-clickjacking/
-Published: today
+Title: Cloudflare outage on December 5, 2025
+URL: https://blog.cloudflare.com/5-december-2025-outage/
+Published: 1 day ago
 
-Title: After 40 years of adventure games, Ron Gilbert pivots to outrunning Death
-URL: https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/
-Published: 4 days ago
+Title: Gemini 3 Pro: the frontier of vision AI
+URL: https://blog.google/technology/developers/gemini-3-pro-vision/
+Published: 1 day ago
+
+Title: Idempotency Keys for Exactly-Once Processing
+URL: https://www.morling.dev/blog/on-idempotency-keys/
+Published: 5 days ago
+
+Title: Fizz Buzz in CSS
+URL: https://susam.net/fizz-buzz-in-css.html
+Published: 1 day ago
 
 ```
 <br/>

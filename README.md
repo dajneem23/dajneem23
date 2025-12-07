@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (5 days ago)
 
 - [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (2 weeks ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Netflix to Acquire Warner Bros
-URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros
+Title: Screenshots from developers: 2002 vs. 2015 (2015)
+URL: https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/
 Published: 1 day ago
 
-Title: Cloudflare outage on December 5, 2025
-URL: https://blog.cloudflare.com/5-december-2025-outage/
+Title: Zebra-Llama: Towards Efficient Hybrid Models
+URL: https://arxiv.org/abs/2505.17272
 Published: 1 day ago
 
-Title: Gemini 3 Pro: the frontier of vision AI
-URL: https://blog.google/technology/developers/gemini-3-pro-vision/
+Title: GrapheneOS is the only Android OS providing full security patches
+URL: https://grapheneos.social/@GrapheneOS/115647408229616018
 Published: 1 day ago
 
-Title: Idempotency Keys for Exactly-Once Processing
-URL: https://www.morling.dev/blog/on-idempotency-keys/
-Published: 5 days ago
+Title: Tiny Core Linux: a 23 MB Linux distro with graphical desktop
+URL: http://www.tinycorelinux.net/
+Published: 1 day ago
 
-Title: Fizz Buzz in CSS
-URL: https://susam.net/fizz-buzz-in-css.html
+Title: United States Antarctic Program Field Manual (2024) [pdf]
+URL: https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf
 Published: 1 day ago
 
 ```

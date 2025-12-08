@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 days ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (6 days ago)
 
-- [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (2 weeks ago)
+- [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (3 weeks ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Screenshots from developers: 2002 vs. 2015 (2015)
-URL: https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/
+Title: I failed to recreate the 1996 Space Jam Website with Claude
+URL: https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/
 Published: 1 day ago
 
-Title: Zebra-Llama: Towards Efficient Hybrid Models
-URL: https://arxiv.org/abs/2505.17272
+Title: Evidence from the One Laptop per Child Program in Rural Peru
+URL: https://www.nber.org/papers/w34495
 Published: 1 day ago
 
-Title: GrapheneOS is the only Android OS providing full security patches
-URL: https://grapheneos.social/@GrapheneOS/115647408229616018
+Title: Mechanical power generation using Earth's ambient radiation
+URL: https://www.science.org/doi/10.1126/sciadv.adw6833
 Published: 1 day ago
 
-Title: Tiny Core Linux: a 23 MB Linux distro with graphical desktop
-URL: http://www.tinycorelinux.net/
+Title: The C++ standard for the F-35 Fighter Jet [video]
+URL: https://www.youtube.com/watch?v=Gv4sDL9Ljww
 Published: 1 day ago
 
-Title: United States Antarctic Program Field Manual (2024) [pdf]
-URL: https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf
+Title: Google Titans architecture, helping AI have long-term memory
+URL: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
 Published: 1 day ago
 
 ```

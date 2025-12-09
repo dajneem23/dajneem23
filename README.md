@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 days ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (1 day ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (6 days ago)
+- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (1 day ago)
+
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (5 days ago)
+
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
 
 - [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (3 weeks ago)
-
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
-
-- [dajneem23/milksad-poc](https://github.com/dajneem23/milksad-poc) (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
 
@@ -115,15 +115,15 @@
 
 
 
+- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability
+
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25.
+
 - [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC)
 
 - [dajneem23/rust-aes-decrypt](https://github.com/dajneem23/rust-aes-decrypt)
 
 - [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone)
-
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs.
-
-- [dajneem23/rust-random-pseudorandom-number-generators](https://github.com/dajneem23/rust-random-pseudorandom-number-generators)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: I failed to recreate the 1996 Space Jam Website with Claude
-URL: https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/
+Title: Jepsen: NATS 2.12.1
+URL: https://jepsen.io/analyses/nats-2.12.1
 Published: 1 day ago
 
-Title: Evidence from the One Laptop per Child Program in Rural Peru
-URL: https://www.nber.org/papers/w34495
+Title: Icons in Menus Everywhere – Send Help
+URL: https://blog.jim-nielsen.com/2025/icons-in-menus/
 Published: 1 day ago
 
-Title: Mechanical power generation using Earth's ambient radiation
-URL: https://www.science.org/doi/10.1126/sciadv.adw6833
+Title: Strong earthquake hits northern Japan, tsunami warning issued
+URL: https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/
 Published: 1 day ago
 
-Title: The C++ standard for the F-35 Fighter Jet [video]
-URL: https://www.youtube.com/watch?v=Gv4sDL9Ljww
+Title: Kroger acknowledges that its bet on robotics went too far
+URL: https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/
 Published: 1 day ago
 
-Title: Google Titans architecture, helping AI have long-term memory
-URL: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
+Title: AMD GPU Debugger
+URL: https://thegeeko.me/blog/amd-gpu-debugging/
 Published: 1 day ago
 
 ```

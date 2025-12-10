@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (1 day ago)
+- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (2 days ago)
 
-- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (1 day ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (2 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (5 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (6 days ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Jepsen: NATS 2.12.1
-URL: https://jepsen.io/analyses/nats-2.12.1
+Title: Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
+URL: https://dosaygo-studio.github.io/hn-front-page-2035/news
 Published: 1 day ago
 
-Title: Icons in Menus Everywhere – Send Help
-URL: https://blog.jim-nielsen.com/2025/icons-in-menus/
+Title: PeerTube is recognized as a digital public good by Digital Public Goods Alliance
+URL: https://www.digitalpublicgoods.net/r/peertube
 Published: 1 day ago
 
-Title: Strong earthquake hits northern Japan, tsunami warning issued
-URL: https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/
+Title: Django: what’s new in 6.0
+URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 Published: 1 day ago
 
-Title: Kroger acknowledges that its bet on robotics went too far
-URL: https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/
+Title: Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI
+URL: https://mistral.ai/news/devstral-2-vibe-cli
 Published: 1 day ago
 
-Title: AMD GPU Debugger
-URL: https://thegeeko.me/blog/amd-gpu-debugging/
+Title: If you're going to vibe code, why not do it in C?
+URL: https://stephenramsay.net/posts/vibe-coding.html
 Published: 1 day ago
 
 ```

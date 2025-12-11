@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (2 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
 
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (2 days ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (3 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (6 days ago)
+- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (3 days ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
-URL: https://dosaygo-studio.github.io/hn-front-page-2035/news
+Title: Size of Life
+URL: https://neal.fun/size-of-life/
 Published: 1 day ago
 
-Title: PeerTube is recognized as a digital public good by Digital Public Goods Alliance
-URL: https://www.digitalpublicgoods.net/r/peertube
+Title: Australia begins enforcing world-first teen social media ban
+URL: https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/
+Published: 2 days ago
+
+Title: Getting a Gemini API key is an exercise in frustration
+URL: https://ankursethi.com/blog/gemini-api-key-frustration/
 Published: 1 day ago
 
-Title: Django: what’s new in 6.0
-URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+Title: Auto-grading decade-old Hacker News discussions with hindsight
+URL: https://karpathy.bearblog.dev/auto-grade-hn/
 Published: 1 day ago
 
-Title: Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI
-URL: https://mistral.ai/news/devstral-2-vibe-cli
-Published: 1 day ago
-
-Title: If you're going to vibe code, why not do it in C?
-URL: https://stephenramsay.net/posts/vibe-coding.html
+Title: Super Mario 64 for the PS1
+URL: https://github.com/malucard/sm64-psx
 Published: 1 day ago
 
 ```

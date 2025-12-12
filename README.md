@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 day ago)
 
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (3 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 day ago)
 
-- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (3 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (4 days ago)
 
-- [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC) (3 weeks ago)
+- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (4 days ago)
 
 #### 🎉 Recent releases
 
@@ -115,15 +115,15 @@
 
 
 
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection
+
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758)
+
 - [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability
 
 - [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25.
 
 - [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC)
-
-- [dajneem23/rust-aes-decrypt](https://github.com/dajneem23/rust-aes-decrypt)
-
-- [dajneem23/neox-clone](https://github.com/dajneem23/neox-clone)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Size of Life
-URL: https://neal.fun/size-of-life/
+Title: GPT-5.2
+URL: https://openai.com/index/introducing-gpt-5-2/
 Published: 1 day ago
 
-Title: Australia begins enforcing world-first teen social media ban
-URL: https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/
-Published: 2 days ago
-
-Title: Getting a Gemini API key is an exercise in frustration
-URL: https://ankursethi.com/blog/gemini-api-key-frustration/
+Title: Denial of service and source code exposure in React Server Components
+URL: https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components
 Published: 1 day ago
 
-Title: Auto-grading decade-old Hacker News discussions with hindsight
-URL: https://karpathy.bearblog.dev/auto-grade-hn/
+Title: Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free
+URL: https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/
 Published: 1 day ago
 
-Title: Super Mario 64 for the PS1
-URL: https://github.com/malucard/sm64-psx
+Title: The highest quality codebase
+URL: https://gricha.dev/blog/the-highest-quality-codebase
+Published: 4 days ago
+
+Title: An SVG is all you need
+URL: https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html
 Published: 1 day ago
 
 ```

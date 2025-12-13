@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 day ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 day ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 day ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (2 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (2 days ago)
 
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (4 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
 
-- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability (4 days ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (5 days ago)
 
 #### 🎉 Recent releases
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: GPT-5.2
-URL: https://openai.com/index/introducing-gpt-5-2/
+Title: macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
+URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
 Published: 1 day ago
 
-Title: Denial of service and source code exposure in React Server Components
-URL: https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components
+Title: GNU Unifont
+URL: https://unifoundry.com/unifont/index.html
 Published: 1 day ago
 
-Title: Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free
-URL: https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/
+Title: Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig
+URL: https://github.com/ringtailsoftware/uvm32
 Published: 1 day ago
 
-Title: The highest quality codebase
-URL: https://gricha.dev/blog/the-highest-quality-codebase
-Published: 4 days ago
-
-Title: An SVG is all you need
-URL: https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html
+Title: Rats Play DOOM
+URL: https://ratsplaydoom.com/
 Published: 1 day ago
+
+Title: Show HN: I made a spreadsheet where formulas also update backwards
+URL: https://victorpoughon.github.io/bidicalc/
+Published: 2 days ago
 
 ```
 <br/>

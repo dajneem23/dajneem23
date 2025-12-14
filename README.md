@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 day ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 days ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (2 days ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (3 days ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (2 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 days ago)
 
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (5 days ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (6 days ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
-URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
+Title: Linux Sandboxes and Fil-C
+URL: https://fil-c.org/seccomp
 Published: 1 day ago
 
-Title: GNU Unifont
-URL: https://unifoundry.com/unifont/index.html
+Title: Why Twilio Segment moved from microservices back to a monolith
+URL: https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices
 Published: 1 day ago
 
-Title: Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig
-URL: https://github.com/ringtailsoftware/uvm32
+Title: Closures as Win32 Window Procedures
+URL: https://nullprogram.com/blog/2025/12/12/
 Published: 1 day ago
 
-Title: Rats Play DOOM
-URL: https://ratsplaydoom.com/
+Title: Recovering Anthony Bourdain's (really) lost Li.st's
+URL: https://sandyuraz.com/blogs/bourdain/
 Published: 1 day ago
 
-Title: Show HN: I made a spreadsheet where formulas also update backwards
-URL: https://victorpoughon.github.io/bidicalc/
-Published: 2 days ago
+Title: VPN location claims don't match real traffic exits
+URL: https://ipinfo.io/blog/vpn-location-mismatch-report
+Published: 1 day ago
 
 ```
 <br/>

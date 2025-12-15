@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 days ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (3 days ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (4 days ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (4 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (5 days ago)
 
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (6 days ago)
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (1 week ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Linux Sandboxes and Fil-C
-URL: https://fil-c.org/seccomp
+Title: Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services
+URL: https://status.claude.com/incidents/9g6qpr72ttbr
 Published: 1 day ago
 
-Title: Why Twilio Segment moved from microservices back to a monolith
-URL: https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices
+Title: 2002: Last.fm and Audioscrobbler Herald the Social Web
+URL: https://cybercultural.com/p/lastfm-audioscrobbler-2002/
 Published: 1 day ago
 
-Title: Closures as Win32 Window Procedures
-URL: https://nullprogram.com/blog/2025/12/12/
+Title: JSDoc is TypeScript
+URL: https://culi.bearblog.dev/jsdoc-is-typescript/
 Published: 1 day ago
 
-Title: Recovering Anthony Bourdain's (really) lost Li.st's
-URL: https://sandyuraz.com/blogs/bourdain/
+Title: Hashcards: A plain-text spaced repetition system
+URL: https://borretti.me/article/hashcards-plain-text-spaced-repetition
 Published: 1 day ago
 
-Title: VPN location claims don't match real traffic exits
-URL: https://ipinfo.io/blog/vpn-location-mismatch-report
+Title: Claude CLI deleted my home directory Wiped my whole Mac
+URL: https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/
 Published: 1 day ago
 
 ```

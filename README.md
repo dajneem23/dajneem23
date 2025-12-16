@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 days ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (4 days ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (5 days ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (4 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (5 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (5 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (6 days ago)
 
 - [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (1 week ago)
 
@@ -109,7 +109,7 @@
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 month ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services
-URL: https://status.claude.com/incidents/9g6qpr72ttbr
+Title: Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable
+URL: https://johnlian.net/posts/hdmi-cec/
 Published: 1 day ago
 
-Title: 2002: Last.fm and Audioscrobbler Herald the Social Web
-URL: https://cybercultural.com/p/lastfm-audioscrobbler-2002/
+Title: Nature's many attempts to evolve a Nostr
+URL: https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a
+Published: 6 days ago
+
+Title: “Are you the one?” is free money
+URL: https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/
+Published: 4 days ago
+
+Title: A kernel bug froze my machine: Debugging an async-profiler deadlock
+URL: https://questdb.com/blog/async-profiler-kernel-bug/
 Published: 1 day ago
 
-Title: JSDoc is TypeScript
-URL: https://culi.bearblog.dev/jsdoc-is-typescript/
-Published: 1 day ago
-
-Title: Hashcards: A plain-text spaced repetition system
-URL: https://borretti.me/article/hashcards-plain-text-spaced-repetition
-Published: 1 day ago
-
-Title: Claude CLI deleted my home directory Wiped my whole Mac
-URL: https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/
-Published: 1 day ago
+Title: Essential Semiconductor Physics [pdf]
+URL: https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
+Published: 3 days ago
 
 ```
 <br/>

@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (5 days ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (5 days ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (6 days ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (5 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (6 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (6 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
 - [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (1 week ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable
-URL: https://johnlian.net/posts/hdmi-cec/
+Title: AI will make formal verification go mainstream
+URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
 Published: 1 day ago
 
-Title: Nature's many attempts to evolve a Nostr
-URL: https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a
-Published: 6 days ago
-
-Title: “Are you the one?” is free money
-URL: https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/
-Published: 4 days ago
-
-Title: A kernel bug froze my machine: Debugging an async-profiler deadlock
-URL: https://questdb.com/blog/async-profiler-kernel-bug/
+Title: alpr.watch
+URL: https://alpr.watch/
 Published: 1 day ago
 
-Title: Essential Semiconductor Physics [pdf]
-URL: https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
-Published: 3 days ago
+Title: No Graphics API
+URL: https://www.sebastianaaltonen.com/blog/no-graphics-api
+Published: 1 day ago
+
+Title: Ty: A fast Python type checker and LSP
+URL: https://astral.sh/blog/ty
+Published: 1 day ago
+
+Title: GPT Image 1.5
+URL: https://openai.com/index/new-chatgpt-images-is-here/
+Published: 1 day ago
 
 ```
 <br/>

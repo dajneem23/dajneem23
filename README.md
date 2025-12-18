@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (5 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (6 days ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (6 days ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (6 days ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 week ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: AI will make formal verification go mainstream
-URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+Title: Gemini 3 Flash: Frontier intelligence built for speed
+URL: https://blog.google/products/gemini/gemini-3-flash/
 Published: 1 day ago
 
-Title: alpr.watch
-URL: https://alpr.watch/
+Title: Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE
+URL: https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/
 Published: 1 day ago
 
-Title: No Graphics API
-URL: https://www.sebastianaaltonen.com/blog/no-graphics-api
+Title: Coursera to combine with Udemy
+URL: https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
 Published: 1 day ago
 
-Title: Ty: A fast Python type checker and LSP
-URL: https://astral.sh/blog/ty
+Title: I got hacked: My Hetzner server started mining Monero
+URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
 Published: 1 day ago
 
-Title: GPT Image 1.5
-URL: https://openai.com/index/new-chatgpt-images-is-here/
+Title: AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
+URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
 Published: 1 day ago
 
 ```

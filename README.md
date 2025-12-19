@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (6 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 3 Flash: Frontier intelligence built for speed
-URL: https://blog.google/products/gemini/gemini-3-flash/
+Title: Beginning January 2026, all ACM publications will be made open access
+URL: https://dl.acm.org/openaccess
 Published: 1 day ago
 
-Title: Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE
-URL: https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/
+Title: We pwned X, Vercel, Cursor, and Discord through a supply-chain attack
+URL: https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
 Published: 1 day ago
 
-Title: Coursera to combine with Udemy
-URL: https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
+Title: 1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5
+URL: https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
 Published: 1 day ago
 
-Title: I got hacked: My Hetzner server started mining Monero
-URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
+Title: Trained LLMs exclusively on pre-1913 texts
+URL: https://github.com/DGoettlich/history-llms
 Published: 1 day ago
 
-Title: AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
-URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
-Published: 1 day ago
+Title: Texas is suing all of the big TV makers for spying on what you watch
+URL: https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
+Published: 3 days ago
 
 ```
 <br/>

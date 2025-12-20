@@ -94,6 +94,8 @@
 
 
 
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 day ago)
+
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
@@ -101,8 +103,6 @@
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 week ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
-
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25. (1 week ago)
 
 #### 🎉 Recent releases
 
@@ -115,6 +115,8 @@
 
 
 
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)
+
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758)
@@ -122,8 +124,6 @@
 - [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability
 
 - [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25.
-
-- [dajneem23/Bleichenbacher-CCA-attack-POC](https://github.com/dajneem23/Bleichenbacher-CCA-attack-POC)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Beginning January 2026, all ACM publications will be made open access
-URL: https://dl.acm.org/openaccess
+Title: CSS Grid Lanes
+URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/
 Published: 1 day ago
 
-Title: We pwned X, Vercel, Cursor, and Discord through a supply-chain attack
-URL: https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+Title: Mistral OCR 3
+URL: https://mistral.ai/news/mistral-ocr-3
+Published: 2 days ago
+
+Title: A Better Zip Bomb
+URL: https://www.bamsoftware.com/hacks/zipbomb/
 Published: 1 day ago
 
-Title: 1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5
-URL: https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
+Title: Garage – An S3 object store so reliable you can run it outside datacenters
+URL: https://garagehq.deuxfleurs.fr/
 Published: 1 day ago
 
-Title: Trained LLMs exclusively on pre-1913 texts
-URL: https://github.com/DGoettlich/history-llms
+Title: TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy
+URL: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
 Published: 1 day ago
-
-Title: Texas is suing all of the big TV makers for spying on what you watch
-URL: https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
-Published: 3 days ago
 
 ```
 <br/>

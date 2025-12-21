@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 day ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (2 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
-
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 week ago)
+
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: CSS Grid Lanes
-URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/
+Title: Backing Up Spotify
+URL: https://annas-archive.li/blog/backing-up-spotify.html
 Published: 1 day ago
 
-Title: Mistral OCR 3
-URL: https://mistral.ai/news/mistral-ocr-3
-Published: 2 days ago
-
-Title: A Better Zip Bomb
-URL: https://www.bamsoftware.com/hacks/zipbomb/
+Title: Ireland’s Diarmuid Early wins world Microsoft Excel title
+URL: https://www.bbc.com/news/articles/cj4qzgvxxgvo
 Published: 1 day ago
 
-Title: Garage – An S3 object store so reliable you can run it outside datacenters
-URL: https://garagehq.deuxfleurs.fr/
+Title: Show HN: Jmail – Google Suite for Epstein files
+URL: https://www.jmail.world
 Published: 1 day ago
 
-Title: TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy
-URL: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
+Title: Claude in Chrome
+URL: https://claude.com/chrome
+Published: 1 day ago
+
+Title: Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates
+URL: https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html
 Published: 1 day ago
 
 ```

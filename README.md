@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (2 days ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Backing Up Spotify
-URL: https://annas-archive.li/blog/backing-up-spotify.html
+Title: A guide to local coding models
+URL: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
 Published: 1 day ago
 
-Title: Ireland’s Diarmuid Early wins world Microsoft Excel title
-URL: https://www.bbc.com/news/articles/cj4qzgvxxgvo
+Title: Show HN: Books mentioned on Hacker News in 2025
+URL: https://hackernews-readings-613604506318.us-west1.run.app
 Published: 1 day ago
 
-Title: Show HN: Jmail – Google Suite for Epstein files
-URL: https://www.jmail.world
+Title: I'm just having fun
+URL: https://jyn.dev/i-m-just-having-fun/
+Published: 6 days ago
+
+Title: More on whether useful quantum computing is “imminent”
+URL: https://scottaaronson.blog/?p=9425
 Published: 1 day ago
 
-Title: Claude in Chrome
-URL: https://claude.com/chrome
-Published: 1 day ago
-
-Title: Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates
-URL: https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html
+Title: Rue: Higher level than Rust, lower level than Go
+URL: https://rue-lang.dev/
 Published: 1 day ago
 
 ```

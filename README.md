@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 days ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (4 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: A guide to local coding models
-URL: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+Title: NPM Package with 56K Downloads Caught Stealing WhatsApp Messages
+URL: https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages
 Published: 1 day ago
 
-Title: Show HN: Books mentioned on Hacker News in 2025
-URL: https://hackernews-readings-613604506318.us-west1.run.app
+Title: The Illustrated Transformer
+URL: https://jalammar.github.io/illustrated-transformer/
 Published: 1 day ago
 
-Title: I'm just having fun
-URL: https://jyn.dev/i-m-just-having-fun/
-Published: 6 days ago
-
-Title: More on whether useful quantum computing is “imminent”
-URL: https://scottaaronson.blog/?p=9425
+Title: Ultrasound Cancer Treatment: Sound Waves Fight Tumors
+URL: https://spectrum.ieee.org/ultrasound-cancer-treatment
 Published: 1 day ago
 
-Title: Rue: Higher level than Rust, lower level than Go
-URL: https://rue-lang.dev/
+Title: It's Always TCP_NODELAY
+URL: https://brooker.co.za/blog/2024/05/09/nagle.html
+Published: 1 day ago
+
+Title: GLM-4.7: Advancing the Coding Capability
+URL: https://z.ai/blog/glm-4.7
 Published: 1 day ago
 
 ```

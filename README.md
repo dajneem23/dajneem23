@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (4 days ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (5 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
@@ -102,12 +102,12 @@
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: NPM Package with 56K Downloads Caught Stealing WhatsApp Messages
-URL: https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages
+Title: Fabrice Bellard Releases MicroQuickJS
+URL: https://github.com/bellard/mquickjs/blob/main/README.md
 Published: 1 day ago
 
-Title: The Illustrated Transformer
-URL: https://jalammar.github.io/illustrated-transformer/
+Title: X-ray: a Python library for finding bad redactions in PDF documents
+URL: https://github.com/freelawproject/x-ray
 Published: 1 day ago
 
-Title: Ultrasound Cancer Treatment: Sound Waves Fight Tumors
-URL: https://spectrum.ieee.org/ultrasound-cancer-treatment
+Title: Texas app store age verification law blocked by federal judge
+URL: https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
 Published: 1 day ago
 
-Title: It's Always TCP_NODELAY
-URL: https://brooker.co.za/blog/2024/05/09/nagle.html
+Title: Is Northern Virginia Still the Least Reliable AWS Region?
+URL: https://statusgator.com/blog/aws-least-reliable-region-in-2025/
 Published: 1 day ago
 
-Title: GLM-4.7: Advancing the Coding Capability
-URL: https://z.ai/blog/glm-4.7
-Published: 1 day ago
+Title: Perfect Software – Software for an Audience of One
+URL: https://outofdesk.netlify.app/blog/perfect-software
+Published: 4 days ago
 
 ```
 <br/>

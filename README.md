@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (5 days ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (6 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 week ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (2 weeks ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 week ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (2 weeks ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 weeks ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Fabrice Bellard Releases MicroQuickJS
-URL: https://github.com/bellard/mquickjs/blob/main/README.md
+Title: Phoenix: A modern X server written from scratch in Zig
+URL: https://git.dec05eba.com/phoenix/about/
 Published: 1 day ago
 
-Title: X-ray: a Python library for finding bad redactions in PDF documents
-URL: https://github.com/freelawproject/x-ray
+Title: Tell HN: Merry Christmas
+URL: https://news.ycombinator.com/item?id=46380168
 Published: 1 day ago
 
-Title: Texas app store age verification law blocked by federal judge
-URL: https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
+Title: Show HN: Minimalist editor that lives in browser, stores everything in the URL
+URL: https://github.com/antonmedv/textarea
 Published: 1 day ago
 
-Title: Is Northern Virginia Still the Least Reliable AWS Region?
-URL: https://statusgator.com/blog/aws-least-reliable-region-in-2025/
+Title: Fabrice Bellard: Biography (2009) [pdf]
+URL: https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf
 Published: 1 day ago
 
-Title: Perfect Software – Software for an Audience of One
-URL: https://outofdesk.netlify.app/blog/perfect-software
-Published: 4 days ago
+Title: CSRF protection without tokens or hidden form fields
+URL: https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
+Published: 3 days ago
 
 ```
 <br/>

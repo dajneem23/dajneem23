@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (6 days ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 week ago)
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
 
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Phoenix: A modern X server written from scratch in Zig
-URL: https://git.dec05eba.com/phoenix/about/
+Title: Maybe the Default Settings Are Too High
+URL: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
 Published: 1 day ago
 
-Title: Tell HN: Merry Christmas
-URL: https://news.ycombinator.com/item?id=46380168
+Title: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster
+URL: https://fidget-spinner.github.io/posts/no-longer-sorry.html
 Published: 1 day ago
 
-Title: Show HN: Minimalist editor that lives in browser, stores everything in the URL
-URL: https://github.com/antonmedv/textarea
+Title: The entire New Yorker archive is now digitized
+URL: https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized
+Published: 6 days ago
+
+Title: Memory Safety
+URL: https://www.memorysafety.org/
 Published: 1 day ago
 
-Title: Fabrice Bellard: Biography (2009) [pdf]
-URL: https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf
-Published: 1 day ago
-
-Title: CSRF protection without tokens or hidden form fields
-URL: https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
-Published: 3 days ago
+Title: CUDA Tile Open Sourced
+URL: https://github.com/NVIDIA/cuda-tile
+Published: 1 week ago
 
 ```
 <br/>

@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Maybe the Default Settings Are Too High
-URL: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
+Title: How uv got so fast
+URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
 Published: 1 day ago
 
-Title: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster
-URL: https://fidget-spinner.github.io/posts/no-longer-sorry.html
+Title: The Best Things and Stuff of 2025
+URL: https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html
+Published: 4 days ago
+
+Title: Experts explore new mushroom which causes fairytale-like hallucinations
+URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
 Published: 1 day ago
 
-Title: The entire New Yorker archive is now digitized
-URL: https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized
-Published: 6 days ago
-
-Title: Memory Safety
-URL: https://www.memorysafety.org/
+Title: How Lewis Carroll computed determinants (2023)
+URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/
 Published: 1 day ago
 
-Title: CUDA Tile Open Sourced
-URL: https://github.com/NVIDIA/cuda-tile
-Published: 1 week ago
+Title: Drawing with zero-width characters
+URL: https://zw.swerdlow.dev
+Published: 1 day ago
 
 ```
 <br/>

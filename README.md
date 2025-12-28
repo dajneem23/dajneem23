@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (4 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: How uv got so fast
-URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+Title: How we lost communication to entertainment
+URL: https://ploum.net/2025-12-15-communication-entertainment.html
 Published: 1 day ago
 
-Title: The Best Things and Stuff of 2025
-URL: https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html
-Published: 4 days ago
-
-Title: Experts explore new mushroom which causes fairytale-like hallucinations
-URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
+Title: Floor796
+URL: https://floor796.com/
 Published: 1 day ago
 
-Title: How Lewis Carroll computed determinants (2023)
-URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/
+Title: Gpg.fail
+URL: https://gpg.fail
 Published: 1 day ago
 
-Title: Drawing with zero-width characters
-URL: https://zw.swerdlow.dev
+Title: Windows 2 for the Apricot PC/Xi
+URL: https://www.ninakalinina.com/notes/win2apri/
 Published: 1 day ago
+
+Title: Project Vend: Phase Two
+URL: https://www.anthropic.com/research/project-vend-2
+Published: 6 days ago
 
 ```
 <br/>

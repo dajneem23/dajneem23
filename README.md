@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (5 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: How we lost communication to entertainment
-URL: https://ploum.net/2025-12-15-communication-entertainment.html
+Title: What an unprocessed photo looks like
+URL: https://maurycyz.com/misc/raw_photo/
 Published: 1 day ago
 
-Title: Floor796
-URL: https://floor796.com/
+Title: Stepping down as Mockito maintainer after 10 years
+URL: https://github.com/mockito/mockito/issues/3777
 Published: 1 day ago
 
-Title: Gpg.fail
-URL: https://gpg.fail
+Title: Unity's Mono problem: Why your C# code runs slower than it should
+URL: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
 Published: 1 day ago
 
-Title: Windows 2 for the Apricot PC/Xi
-URL: https://www.ninakalinina.com/notes/win2apri/
+Title: 62 years in the making: NYC's newest water tunnel nears the finish line
+URL: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
 Published: 1 day ago
 
-Title: Project Vend: Phase Two
-URL: https://www.anthropic.com/research/project-vend-2
-Published: 6 days ago
+Title: PySDR: A Guide to SDR and DSP Using Python
+URL: https://pysdr.org/content/intro.html
+Published: 1 day ago
 
 ```
 <br/>

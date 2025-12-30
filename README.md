@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: What an unprocessed photo looks like
-URL: https://maurycyz.com/misc/raw_photo/
+Title: Google is dead. Where do we go now?
+URL: https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/
 Published: 1 day ago
 
-Title: Stepping down as Mockito maintainer after 10 years
-URL: https://github.com/mockito/mockito/issues/3777
+Title: Show HN: Stop Claude Code from forgetting everything
+URL: https://github.com/mutable-state-inc/ensue-skill
 Published: 1 day ago
 
-Title: Unity's Mono problem: Why your C# code runs slower than it should
-URL: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
+Title: Parsing Advances
+URL: https://matklad.github.io/2025/12/28/parsing-advances.html
 Published: 1 day ago
 
-Title: 62 years in the making: NYC's newest water tunnel nears the finish line
-URL: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
-Published: 1 day ago
+Title: Flame Graphs vs Tree Maps vs Sunburst (2017)
+URL: https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html
+Published: 3 days ago
 
-Title: PySDR: A Guide to SDR and DSP Using Python
-URL: https://pysdr.org/content/intro.html
+Title: Static Allocation with Zig
+URL: https://nickmonad.blog/2025/static-allocation-with-zig-kv/
 Published: 1 day ago
 
 ```

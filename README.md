@@ -102,7 +102,7 @@
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (2 weeks ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 weeks ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Google is dead. Where do we go now?
-URL: https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/
+Title: NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives
+URL: https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/
 Published: 1 day ago
 
-Title: Show HN: Stop Claude Code from forgetting everything
-URL: https://github.com/mutable-state-inc/ensue-skill
+Title: FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service
+URL: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/
 Published: 1 day ago
 
-Title: Parsing Advances
-URL: https://matklad.github.io/2025/12/28/parsing-advances.html
+Title: A faster heart for F-Droid. Our new server is here
+URL: https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html
 Published: 1 day ago
 
-Title: Flame Graphs vs Tree Maps vs Sunburst (2017)
-URL: https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html
-Published: 3 days ago
+Title: Project ideas to appreciate the art of programming
+URL: https://codecrafters.io/blog/programming-project-ideas
+Published: 1 day ago
 
-Title: Static Allocation with Zig
-URL: https://nickmonad.blog/2025/static-allocation-with-zig-kv/
+Title: Show HN: 22 GB of Hacker News in SQLite
+URL: https://hackerbook.dosaygo.com
 Published: 1 day ago
 
 ```

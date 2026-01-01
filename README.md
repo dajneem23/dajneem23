@@ -98,9 +98,9 @@
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (2 weeks ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 weeks ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (2 weeks ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (3 weeks ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 weeks ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives
-URL: https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/
+Title: Warren Buffett steps down as Berkshire Hathaway CEO after six decades
+URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades
 Published: 1 day ago
 
-Title: FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service
-URL: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/
+Title: I canceled my book deal
+URL: https://austinhenley.com/blog/canceledbookdeal.html
 Published: 1 day ago
 
-Title: A faster heart for F-Droid. Our new server is here
-URL: https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html
+Title: All-optical synthesis chip for large-scale intelligent semantic vision
+URL: https://www.science.org/doi/10.1126/science.adv7434
 Published: 1 day ago
 
-Title: Project ideas to appreciate the art of programming
-URL: https://codecrafters.io/blog/programming-project-ideas
-Published: 1 day ago
+Title: Demystifying DVDs
+URL: https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs
+Published: 3 days ago
 
-Title: Show HN: 22 GB of Hacker News in SQLite
-URL: https://hackerbook.dosaygo.com
-Published: 1 day ago
+Title: Observed Agent Sandbox Bypasses
+URL: https://voratiq.com/blog/yolo-in-the-sandbox/
+Published: 4 days ago
 
 ```
 <br/>

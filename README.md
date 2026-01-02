@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 week ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (2 weeks ago)
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
 
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Warren Buffett steps down as Berkshire Hathaway CEO after six decades
-URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades
+Title: A website to destroy all websites
+URL: https://henry.codes/writing/a-website-to-destroy-all-websites/
 Published: 1 day ago
 
-Title: I canceled my book deal
-URL: https://austinhenley.com/blog/canceledbookdeal.html
+Title: Can Bundler be as fast as uv?
+URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/
 Published: 1 day ago
 
-Title: All-optical synthesis chip for large-scale intelligent semantic vision
-URL: https://www.science.org/doi/10.1126/science.adv7434
+Title: Cameras and Lenses (2020)
+URL: https://ciechanow.ski/cameras-and-lenses/
 Published: 1 day ago
 
-Title: Demystifying DVDs
-URL: https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs
-Published: 3 days ago
+Title: Finland detains ship and its crew after critical undersea cable damaged
+URL: https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl
+Published: 1 day ago
 
-Title: Observed Agent Sandbox Bypasses
-URL: https://voratiq.com/blog/yolo-in-the-sandbox/
-Published: 4 days ago
+Title: Linux is good now
+URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/
+Published: 1 day ago
 
 ```
 <br/>

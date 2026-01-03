@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: A website to destroy all websites
-URL: https://henry.codes/writing/a-website-to-destroy-all-websites/
+Title: Publish on your own site, syndicate elsewhere
+URL: https://indieweb.org/POSSE#
 Published: 1 day ago
 
-Title: Can Bundler be as fast as uv?
-URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/
+Title: Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?
+URL: https://www.madebywindmill.com/tempi/blog/hbfs-bpm/
 Published: 1 day ago
 
-Title: Cameras and Lenses (2020)
-URL: https://ciechanow.ski/cameras-and-lenses/
+Title: Unix v4 (1973) – Live Terminal
+URL: https://unixv4.dev/
 Published: 1 day ago
 
-Title: Finland detains ship and its crew after critical undersea cable damaged
-URL: https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl
+Title: Clicks Communicator
+URL: https://www.clicksphone.com/en/communicator
 Published: 1 day ago
 
-Title: Linux is good now
-URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/
+Title: Ask HN: Who is hiring? (January 2026)
+URL: https://news.ycombinator.com/item?id=46466074
 Published: 1 day ago
 
 ```

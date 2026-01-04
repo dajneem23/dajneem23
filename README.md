@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Publish on your own site, syndicate elsewhere
-URL: https://indieweb.org/POSSE#
+Title: Total monthly number of StackOverflow questions over time
+URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph
 Published: 1 day ago
 
-Title: Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?
-URL: https://www.madebywindmill.com/tempi/blog/hbfs-bpm/
+Title: Swift on Android: Full Native App Development Now Possible
+URL: https://docs.swifdroid.com/app/
 Published: 1 day ago
 
-Title: Unix v4 (1973) – Live Terminal
-URL: https://unixv4.dev/
+Title: The Most Popular Blogs of Hacker News in 2025
+URL: https://refactoringenglish.com/blog/2025-hn-top-5/
 Published: 1 day ago
 
-Title: Clicks Communicator
-URL: https://www.clicksphone.com/en/communicator
+Title: The Riven Diffs – Seeing Riven (1997) Differently
+URL: https://glthr.com/the-riven-diffs-1
 Published: 1 day ago
 
-Title: Ask HN: Who is hiring? (January 2026)
-URL: https://news.ycombinator.com/item?id=46466074
-Published: 1 day ago
+Title: Ed25519-CLI – command-line interface for the Ed25519 signature system
+URL: https://lib25519.cr.yp.to/ed25519-cli.html
+Published: 1 week ago
 
 ```
 <br/>

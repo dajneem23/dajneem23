@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Total monthly number of StackOverflow questions over time
-URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph
+Title: Show HN: Terminal UI for AWS
+URL: https://github.com/huseyinbabal/taws
 Published: 1 day ago
 
-Title: Swift on Android: Full Native App Development Now Possible
-URL: https://docs.swifdroid.com/app/
+Title: Lessons from 14 Years at Google
+URL: https://addyosmani.com/blog/21-lessons/
 Published: 1 day ago
 
-Title: The Most Popular Blogs of Hacker News in 2025
-URL: https://refactoringenglish.com/blog/2025-hn-top-5/
+Title: Why does a least squares fit appear to have a bias when applied to simple data?
+URL: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
 Published: 1 day ago
 
-Title: The Riven Diffs – Seeing Riven (1997) Differently
-URL: https://glthr.com/the-riven-diffs-1
+Title: Eurostar AI vulnerability: when a chatbot goes off the rails
+URL: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
 Published: 1 day ago
 
-Title: Ed25519-CLI – command-line interface for the Ed25519 signature system
-URL: https://lib25519.cr.yp.to/ed25519-cli.html
-Published: 1 week ago
+Title: Linear Address Spaces: Unsafe at any speed
+URL: https://queue.acm.org/detail.cfm?id=3534854
+Published: 5 days ago
 
 ```
 <br/>

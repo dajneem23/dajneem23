@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Terminal UI for AWS
-URL: https://github.com/huseyinbabal/taws
+Title: There were BGP anomalies during the Venezuela blackout
+URL: https://loworbitsecurity.com/radar/radar16/
 Published: 1 day ago
 
-Title: Lessons from 14 Years at Google
-URL: https://addyosmani.com/blog/21-lessons/
+Title: Worlds's first all-solid-state battery ready to power up production vehicles now
+URL: https://www.donutlab.com/ces-battery-announcement/
 Published: 1 day ago
 
-Title: Why does a least squares fit appear to have a bias when applied to simple data?
-URL: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
-Published: 1 day ago
+Title: Try to take my position: The best promotion advice I ever got
+URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
+Published: 4 days ago
 
-Title: Eurostar AI vulnerability: when a chatbot goes off the rails
-URL: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
-Published: 1 day ago
+Title: Six-decade math puzzle solved by Korean mathematician
+URL: https://www.koreaherald.com/article/10648326
+Published: 2 days ago
 
-Title: Linear Address Spaces: Unsafe at any speed
-URL: https://queue.acm.org/detail.cfm?id=3534854
-Published: 5 days ago
+Title: Google broke my heart
+URL: https://perishablepress.com/google-broke-my-heart/
+Published: 1 day ago
 
 ```
 <br/>

@@ -94,26 +94,28 @@
 
 
 
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) (1 day ago)
+
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (2 weeks ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 weeks ago)
-
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (3 weeks ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 weeks ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)
 
@@ -122,8 +124,6 @@
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758)
 
 - [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability
-
-- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158) - This is a proof-of-concept demonstrating CVE-2020-8158, a critical prototype pollution vulnerability in TypeORM versions < 0.2.25.
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: There were BGP anomalies during the Venezuela blackout
-URL: https://loworbitsecurity.com/radar/radar16/
+Title: Spherical Snake
+URL: https://kevinalbs.com/spherical_snake/
+Published: 6 days ago
+
+Title: Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone
+URL: https://github.com/rberg27/doom-coding
 Published: 1 day ago
 
-Title: Worlds's first all-solid-state battery ready to power up production vehicles now
-URL: https://www.donutlab.com/ces-battery-announcement/
+Title: Calling All Hackers: How money works (2024)
+URL: https://phrack.org/issues/71/17
 Published: 1 day ago
 
-Title: Try to take my position: The best promotion advice I ever got
-URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
-Published: 4 days ago
+Title: Oral microbiome sequencing after taking probiotics
+URL: https://blog.booleanbiotech.com/oral-microbiome-biogaia
+Published: 1 day ago
 
-Title: Six-decade math puzzle solved by Korean mathematician
-URL: https://www.koreaherald.com/article/10648326
-Published: 2 days ago
-
-Title: Google broke my heart
-URL: https://perishablepress.com/google-broke-my-heart/
+Title: A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time
+URL: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
 Published: 1 day ago
 
 ```

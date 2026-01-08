@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) (1 day ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (2 weeks ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (3 weeks ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (4 weeks ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (3 weeks ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (4 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -115,7 +115,7 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust.
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Spherical Snake
-URL: https://kevinalbs.com/spherical_snake/
-Published: 6 days ago
-
-Title: Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone
-URL: https://github.com/rberg27/doom-coding
+Title: Tailscale state file encryption no longer enabled by default
+URL: https://tailscale.com/changelog
 Published: 1 day ago
 
-Title: Calling All Hackers: How money works (2024)
-URL: https://phrack.org/issues/71/17
+Title: Sugar industry influenced researchers and blamed fat for CVD (2016)
+URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus
 Published: 1 day ago
 
-Title: Oral microbiome sequencing after taking probiotics
-URL: https://blog.booleanbiotech.com/oral-microbiome-biogaia
+Title: Eat Real Food
+URL: https://realfood.gov
 Published: 1 day ago
 
-Title: A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time
-URL: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
+Title: Shipmap.org
+URL: https://www.shipmap.org/
+Published: 1 day ago
+
+Title: Notion AI: Unpatched data exfiltration
+URL: https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
 Published: 1 day ago
 
 ```

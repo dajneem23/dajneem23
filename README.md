@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (2 weeks ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 weeks ago)
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 weeks ago)
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (4 weeks ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Tailscale state file encryption no longer enabled by default
-URL: https://tailscale.com/changelog
+Title: How to Code Claude Code in 200 Lines of Code
+URL: https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
 Published: 1 day ago
 
-Title: Sugar industry influenced researchers and blamed fat for CVD (2016)
-URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus
+Title: Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU
+URL: https://github.com/samuel-vitorino/sopro
 Published: 1 day ago
 
-Title: Eat Real Food
-URL: https://realfood.gov
+Title: Embassy: Modern embedded framework, using Rust and async
+URL: https://github.com/embassy-rs/embassy
 Published: 1 day ago
 
-Title: Shipmap.org
-URL: https://www.shipmap.org/
+Title: Iran Protest Map
+URL: https://pouyaii.github.io/Iran/
 Published: 1 day ago
 
-Title: Notion AI: Unpatched data exfiltration
-URL: https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
+Title: Bose is open-sourcing its old smart speakers instead of bricking them
+URL: https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source
 Published: 1 day ago
 
 ```

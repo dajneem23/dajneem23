@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 weeks ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 weeks ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (4 weeks ago)
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (4 weeks ago)
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: How to Code Claude Code in 200 Lines of Code
-URL: https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
+Title: AI solves Erdos problem #728 (Terence Tao mathstodon post)
+URL: https://mathstodon.xyz/@tao/115855840223258103
 Published: 1 day ago
 
-Title: Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU
-URL: https://github.com/samuel-vitorino/sopro
+Title: JavaScript Demos in 140 Characters
+URL: https://beta.dwitter.net
 Published: 1 day ago
 
-Title: Embassy: Modern embedded framework, using Rust and async
-URL: https://github.com/embassy-rs/embassy
+Title: RTX 5090 and Raspberry Pi: Can It Game?
+URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
 Published: 1 day ago
 
-Title: Iran Protest Map
-URL: https://pouyaii.github.io/Iran/
-Published: 1 day ago
+Title: Scientists discover oldest poison, on 60k-year-old arrows
+URL: https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html
+Published: 2 days ago
 
-Title: Bose is open-sourcing its old smart speakers instead of bricking them
-URL: https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source
-Published: 1 day ago
+Title: How will the miracle happen today?
+URL: https://kk.org/thetechnium/how-will-the-miracle-happen-today/
+Published: 6 days ago
 
 ```
 <br/>

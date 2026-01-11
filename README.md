@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (5 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 weeks ago)
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: AI solves Erdos problem #728 (Terence Tao mathstodon post)
-URL: https://mathstodon.xyz/@tao/115855840223258103
+Title: Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more
+URL: https://news.ycombinator.com/item?id=46571149
 Published: 1 day ago
 
-Title: JavaScript Demos in 140 Characters
-URL: https://beta.dwitter.net
+Title: Show HN: I used Claude Code to discover connections between 100 books
+URL: https://trails.pieterma.es/
 Published: 1 day ago
 
-Title: RTX 5090 and Raspberry Pi: Can It Game?
-URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+Title: Finding and fixing Ghostty's largest memory leak
+URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
 Published: 1 day ago
 
-Title: Scientists discover oldest poison, on 60k-year-old arrows
-URL: https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html
-Published: 2 days ago
+Title: Open Chaos: A self-evolving open-source project
+URL: https://www.openchaos.dev/
+Published: 1 day ago
 
-Title: How will the miracle happen today?
-URL: https://kk.org/thetechnium/how-will-the-miracle-happen-today/
-Published: 6 days ago
+Title: Show HN: Play poker with LLMs, or watch them play against each other
+URL: https://llmholdem.com/
+Published: 1 day ago
 
 ```
 <br/>

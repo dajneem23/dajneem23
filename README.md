@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (5 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (6 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more
-URL: https://news.ycombinator.com/item?id=46571149
+Title: The struggle of resizing windows on macOS Tahoe
+URL: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
 Published: 1 day ago
 
-Title: Show HN: I used Claude Code to discover connections between 100 books
-URL: https://trails.pieterma.es/
+Title: 2026 is the year of self-hosting
+URL: https://fulghum.io/self-hosting
 Published: 1 day ago
 
-Title: Finding and fixing Ghostty's largest memory leak
-URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
+Title: This game is a single 13 KiB file that runs on Windows, Linux and in the Browser
+URL: https://iczelia.net/posts/snake-polyglot/
 Published: 1 day ago
 
-Title: Open Chaos: A self-evolving open-source project
-URL: https://www.openchaos.dev/
+Title: iCloud Photos Downloader
+URL: https://github.com/icloud-photos-downloader/icloud_photos_downloader
 Published: 1 day ago
 
-Title: Show HN: Play poker with LLMs, or watch them play against each other
-URL: https://llmholdem.com/
-Published: 1 day ago
+Title: I Cannot SSH into My Server Anymore (and That's Fine)
+URL: https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html
+Published: 5 days ago
 
 ```
 <br/>

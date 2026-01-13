@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (6 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 week ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: The struggle of resizing windows on macOS Tahoe
-URL: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
+Title: Cowork: Claude Code for the rest of your work
+URL: https://claude.com/blog/cowork-research-preview
 Published: 1 day ago
 
-Title: 2026 is the year of self-hosting
-URL: https://fulghum.io/self-hosting
+Title: TimeCapsuleLLM: LLM trained only on data from 1800-1875
+URL: https://github.com/haykgrigo3/TimeCapsuleLLM
 Published: 1 day ago
 
-Title: This game is a single 13 KiB file that runs on Windows, Linux and in the Browser
-URL: https://iczelia.net/posts/snake-polyglot/
+Title: Fabrice Bellard's TS Zip (2024)
+URL: https://www.bellard.org/ts_zip/
 Published: 1 day ago
 
-Title: iCloud Photos Downloader
-URL: https://github.com/icloud-photos-downloader/icloud_photos_downloader
+Title: Postal Arbitrage
+URL: https://walzr.com/postal-arbitrage
 Published: 1 day ago
 
-Title: I Cannot SSH into My Server Anymore (and That's Fine)
-URL: https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html
-Published: 5 days ago
+Title: The chess bot on Delta Air Lines will destroy you (2024) [video]
+URL: https://www.youtube.com/watch?v=c0mLhHDcY3I
+Published: 1 day ago
 
 ```
 <br/>

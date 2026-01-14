@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Cowork: Claude Code for the rest of your work
-URL: https://claude.com/blog/cowork-research-preview
+Title: A 40-Line Fix Eliminated a 400x Performance Gap
+URL: https://questdb.com/blog/jvm-current-thread-user-time/
 Published: 1 day ago
 
-Title: TimeCapsuleLLM: LLM trained only on data from 1800-1875
-URL: https://github.com/haykgrigo3/TimeCapsuleLLM
+Title: Are two heads better than one?
+URL: https://eieio.games/blog/two-heads-arent-better-than-one/
 Published: 1 day ago
 
-Title: Fabrice Bellard's TS Zip (2024)
-URL: https://www.bellard.org/ts_zip/
+Title: The Tulip Creative Computer
+URL: https://github.com/shorepine/tulipcc
 Published: 1 day ago
 
-Title: Postal Arbitrage
-URL: https://walzr.com/postal-arbitrage
+Title: We can't have nice things because of AI scrapers
+URL: https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/
 Published: 1 day ago
 
-Title: The chess bot on Delta Air Lines will destroy you (2024) [video]
-URL: https://www.youtube.com/watch?v=c0mLhHDcY3I
+Title: Show HN: Nogic – VS Code extension that visualizes your codebase as a graph
+URL: https://marketplace.visualstudio.com/items?itemName=Nogic.nogic
 Published: 1 day ago
 
 ```

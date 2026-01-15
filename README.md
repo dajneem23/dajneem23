@@ -109,7 +109,7 @@
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (2 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: A 40-Line Fix Eliminated a 400x Performance Gap
-URL: https://questdb.com/blog/jvm-current-thread-user-time/
+Title: Claude Cowork Exfiltrates Files
+URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
 Published: 1 day ago
 
-Title: Are two heads better than one?
-URL: https://eieio.games/blog/two-heads-arent-better-than-one/
+Title: Scaling long-running autonomous coding
+URL: https://cursor.com/blog/scaling-agents
 Published: 1 day ago
 
-Title: The Tulip Creative Computer
-URL: https://github.com/shorepine/tulipcc
+Title: The State of OpenSSL for pyca/cryptography
+URL: https://cryptography.io/en/latest/statements/state-of-openssl/
 Published: 1 day ago
 
-Title: We can't have nice things because of AI scrapers
-URL: https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/
-Published: 1 day ago
+Title: Show HN: WebTiles – create a tiny 250x250 website with neighbors around you
+URL: https://webtiles.kicya.net/
+Published: 5 days ago
 
-Title: Show HN: Nogic – VS Code extension that visualizes your codebase as a graph
-URL: https://marketplace.visualstudio.com/items?itemName=Nogic.nogic
+Title: Ask HN: Share your personal website
+URL: https://news.ycombinator.com/item?id=46618714
 Published: 1 day ago
 
 ```

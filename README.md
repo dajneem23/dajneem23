@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 week ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (today)
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (3 weeks ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (4 weeks ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
-
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 month ago)
+
+- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Cowork Exfiltrates Files
-URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+Title: Apple is fighting for TSMC capacity as Nvidia takes center stage
+URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
 Published: 1 day ago
 
-Title: Scaling long-running autonomous coding
-URL: https://cursor.com/blog/scaling-agents
+Title: Pocket TTS: A high quality TTS that gives your CPU a voice
+URL: https://kyutai.org/blog/2026-01-13-pocket-tts
 Published: 1 day ago
 
-Title: The State of OpenSSL for pyca/cryptography
-URL: https://cryptography.io/en/latest/statements/state-of-openssl/
+Title: Inside The Internet Archive's Infrastructure
+URL: https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+Published: 2 days ago
+
+Title: AWS European Sovereign Cloud
+URL: https://aws.eu/
 Published: 1 day ago
 
-Title: Show HN: WebTiles – create a tiny 250x250 website with neighbors around you
-URL: https://webtiles.kicya.net/
-Published: 5 days ago
-
-Title: Ask HN: Share your personal website
-URL: https://news.ycombinator.com/item?id=46618714
+Title: Linux boxes via SSH: suspended when disconected
+URL: https://shellbox.dev/
 Published: 1 day ago
 
 ```

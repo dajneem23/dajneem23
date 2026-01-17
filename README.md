@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (today)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (4 weeks ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 day ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.1.0) - `v1.1.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Apple is fighting for TSMC capacity as Nvidia takes center stage
-URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+Title: East Germany balloon escape
+URL: https://en.wikipedia.org/wiki/East_Germany_balloon_escape
 Published: 1 day ago
 
-Title: Pocket TTS: A high quality TTS that gives your CPU a voice
-URL: https://kyutai.org/blog/2026-01-13-pocket-tts
+Title: Left in the cold: Study finds most renters shut out of energy-saving upgrades
+URL: https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades
 Published: 1 day ago
 
-Title: Inside The Internet Archive's Infrastructure
-URL: https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+Title: Cloudflare acquires Astro
+URL: https://astro.build/blog/joining-cloudflare/
+Published: 1 day ago
+
+Title: Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation
+URL: https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
+Published: 1 day ago
+
+Title: LLM Structured Outputs Handbook
+URL: https://nanonets.com/cookbooks/structured-llm-outputs
 Published: 2 days ago
-
-Title: AWS European Sovereign Cloud
-URL: https://aws.eu/
-Published: 1 day ago
-
-Title: Linux boxes via SSH: suspended when disconected
-URL: https://shellbox.dev/
-Published: 1 day ago
 
 ```
 <br/>

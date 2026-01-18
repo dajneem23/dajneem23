@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (4 weeks ago)
+- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 day ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: East Germany balloon escape
-URL: https://en.wikipedia.org/wiki/East_Germany_balloon_escape
+Title: Light Mode InFFFFFFlation
+URL: https://willhbr.net/2025/10/20/light-mode-infffffflation/
 Published: 1 day ago
 
-Title: Left in the cold: Study finds most renters shut out of energy-saving upgrades
-URL: https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades
+Title: A programming language based on grammatical cases of Turkish
+URL: https://github.com/kip-dili/kip
 Published: 1 day ago
 
-Title: Cloudflare acquires Astro
-URL: https://astro.build/blog/joining-cloudflare/
+Title: ASCII characters are not pixels: a deep dive into ASCII rendering
+URL: https://alexharri.com/blog/ascii-rendering
 Published: 1 day ago
 
-Title: Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation
-URL: https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
-Published: 1 day ago
+Title: We put Claude Code in Rollercoaster Tycoon
+URL: https://labs.ramp.com/rct
+Published: 6 days ago
 
-Title: LLM Structured Outputs Handbook
-URL: https://nanonets.com/cookbooks/structured-llm-outputs
-Published: 2 days ago
+Title: Show HN: ChunkHound, a local-first tool for understanding large codebases
+URL: https://github.com/chunkhound/chunkhound
+Published: 1 day ago
 
 ```
 <br/>

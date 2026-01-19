@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (2 days ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (3 days ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Light Mode InFFFFFFlation
-URL: https://willhbr.net/2025/10/20/light-mode-infffffflation/
+Title: Gaussian Splatting – A$AP Rocky "Helicopter" music video
+URL: https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting
 Published: 1 day ago
 
-Title: A programming language based on grammatical cases of Turkish
-URL: https://github.com/kip-dili/kip
+Title: Flux 2 Klein pure C inference
+URL: https://github.com/antirez/flux2.c
 Published: 1 day ago
 
-Title: ASCII characters are not pixels: a deep dive into ASCII rendering
-URL: https://alexharri.com/blog/ascii-rendering
+Title: A Social Filesystem
+URL: https://overreacted.io/a-social-filesystem/
 Published: 1 day ago
 
-Title: We put Claude Code in Rollercoaster Tycoon
-URL: https://labs.ramp.com/rct
-Published: 6 days ago
+Title: Wine 11.0
+URL: https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0
+Published: 5 days ago
 
-Title: Show HN: ChunkHound, a local-first tool for understanding large codebases
-URL: https://github.com/chunkhound/chunkhound
+Title: Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used
+URL: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
 Published: 1 day ago
 
 ```

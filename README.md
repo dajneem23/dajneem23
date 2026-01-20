@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 month ago)
-
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
+
+- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 month ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (3 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (4 days ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Gaussian Splatting – A$AP Rocky "Helicopter" music video
-URL: https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting
+Title: Level S4 solar radiation event
+URL: https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026
 Published: 1 day ago
 
-Title: Flux 2 Klein pure C inference
-URL: https://github.com/antirez/flux2.c
+Title: Nearly a third of social media research has undisclosed ties to industry
+URL: https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims
 Published: 1 day ago
 
-Title: A Social Filesystem
-URL: https://overreacted.io/a-social-filesystem/
+Title: Nanolang: A tiny experimental language designed to be targeted by coding LLMs
+URL: https://github.com/jordanhubbard/nanolang
 Published: 1 day ago
 
-Title: Wine 11.0
-URL: https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0
-Published: 5 days ago
+Title: What came first: the CNAME or the A record?
+URL: https://blog.cloudflare.com/cname-a-record-order-dns-standards/
+Published: 1 day ago
 
-Title: Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used
-URL: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
+Title: Targeted Bets: An alternative approach to the job hunt
+URL: https://www.seanmuirhead.com/blog/targeted-bets
 Published: 1 day ago
 
 ```

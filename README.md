@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (4 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (5 days ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Level S4 solar radiation event
-URL: https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026
+Title: A 26,000-year astronomical monument hidden in plain sight (2019)
+URL: https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/
 Published: 1 day ago
 
-Title: Nearly a third of social media research has undisclosed ties to industry
-URL: https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims
+Title: California is free of drought for the first time in 25 years
+URL: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years
 Published: 1 day ago
 
-Title: Nanolang: A tiny experimental language designed to be targeted by coding LLMs
-URL: https://github.com/jordanhubbard/nanolang
+Title: Inside the secret world of Japanese snack bars
+URL: https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars
 Published: 1 day ago
 
-Title: What came first: the CNAME or the A record?
-URL: https://blog.cloudflare.com/cname-a-record-order-dns-standards/
+Title: The challenges of soft delete
+URL: https://atlas9.dev/blog/soft-delete.html
 Published: 1 day ago
 
-Title: Targeted Bets: An alternative approach to the job hunt
-URL: https://www.seanmuirhead.com/blog/targeted-bets
+Title: Instabridge has acquired Nova Launcher
+URL: https://novalauncher.com/nova-is-here-to-stay
 Published: 1 day ago
 
 ```

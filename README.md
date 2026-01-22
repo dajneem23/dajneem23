@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (5 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (6 days ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: A 26,000-year astronomical monument hidden in plain sight (2019)
-URL: https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/
+Title: Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
+URL: https://github.com/ChartGPU/ChartGPU
 Published: 1 day ago
 
-Title: California is free of drought for the first time in 25 years
-URL: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years
+Title: Claude's new constitution
+URL: https://www.anthropic.com/news/claude-new-constitution
 Published: 1 day ago
 
-Title: Inside the secret world of Japanese snack bars
-URL: https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars
+Title: Golfing APL/K in 90 Lines of Python
+URL: https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python
+Published: 6 days ago
+
+Title: Skip is now free and open source
+URL: https://skip.dev/blog/skip-is-free/
 Published: 1 day ago
 
-Title: The challenges of soft delete
-URL: https://atlas9.dev/blog/soft-delete.html
-Published: 1 day ago
-
-Title: Instabridge has acquired Nova Launcher
-URL: https://novalauncher.com/nova-is-here-to-stay
+Title: Take potentially dangerous PDFs, and convert them to safe PDFs
+URL: https://github.com/freedomofpress/dangerzone
 Published: 1 day ago
 
 ```

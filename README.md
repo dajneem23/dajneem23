@@ -94,7 +94,9 @@
 
 
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 day ago)
+
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -102,18 +104,18 @@
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
 
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection (1 month ago)
-
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (6 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 week ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision 
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust.
 
@@ -122,8 +124,6 @@
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection
 
 - [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758)
-
-- [dajneem23/CVE-2022-33171](https://github.com/dajneem23/CVE-2022-33171) - CVE-2022-33171: TypeORM SQL Injection Vulnerability
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
-URL: https://github.com/ChartGPU/ChartGPU
+Title: GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers
+URL: https://gptzero.me/news/neurips/
 Published: 1 day ago
 
-Title: Claude's new constitution
-URL: https://www.anthropic.com/news/claude-new-constitution
+Title: Show HN: isometric.nyc – giant isometric pixel art map of NYC
+URL: https://cannoneyed.com/isometric-nyc/
 Published: 1 day ago
 
-Title: Golfing APL/K in 90 Lines of Python
-URL: https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python
-Published: 6 days ago
-
-Title: Skip is now free and open source
-URL: https://skip.dev/blog/skip-is-free/
+Title: Capital One to acquire Brex for $5.15B
+URL: https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/
 Published: 1 day ago
 
-Title: Take potentially dangerous PDFs, and convert them to safe PDFs
-URL: https://github.com/freedomofpress/dangerzone
+Title: Viking Ship Museum in Denmark announces the discovery of the largest cog
+URL: https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/
+Published: 1 day ago
+
+Title: Qwen3-TTS family is now open sourced: Voice design, clone, and generation
+URL: https://qwen.ai/blog?id=qwen3tts-0115
 Published: 1 day ago
 
 ```

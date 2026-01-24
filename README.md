@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 day ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 days ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers
-URL: https://gptzero.me/news/neurips/
+Title: Unrolling the Codex agent loop
+URL: https://openai.com/index/unrolling-the-codex-agent-loop/
 Published: 1 day ago
 
-Title: Show HN: isometric.nyc – giant isometric pixel art map of NYC
-URL: https://cannoneyed.com/isometric-nyc/
+Title: New YC homepage
+URL: https://www.ycombinator.com/
 Published: 1 day ago
 
-Title: Capital One to acquire Brex for $5.15B
-URL: https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/
+Title: Banned C++ Features in Chromium
+URL: https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md
 Published: 1 day ago
 
-Title: Viking Ship Museum in Denmark announces the discovery of the largest cog
-URL: https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/
+Title: Proof of Corn
+URL: https://proofofcorn.com/
 Published: 1 day ago
 
-Title: Qwen3-TTS family is now open sourced: Voice design, clone, and generation
-URL: https://qwen.ai/blog?id=qwen3tts-0115
+Title: Gas Town's agent patterns, design bottlenecks, and vibecoding at scale
+URL: https://maggieappleton.com/gastown
 Published: 1 day ago
 
 ```

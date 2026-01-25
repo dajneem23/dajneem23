@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 days ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (3 days ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (5 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Unrolling the Codex agent loop
-URL: https://openai.com/index/unrolling-the-codex-agent-loop/
+Title: BirdyChat becomes first European chat app that is interoperable with WhatsApp
+URL: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp
 Published: 1 day ago
 
-Title: New YC homepage
-URL: https://www.ycombinator.com/
+Title: Postmortem: Our first VLEO satellite mission (with imagery and flight data)
+URL: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next
 Published: 1 day ago
 
-Title: Banned C++ Features in Chromium
-URL: https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md
+Title: Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison
+URL: https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/
 Published: 1 day ago
 
-Title: Proof of Corn
-URL: https://proofofcorn.com/
+Title: The Writers Came at Night
+URL: https://www.metropolitanreview.org/p/the-writers-came-at-night
 Published: 1 day ago
 
-Title: Gas Town's agent patterns, design bottlenecks, and vibecoding at scale
-URL: https://maggieappleton.com/gastown
+Title: Memory layout in Zig with formulas
+URL: https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html
 Published: 1 day ago
 
 ```

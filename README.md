@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (3 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (5 days ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (4 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 week ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: BirdyChat becomes first European chat app that is interoperable with WhatsApp
-URL: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp
+Title: First, make me care
+URL: https://gwern.net/blog/2026/make-me-care
 Published: 1 day ago
 
-Title: Postmortem: Our first VLEO satellite mission (with imagery and flight data)
-URL: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next
+Title: A macOS app that blurs your screen when you slouch
+URL: https://github.com/tldev/posturr
 Published: 1 day ago
 
-Title: Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison
-URL: https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/
+Title: The '3.5% rule': How a small minority can change the world (2019)
+URL: https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world
 Published: 1 day ago
 
-Title: The Writers Came at Night
-URL: https://www.metropolitanreview.org/p/the-writers-came-at-night
+Title: Case study: Creative math – How AI fakes proofs
+URL: https://tomaszmachnik.pl/case-study-math-en.html
 Published: 1 day ago
 
-Title: Memory layout in Zig with formulas
-URL: https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html
+Title: I was right about ATProto key management
+URL: https://notes.nora.codes/atproto-again/
 Published: 1 day ago
 
 ```

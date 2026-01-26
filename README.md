@@ -94,6 +94,8 @@
 
 
 
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (today)
+
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (4 days ago)
@@ -102,18 +104,18 @@
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758) (1 month ago)
-
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (today)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 week ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision 
 
@@ -122,8 +124,6 @@
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)
 
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection
-
-- [dajneem23/CVE-2025-12758](https://github.com/dajneem23/CVE-2025-12758)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
+Title: The browser is the sandbox
+URL: https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/
+Published: today
+
+Title: The Holy Grail of Linux Binary Compatibility: Musl and Dlopen
+URL: https://github.com/quaadgras/graphics.gd/discussions/242
+Published: today
+
+Title: Things I've learned in my 10 years as an engineering manager
+URL: https://www.jampa.dev/p/lessons-learned-after-10-years-as
+Published: 5 days ago
+
 Title: First, make me care
 URL: https://gwern.net/blog/2026/make-me-care
 Published: 1 day ago
 
-Title: A macOS app that blurs your screen when you slouch
-URL: https://github.com/tldev/posturr
-Published: 1 day ago
-
-Title: The '3.5% rule': How a small minority can change the world (2019)
-URL: https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world
-Published: 1 day ago
-
-Title: Case study: Creative math – How AI fakes proofs
-URL: https://tomaszmachnik.pl/case-study-math-en.html
-Published: 1 day ago
-
-Title: I was right about ATProto key management
-URL: https://notes.nora.codes/atproto-again/
-Published: 1 day ago
+Title: Scientists identify brain waves that define the limits of 'you'
+URL: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
+Published: today
 
 ```
 <br/>

@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (today)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 day ago)
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (4 days ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (5 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (today)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 week ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: The browser is the sandbox
-URL: https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/
-Published: today
-
-Title: The Holy Grail of Linux Binary Compatibility: Musl and Dlopen
-URL: https://github.com/quaadgras/graphics.gd/discussions/242
-Published: today
-
-Title: Things I've learned in my 10 years as an engineering manager
-URL: https://www.jampa.dev/p/lessons-learned-after-10-years-as
-Published: 5 days ago
-
-Title: First, make me care
-URL: https://gwern.net/blog/2026/make-me-care
+Title: Television is 100 years old today
+URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html
 Published: 1 day ago
 
-Title: Scientists identify brain waves that define the limits of 'you'
-URL: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
-Published: today
+Title: The Hidden Engineering of Runways
+URL: https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
+Published: 1 week ago
+
+Title: ChatGPT Containers can now run bash, pip/npm install packages and download files
+URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+Published: 1 day ago
+
+Title: AI code and software craft
+URL: https://alexwennerberg.com/blog/2026-01-25-slop.html
+Published: 1 day ago
+
+Title: People who know the formula for WD-40
+URL: https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54
+Published: 1 day ago
 
 ```
 <br/>

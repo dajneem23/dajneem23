@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 day ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (2 days ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 day ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (5 days ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (6 days ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Television is 100 years old today
-URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html
+Title: Prism
+URL: https://openai.com/index/introducing-prism
 Published: 1 day ago
 
-Title: The Hidden Engineering of Runways
-URL: https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
-Published: 1 week ago
-
-Title: ChatGPT Containers can now run bash, pip/npm install packages and download files
-URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+Title: 430k-year-old well-preserved wooden tools are the oldest ever found
+URL: https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
 Published: 1 day ago
 
-Title: AI code and software craft
-URL: https://alexwennerberg.com/blog/2026-01-25-slop.html
+Title: Time Station Emulator
+URL: https://github.com/kangtastic/timestation
 Published: 1 day ago
 
-Title: People who know the formula for WD-40
-URL: https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54
+Title: A few random notes from Claude coding quite a bit last few weeks
+URL: https://twitter.com/karpathy/status/2015883857489522876
+Published: 2 days ago
+
+Title: Lennart Poettering, Christian Brauner founded a new company
+URL: https://amutable.com/about
 Published: 1 day ago
 
 ```

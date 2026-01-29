@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (2 days ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (3 days ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (6 days ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 week ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Prism
-URL: https://openai.com/index/introducing-prism
+Title: Somebody used spoofed ADSB signals to raster the meme of JD Vance
+URL: https://alecmuffett.com/article/143548
 Published: 1 day ago
 
-Title: 430k-year-old well-preserved wooden tools are the oldest ever found
-URL: https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
+Title: The UK paid £4.1M for a bookmarks site
+URL: https://mahadk.com/posts/ai-skills-hub
 Published: 1 day ago
 
-Title: Time Station Emulator
-URL: https://github.com/kangtastic/timestation
+Title: Trinity large: An open 400B sparse MoE model
+URL: https://www.arcee.ai/blog/trinity-large
 Published: 1 day ago
 
-Title: A few random notes from Claude coding quite a bit last few weeks
-URL: https://twitter.com/karpathy/status/2015883857489522876
-Published: 2 days ago
+Title: Did a celebrated researcher obscure a baby's poisoning?
+URL: https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning
+Published: 1 day ago
 
-Title: Lennart Poettering, Christian Brauner founded a new company
-URL: https://amutable.com/about
+Title: Airfoil (2024)
+URL: https://ciechanow.ski/airfoil/
 Published: 1 day ago
 
 ```

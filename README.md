@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (3 days ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (4 days ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 days ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (1 week ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (2 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Somebody used spoofed ADSB signals to raster the meme of JD Vance
-URL: https://alecmuffett.com/article/143548
+Title: Project Genie: Experimenting with infinite, interactive worlds
+URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
 Published: 1 day ago
 
-Title: The UK paid £4.1M for a bookmarks site
-URL: https://mahadk.com/posts/ai-skills-hub
+Title: PlayStation 2 Recompilation Project Is Absolutely Incredible
+URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/
 Published: 1 day ago
 
-Title: Trinity large: An open 400B sparse MoE model
-URL: https://www.arcee.ai/blog/trinity-large
+Title: Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer
+URL: https://grid.space/stem/
 Published: 1 day ago
 
-Title: Did a celebrated researcher obscure a baby's poisoning?
-URL: https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning
+Title: Claude Code daily benchmarks for degradation tracking
+URL: https://marginlab.ai/trackers/claude-code/
 Published: 1 day ago
 
-Title: Airfoil (2024)
-URL: https://ciechanow.ski/airfoil/
+Title: Drug trio found to block tumour resistance in pancreatic cancer
+URL: https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/
 Published: 1 day ago
 
 ```

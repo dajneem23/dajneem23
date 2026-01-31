@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (4 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 day ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 days ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (5 days ago)
+
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (5 days ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 week ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
-
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -115,6 +115,8 @@
 
 
 
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources
+
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision 
@@ -122,8 +124,6 @@
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust.
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)
-
-- [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061) - CVE-2025-23061 - Mongoose Command Injection
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Project Genie: Experimenting with infinite, interactive worlds
-URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
+Title: Antirender: remove the glossy shine on architectural renderings
+URL: https://antirender.com/
 Published: 1 day ago
 
-Title: PlayStation 2 Recompilation Project Is Absolutely Incredible
-URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/
+Title: Peerweb: Decentralized website hosting via WebTorrent
+URL: https://peerweb.lol/
 Published: 1 day ago
 
-Title: Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer
-URL: https://grid.space/stem/
+Title: Show HN: I built an AI conversation partner to practice speaking languages
+URL: https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177
 Published: 1 day ago
 
-Title: Claude Code daily benchmarks for degradation tracking
-URL: https://marginlab.ai/trackers/claude-code/
+Title: Kimi K2.5 Technical Report [pdf]
+URL: https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf
 Published: 1 day ago
 
-Title: Drug trio found to block tumour resistance in pancreatic cancer
-URL: https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/
-Published: 1 day ago
+Title: Disrupting the largest residential proxy network
+URL: https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
+Published: 3 days ago
 
 ```
 <br/>

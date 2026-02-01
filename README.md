@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 day ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 days ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (5 days ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (6 days ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (5 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (6 days ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 week ago)
 
@@ -198,25 +198,25 @@
 <!-- placehodler -->
 ```
 
-Title: Antirender: remove the glossy shine on architectural renderings
-URL: https://antirender.com/
+Title: Swift is a more convenient Rust
+URL: https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust
 Published: 1 day ago
 
-Title: Peerweb: Decentralized website hosting via WebTorrent
-URL: https://peerweb.lol/
+Title: Mobile carriers can get your GPS location
+URL: https://an.dywa.ng/carrier-gnss.html
 Published: 1 day ago
 
-Title: Show HN: I built an AI conversation partner to practice speaking languages
-URL: https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177
+Title: Generative AI and Wikipedia editing: What we learned in 2025
+URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
 Published: 1 day ago
 
-Title: Kimi K2.5 Technical Report [pdf]
-URL: https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf
+Title: Outsourcing Thinking
+URL: https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html
 Published: 1 day ago
 
-Title: Disrupting the largest residential proxy network
-URL: https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
-Published: 3 days ago
+Title: Demystifying ARM SME to Optimize General Matrix Multiplications
+URL: https://arxiv.org/abs/2512.21473
+Published: 1 day ago
 
 ```
 <br/>

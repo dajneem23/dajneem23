@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (3 days ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (6 days ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 week ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (6 days ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 week ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (2 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Swift is a more convenient Rust
-URL: https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust
+Title: Defeating a 40-year-old copy protection dongle
+URL: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
 Published: 1 day ago
 
-Title: Mobile carriers can get your GPS location
-URL: https://an.dywa.ng/carrier-gnss.html
+Title: We (As a Society) Peaked in the 90s
+URL: https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s
 Published: 1 day ago
 
-Title: Generative AI and Wikipedia editing: What we learned in 2025
-URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+Title: Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation
+URL: https://github.com/gavrielc/nanoclaw
 Published: 1 day ago
 
-Title: Outsourcing Thinking
-URL: https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html
+Title: Apple I Advertisement (1976)
+URL: http://apple1.chez.com/Apple1project/Gallery/Gallery.htm
 Published: 1 day ago
 
-Title: Demystifying ARM SME to Optimize General Matrix Multiplications
-URL: https://arxiv.org/abs/2512.21473
+Title: My thousand dollar iPhone can't do math
+URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
 Published: 1 day ago
 
 ```

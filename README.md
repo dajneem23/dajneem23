@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (4 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (5 days ago)
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 week ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: xAI joins SpaceX
-URL: https://www.spacex.com/updates#xai-joins-spacex
+Title: Lessons Learned Shipping 500 Units of My First Hardware Product
+URL: https://www.simonberens.com/p/lessons-learned-shipping-500-units
+Published: 3 days ago
+
+Title: Deno Sandbox
+URL: https://deno.com/blog/introducing-deno-sandbox
 Published: 1 day ago
 
-Title: The Codex App
-URL: https://openai.com/index/introducing-the-codex-app/
+Title: FlashAttention-T: Towards Tensorized Attention
+URL: https://dl.acm.org/doi/10.1145/3774934.3786425
 Published: 1 day ago
 
-Title: GitHub experience various partial-outages/degradations
-URL: https://www.githubstatus.com?todayis=2026-02-02
+Title: Xcode 26.3 – Developers can leverage coding agents directly in Xcode
+URL: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/
 Published: 1 day ago
 
-Title: Anki ownership transferred to AnkiHub
-URL: https://forums.ankiweb.net/t/ankis-growing-up/68610
-Published: 1 day ago
-
-Title: Ask HN: Who is hiring? (February 2026)
-URL: https://news.ycombinator.com/item?id=46857488
+Title: Data centers in space makes no sense
+URL: https://civai.org/blog/space-data-centers
 Published: 1 day ago
 
 ```

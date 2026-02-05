@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (5 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (6 days ago)
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 week ago)
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 week ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 week ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 weeks ago)
 
 - [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
 
@@ -198,24 +198,24 @@
 <!-- placehodler -->
 ```
 
-Title: Lessons Learned Shipping 500 Units of My First Hardware Product
-URL: https://www.simonberens.com/p/lessons-learned-shipping-500-units
-Published: 3 days ago
-
-Title: Deno Sandbox
-URL: https://deno.com/blog/introducing-deno-sandbox
+Title: Voxtral Transcribe 2
+URL: https://mistral.ai/news/voxtral-transcribe-2
 Published: 1 day ago
 
-Title: FlashAttention-T: Towards Tensorized Attention
-URL: https://dl.acm.org/doi/10.1145/3774934.3786425
+Title: Claude Code: connect to a local model when your quota runs out
+URL: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/
+Published: 4 days ago
+
+Title: As Rocks May Think
+URL: https://evjang.com/2026/02/04/rocks.html
 Published: 1 day ago
 
-Title: Xcode 26.3 – Developers can leverage coding agents directly in Xcode
-URL: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/
+Title: Claude Code for Infrastructure
+URL: https://www.fluid.sh/
 Published: 1 day ago
 
-Title: Data centers in space makes no sense
-URL: https://civai.org/blog/space-data-centers
+Title: Building a 24-bit arcade CRT display adapter from scratch
+URL: https://www.scd31.com/posts/building-an-arcade-display-adapter
 Published: 1 day ago
 
 ```

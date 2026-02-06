@@ -94,21 +94,22 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (6 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (today)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 week ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 week ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 weeks ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 week ago)
 
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182) (1 month ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 weeks ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (2 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 week ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (3 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -198,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Voxtral Transcribe 2
-URL: https://mistral.ai/news/voxtral-transcribe-2
+Title: Claude Opus 4.6
+URL: https://www.anthropic.com/news/claude-opus-4-6
 Published: 1 day ago
 
-Title: Claude Code: connect to a local model when your quota runs out
-URL: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/
-Published: 4 days ago
-
-Title: As Rocks May Think
-URL: https://evjang.com/2026/02/04/rocks.html
+Title: GPT-5.3-Codex
+URL: https://openai.com/index/introducing-gpt-5-3-codex/
 Published: 1 day ago
 
-Title: Claude Code for Infrastructure
-URL: https://www.fluid.sh/
+Title: It's 2026, Just Use Postgres
+URL: https://www.tigerdata.com/blog/its-2026-just-use-postgres
 Published: 1 day ago
 
-Title: Building a 24-bit arcade CRT display adapter from scratch
-URL: https://www.scd31.com/posts/building-an-arcade-display-adapter
+Title: My AI Adoption Journey
+URL: https://mitchellh.com/writing/my-ai-adoption-journey
+Published: 1 day ago
+
+Title: We tasked Opus 4.6 using agent teams to build a C Compiler
+URL: https://www.anthropic.com/engineering/building-c-compiler
 Published: 1 day ago
 
 ```

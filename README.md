@@ -94,7 +94,7 @@
 
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (today)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 day ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Opus 4.6
-URL: https://www.anthropic.com/news/claude-opus-4-6
+Title: OpenCiv3: Open-source, cross-platform reimagining of Civilization III
+URL: https://openciv3.org/
 Published: 1 day ago
 
-Title: GPT-5.3-Codex
-URL: https://openai.com/index/introducing-gpt-5-3-codex/
+Title: The Waymo World Model
+URL: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation
 Published: 1 day ago
 
-Title: It's 2026, Just Use Postgres
-URL: https://www.tigerdata.com/blog/its-2026-just-use-postgres
+Title: Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox
+URL: https://github.com/valdanylchuk/breezydemo
 Published: 1 day ago
 
-Title: My AI Adoption Journey
-URL: https://mitchellh.com/writing/my-ai-adoption-journey
+Title: Monty: A minimal, secure Python interpreter written in Rust for use by AI
+URL: https://github.com/pydantic/monty
 Published: 1 day ago
 
-Title: We tasked Opus 4.6 using agent teams to build a C Compiler
-URL: https://www.anthropic.com/engineering/building-c-compiler
+Title: Show HN: R3forth, a ColorForth-inspired language with a tiny VM
+URL: https://github.com/phreda4/r3
 Published: 1 day ago
 
 ```

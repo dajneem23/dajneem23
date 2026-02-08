@@ -94,7 +94,7 @@
 
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 day ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: OpenCiv3: Open-source, cross-platform reimagining of Civilization III
-URL: https://openciv3.org/
+Title: Tiny C Compiler
+URL: https://bellard.org/tcc/
 Published: 1 day ago
 
-Title: The Waymo World Model
-URL: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation
+Title: SectorC: A C Compiler in 512 bytes
+URL: https://xorvoid.com/sectorc.html
 Published: 1 day ago
 
-Title: Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox
-URL: https://github.com/valdanylchuk/breezydemo
+Title: Speed up responses with fast mode
+URL: https://code.claude.com/docs/en/fast-mode
 Published: 1 day ago
 
-Title: Monty: A minimal, secure Python interpreter written in Rust for use by AI
-URL: https://github.com/pydantic/monty
+Title: Brookhaven Lab's RHIC concludes 25-year run with final collisions
+URL: https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/
 Published: 1 day ago
 
-Title: Show HN: R3forth, a ColorForth-inspired language with a tiny VM
-URL: https://github.com/phreda4/r3
-Published: 1 day ago
+Title: The F Word
+URL: http://muratbuffalo.blogspot.com/2026/02/friction.html
+Published: 4 days ago
 
 ```
 <br/>

@@ -94,13 +94,13 @@
 
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (3 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 week ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 weeks ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 week ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (2 weeks ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 weeks ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Tiny C Compiler
-URL: https://bellard.org/tcc/
+Title: Vouch
+URL: https://github.com/mitchellh/vouch
 Published: 1 day ago
 
-Title: SectorC: A C Compiler in 512 bytes
-URL: https://xorvoid.com/sectorc.html
+Title: AI Makes the Easy Part Easier and the Hard Part Harder
+URL: https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
 Published: 1 day ago
 
-Title: Speed up responses with fast mode
-URL: https://code.claude.com/docs/en/fast-mode
+Title: Reverse Engineering the Prom for the SGI O2
+URL: https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/
 Published: 1 day ago
 
-Title: Brookhaven Lab's RHIC concludes 25-year run with final collisions
-URL: https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/
+Title: More Mac malware from Google search
+URL: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
 Published: 1 day ago
 
-Title: The F Word
-URL: http://muratbuffalo.blogspot.com/2026/02/friction.html
-Published: 4 days ago
+Title: Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)
+URL: https://arxiv.org/abs/2510.25417
+Published: 1 day ago
 
 ```
 <br/>

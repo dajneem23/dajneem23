@@ -94,7 +94,7 @@
 
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (3 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (4 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Vouch
-URL: https://github.com/mitchellh/vouch
+Title: Discord will require a face scan or ID for full access next month
+URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
 Published: 1 day ago
 
-Title: AI Makes the Easy Part Easier and the Hard Part Harder
-URL: https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
+Title: Is Particle Physics Dead, Dying, or Just Hard?
+URL: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/
 Published: 1 day ago
 
-Title: Reverse Engineering the Prom for the SGI O2
-URL: https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/
+Title: Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock
+URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
 Published: 1 day ago
 
-Title: More Mac malware from Google search
-URL: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
+Title: Why is the sky blue?
+URL: https://explainers.blog/posts/why-is-the-sky-blue/
 Published: 1 day ago
 
-Title: Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)
-URL: https://arxiv.org/abs/2510.25417
+Title: Hard-braking events as indicators of road segment crash risk
+URL: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
 Published: 1 day ago
 
 ```

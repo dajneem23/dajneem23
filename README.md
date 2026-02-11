@@ -94,7 +94,7 @@
 
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (4 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (5 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 week ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (3 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Discord will require a face scan or ID for full access next month
-URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+Title: The Day the Telnet Died
+URL: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
 Published: 1 day ago
 
-Title: Is Particle Physics Dead, Dying, or Just Hard?
-URL: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/
+Title: The Feynman Lectures on Physics (1961-1964)
+URL: https://www.feynmanlectures.caltech.edu/
 Published: 1 day ago
 
-Title: Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock
-URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
+Title: The Singularity will occur on a Tuesday
+URL: https://campedersen.com/singularity
 Published: 1 day ago
 
-Title: Why is the sky blue?
-URL: https://explainers.blog/posts/why-is-the-sky-blue/
+Title: Ex-GitHub CEO launches a new developer platform for AI agents
+URL: https://entire.io/blog/hello-entire-world/
 Published: 1 day ago
 
-Title: Hard-braking events as indicators of road segment crash risk
-URL: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
-Published: 1 day ago
+Title: The Little Learner: A Straight Line to Deep Learning
+URL: https://mitpress.mit.edu/9780262546379/the-little-learner/
+Published: 3 days ago
 
 ```
 <br/>

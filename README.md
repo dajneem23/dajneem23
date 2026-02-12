@@ -94,22 +94,22 @@
 
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (5 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 day ago)
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (6 days ago)
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 weeks ago)
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (2 weeks ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (2 weeks ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (1 day ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.2.0) - `v1.2.0` (3 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
 #### 🌱 My latest projects
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: The Day the Telnet Died
-URL: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
+Title: Discord/Twitch/Snapchat age verification bypass
+URL: https://age-verifier.kibty.town/
 Published: 1 day ago
 
-Title: The Feynman Lectures on Physics (1961-1964)
-URL: https://www.feynmanlectures.caltech.edu/
+Title: Fluorite – A console-grade game engine fully integrated with Flutter
+URL: https://fluorite.game/
 Published: 1 day ago
 
-Title: The Singularity will occur on a Tuesday
-URL: https://campedersen.com/singularity
+Title: GLM-5: Targeting complex systems engineering and long-horizon agentic tasks
+URL: https://z.ai/blog/glm-5
 Published: 1 day ago
 
-Title: Ex-GitHub CEO launches a new developer platform for AI agents
-URL: https://entire.io/blog/hello-entire-world/
-Published: 1 day ago
-
-Title: The Little Learner: A Straight Line to Deep Learning
-URL: https://mitpress.mit.edu/9780262546379/the-little-learner/
+Title: Text classification with Python 3.14's ZSTD module
+URL: https://maxhalford.github.io/blog/text-classification-zstd/
 Published: 3 days ago
+
+Title: NetNewsWire Turns 23
+URL: https://netnewswire.blog/2026/02/11/netnewswire-turns.html
+Published: 1 day ago
 
 ```
 <br/>

@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 day ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 days ago)
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (6 days ago)
-
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 week ago)
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (2 weeks ago)
+
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 weeks ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (3 weeks ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (2 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Discord/Twitch/Snapchat age verification bypass
-URL: https://age-verifier.kibty.town/
+Title: GPT‑5.3‑Codex‑Spark
+URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/
 Published: 1 day ago
 
-Title: Fluorite – A console-grade game engine fully integrated with Flutter
-URL: https://fluorite.game/
+Title: Gemini 3 Deep Think
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
 Published: 1 day ago
 
-Title: GLM-5: Targeting complex systems engineering and long-horizon agentic tasks
-URL: https://z.ai/blog/glm-5
+Title: An AI agent published a hit piece on me
+URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
 Published: 1 day ago
 
-Title: Text classification with Python 3.14's ZSTD module
-URL: https://maxhalford.github.io/blog/text-classification-zstd/
-Published: 3 days ago
+Title: Polis: Open-source platform for large-scale civic deliberation
+URL: https://pol.is/home2
+Published: 1 day ago
 
-Title: NetNewsWire Turns 23
-URL: https://netnewswire.blog/2026/02/11/netnewswire-turns.html
+Title: Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed
+URL: http://blog.can.ac/2026/02/12/the-harness-problem/
 Published: 1 day ago
 
 ```

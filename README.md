@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (3 days ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 week ago)
 
@@ -108,9 +108,9 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (3 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (3 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: GPT‑5.3‑Codex‑Spark
-URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/
+Title: The evolution of OpenAI's mission statement
+URL: https://simonwillison.net/2026/Feb/13/openai-mission-statement/
 Published: 1 day ago
 
-Title: Gemini 3 Deep Think
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+Title: GPT-5.2 derives a new result in theoretical physics
+URL: https://openai.com/index/new-result-theoretical-physics/
 Published: 1 day ago
 
-Title: An AI agent published a hit piece on me
-URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+Title: Show HN: Data Engineering Book – An open source, community-driven guide
+URL: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
 Published: 1 day ago
 
-Title: Polis: Open-source platform for large-scale civic deliberation
-URL: https://pol.is/home2
+Title: Building a TUI is easy now
+URL: https://hatchet.run/blog/tuis-are-easy-now
 Published: 1 day ago
 
-Title: Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed
-URL: http://blog.can.ac/2026/02/12/the-harness-problem/
-Published: 1 day ago
+Title: Font Rendering from First Principles
+URL: https://mccloskeybr.com/articles/font_rendering.html
+Published: 6 days ago
 
 ```
 <br/>

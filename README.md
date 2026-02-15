@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (3 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (4 days ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (3 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (4 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: The evolution of OpenAI's mission statement
-URL: https://simonwillison.net/2026/Feb/13/openai-mission-statement/
+Title: News publishers limit Internet Archive access due to AI scraping concerns
+URL: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
 Published: 1 day ago
 
-Title: GPT-5.2 derives a new result in theoretical physics
-URL: https://openai.com/index/new-result-theoretical-physics/
+Title: uBlock filter list to hide all YouTube Shorts
+URL: https://github.com/i5heu/ublock-hide-yt-shorts/
 Published: 1 day ago
 
-Title: Show HN: Data Engineering Book – An open source, community-driven guide
-URL: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+Title: My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+URL: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
 Published: 1 day ago
 
-Title: Building a TUI is easy now
-URL: https://hatchet.run/blog/tuis-are-easy-now
+Title: Ooh.directory: a place to find good blogs that interest you
+URL: https://ooh.directory/
 Published: 1 day ago
 
-Title: Font Rendering from First Principles
-URL: https://mccloskeybr.com/articles/font_rendering.html
-Published: 6 days ago
+Title: Zvec: A lightweight, fast, in-process vector database
+URL: https://github.com/alibaba/zvec
+Published: 2 days ago
 
 ```
 <br/>

@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (4 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (5 days ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 week ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (2 weeks ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (3 weeks ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (2 weeks ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 weeks ago)
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (5 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: News publishers limit Internet Archive access due to AI scraping concerns
-URL: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/
+Title: I’m joining OpenAI
+URL: https://steipete.me/posts/2026/openclaw
 Published: 1 day ago
 
-Title: uBlock filter list to hide all YouTube Shorts
-URL: https://github.com/i5heu/ublock-hide-yt-shorts/
+Title: Magnus Carlsen Wins the Freestyle (Chess960) World Championship
+URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
 Published: 1 day ago
 
-Title: My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
-URL: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+Title: LT6502: A 6502-based homebrew laptop
+URL: https://github.com/TechPaula/LT6502
 Published: 1 day ago
 
-Title: Ooh.directory: a place to find good blogs that interest you
-URL: https://ooh.directory/
+Title: Radio host David Greene says Google's NotebookLM tool stole his voice
+URL: https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/
 Published: 1 day ago
 
-Title: Zvec: A lightweight, fast, in-process vector database
-URL: https://github.com/alibaba/zvec
-Published: 2 days ago
+Title: GNU Pies – Program Invocation and Execution Supervisor
+URL: https://www.gnu.org.ua/software/pies/
+Published: 1 day ago
 
 ```
 <br/>

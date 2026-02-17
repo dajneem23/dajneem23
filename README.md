@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (5 days ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (6 days ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (6 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: I’m joining OpenAI
-URL: https://steipete.me/posts/2026/openclaw
+Title: Study: Self-generated Agent Skills are useless
+URL: https://arxiv.org/abs/2602.12670
 Published: 1 day ago
 
-Title: Magnus Carlsen Wins the Freestyle (Chess960) World Championship
-URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
+Title: 14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
+URL: https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/
 Published: 1 day ago
 
-Title: LT6502: A 6502-based homebrew laptop
-URL: https://github.com/TechPaula/LT6502
+Title: Show HN: Scanned 1927-1945 Daily USFS Work Diary
+URL: https://forestrydiary.com/
 Published: 1 day ago
 
-Title: Radio host David Greene says Google's NotebookLM tool stole his voice
-URL: https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/
+Title: Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue
+URL: https://github.com/zachlatta/freeflow
 Published: 1 day ago
 
-Title: GNU Pies – Program Invocation and Execution Supervisor
-URL: https://www.gnu.org.ua/software/pies/
+Title: Running NanoClaw in a Docker Shell Sandbox
+URL: https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/
 Published: 1 day ago
 
 ```

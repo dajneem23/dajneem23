@@ -102,7 +102,7 @@
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 weeks ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (3 weeks ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (4 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Sonnet 4.6
-URL: https://www.anthropic.com/news/claude-sonnet-4-6
+Title: Sizing chaos
+URL: https://pudding.cool/2026/02/womens-sizing/
 Published: 1 day ago
 
-Title: Thank HN: You helped save 33k lives
-URL: https://news.ycombinator.com/item?id=47049824
+Title: Ladybird: Closing this as we are no longer pursuing Swift adoption
+URL: https://github.com/LadybirdBrowser/ladybird/issues/933
 Published: 1 day ago
 
-Title: Run LLMs locally in Flutter with <200ms latency
-URL: https://github.com/ramanujammv1988/edge-veda
+Title: Cosmologically Unique IDs
+URL: https://jasonfantl.com/posts/Universal-Unique-IDs/
 Published: 1 day ago
 
-Title: Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway
-URL: https://asteroidos.org/news/2-0-release/index.html
+Title: 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+URL: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
 Published: 1 day ago
 
-Title: BarraCUDA Open-source CUDA compiler targeting AMD GPUs
-URL: https://github.com/Zaneham/BarraCUDA
+Title: Tailscale Peer Relays is now generally available
+URL: https://tailscale.com/blog/peer-relays-ga
 Published: 1 day ago
 
 ```

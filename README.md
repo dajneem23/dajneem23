@@ -96,7 +96,7 @@
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (1 week ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 weeks ago)
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (3 weeks ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Sizing chaos
-URL: https://pudding.cool/2026/02/womens-sizing/
+Title: Gemini 3.1 Pro
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
 Published: 1 day ago
 
-Title: Ladybird: Closing this as we are no longer pursuing Swift adoption
-URL: https://github.com/LadybirdBrowser/ladybird/issues/933
+Title: Show HN: Micasa – track your house from the terminal
+URL: https://micasa.dev
 Published: 1 day ago
 
-Title: Cosmologically Unique IDs
-URL: https://jasonfantl.com/posts/Universal-Unique-IDs/
+Title: Micropayments as a reality check for news sites
+URL: https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
 Published: 1 day ago
 
-Title: 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
-URL: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
+Title: Show HN: Ghostty-based terminal with vertical tabs and notifications
+URL: https://github.com/manaflow-ai/cmux
 Published: 1 day ago
 
-Title: Tailscale Peer Relays is now generally available
-URL: https://tailscale.com/blog/peer-relays-ga
+Title: A terminal weather app with ASCII animations driven by real-time weather data
+URL: https://github.com/Veirt/weathr
 Published: 1 day ago
 
 ```

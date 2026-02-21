@@ -102,7 +102,7 @@
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 weeks ago)
 
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (4 weeks ago)
+- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 3.1 Pro
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+Title: Keep Android Open
+URL: https://f-droid.org/2026/02/20/twif.html
 Published: 1 day ago
 
-Title: Show HN: Micasa – track your house from the terminal
-URL: https://micasa.dev
+Title: Turn Dependabot Off
+URL: https://words.filippo.io/dependabot/
 Published: 1 day ago
 
-Title: Micropayments as a reality check for news sites
-URL: https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
+Title: I found a Vulnerability. They found a Lawyer
+URL: https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
 Published: 1 day ago
 
-Title: Show HN: Ghostty-based terminal with vertical tabs and notifications
-URL: https://github.com/manaflow-ai/cmux
+Title: Facebook is cooked
+URL: https://pilk.website/3/facebook-is-absolutely-cooked
 Published: 1 day ago
 
-Title: A terminal weather app with ASCII animations driven by real-time weather data
-URL: https://github.com/Veirt/weathr
+Title: Be Wary of Bluesky
+URL: https://kevinak.se/blog/be-wary-of-bluesky
 Published: 1 day ago
 
 ```

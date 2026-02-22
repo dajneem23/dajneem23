@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Keep Android Open
-URL: https://f-droid.org/2026/02/20/twif.html
+Title: Why is Claude an Electron App?
+URL: https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html
 Published: 1 day ago
 
-Title: Turn Dependabot Off
-URL: https://words.filippo.io/dependabot/
+Title: EDuke32 – Duke Nukem 3D (Open-Source)
+URL: https://www.eduke32.com/
 Published: 1 day ago
 
-Title: I found a Vulnerability. They found a Lawyer
-URL: https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
+Title: Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
+URL: https://github.com/xaskasdf/ntransformer
 Published: 1 day ago
 
-Title: Facebook is cooked
-URL: https://pilk.website/3/facebook-is-absolutely-cooked
+Title: Evidence of the bouba-kiki effect in naïve baby chicks
+URL: https://www.science.org/doi/10.1126/science.adq7188
 Published: 1 day ago
 
-Title: Be Wary of Bluesky
-URL: https://kevinak.se/blog/be-wary-of-bluesky
+Title: Parse, Don't Validate and Type-Driven Design in Rust
+URL: https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/
 Published: 1 day ago
 
 ```

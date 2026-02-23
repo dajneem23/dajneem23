@@ -94,20 +94,20 @@
 
 
 
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 day ago)
+
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 weeks ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (3 weeks ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 weeks ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (3 weeks ago)
-
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision  (1 month ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (4 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance.
+
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig
@@ -123,8 +125,6 @@
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision 
 
 - [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust.
-
-- [dajneem23/CVE-2025-55182](https://github.com/dajneem23/CVE-2025-55182)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Why is Claude an Electron App?
-URL: https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html
+Title: I built Timeframe, our family e-paper dashboard
+URL: https://hawksley.org/2026/02/17/timeframe.html
 Published: 1 day ago
 
-Title: EDuke32 – Duke Nukem 3D (Open-Source)
-URL: https://www.eduke32.com/
+Title: Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
+URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
 Published: 1 day ago
 
-Title: Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
-URL: https://github.com/xaskasdf/ntransformer
+Title: Loops is a federated, open-source TikTok
+URL: https://joinloops.org/
 Published: 1 day ago
 
-Title: Evidence of the bouba-kiki effect in naïve baby chicks
-URL: https://www.science.org/doi/10.1126/science.adq7188
+Title: Using New Bridges of FreeBSD 15
+URL: https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/
 Published: 1 day ago
 
-Title: Parse, Don't Validate and Type-Driven Design in Rust
-URL: https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/
+Title: Algolia Hacker News Search GitHub Project Archived
+URL: https://github.com/algolia/hn-search
 Published: 1 day ago
 
 ```

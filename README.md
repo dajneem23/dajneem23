@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 day ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (2 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 weeks ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 weeks ago)
-
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (4 weeks ago)
+
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: I built Timeframe, our family e-paper dashboard
-URL: https://hawksley.org/2026/02/17/timeframe.html
+Title: UNIX99, a UNIX-like OS for the TI-99/4A
+URL: https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/
 Published: 1 day ago
 
-Title: Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
-URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+Title: The Age Verification Trap: Verifying age undermines everyone's data protection
+URL: https://spectrum.ieee.org/age-verification
 Published: 1 day ago
 
-Title: Loops is a federated, open-source TikTok
-URL: https://joinloops.org/
+Title: What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics
+URL: https://jamesoswald.dev/posts/bigoinequality/
+Published: 4 days ago
+
+Title: FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me
+URL: https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/
 Published: 1 day ago
 
-Title: Using New Bridges of FreeBSD 15
-URL: https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/
-Published: 1 day ago
-
-Title: Algolia Hacker News Search GitHub Project Archived
-URL: https://github.com/algolia/hn-search
+Title: Ladybird adopts Rust
+URL: https://ladybird.org/posts/adopting-rust/
 Published: 1 day ago
 
 ```

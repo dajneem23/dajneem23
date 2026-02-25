@@ -94,22 +94,22 @@
 
 
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (2 days ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (3 days ago)
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (1 week ago)
+- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 weeks ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 weeks ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (4 weeks ago)
+- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 month ago)
 
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (4 weeks ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 month ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (1 week ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (2 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (4 weeks ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
 #### 🌱 My latest projects
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: UNIX99, a UNIX-like OS for the TI-99/4A
-URL: https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/
+Title: I'm helping my dog vibe code games
+URL: https://www.calebleak.com/posts/dog-game/
 Published: 1 day ago
 
-Title: The Age Verification Trap: Verifying age undermines everyone's data protection
-URL: https://spectrum.ieee.org/age-verification
+Title: Mac mini will be made at a new facility in Houston
+URL: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/
 Published: 1 day ago
 
-Title: What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics
-URL: https://jamesoswald.dev/posts/bigoinequality/
-Published: 4 days ago
-
-Title: FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me
-URL: https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/
+Title: Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3
+URL: https://github.com/moonshine-ai/moonshine
 Published: 1 day ago
 
-Title: Ladybird adopts Rust
-URL: https://ladybird.org/posts/adopting-rust/
+Title: Hacking an old Kindle to display bus arrival times
+URL: https://www.mariannefeng.com/portfolio/kindle/
+Published: 1 day ago
+
+Title: Nearby Glasses
+URL: https://github.com/yjeanrenaud/yj_nearbyglasses
 Published: 1 day ago
 
 ```

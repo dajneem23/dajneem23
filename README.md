@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (3 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 day ago)
+
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (4 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 weeks ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 weeks ago)
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 month ago)
-
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
+
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance.
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources
@@ -123,8 +125,6 @@
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig
 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision 
-
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust.
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: I'm helping my dog vibe code games
-URL: https://www.calebleak.com/posts/dog-game/
+Title: Jimi Hendrix was a systems engineer
+URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
 Published: 1 day ago
 
-Title: Mac mini will be made at a new facility in Houston
-URL: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/
+Title: First Website
+URL: https://info.cern.ch
 Published: 1 day ago
 
-Title: Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3
-URL: https://github.com/moonshine-ai/moonshine
+Title: Making MCP cheaper via CLI
+URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
 Published: 1 day ago
 
-Title: Hacking an old Kindle to display bus arrival times
-URL: https://www.mariannefeng.com/portfolio/kindle/
+Title: The Om Programming Language
+URL: https://www.om-language.com/
 Published: 1 day ago
 
-Title: Nearby Glasses
-URL: https://github.com/yjeanrenaud/yj_nearbyglasses
+Title: Bus stop balancing is fast, cheap, and effective
+URL: https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/
 Published: 1 day ago
 
 ```

@@ -94,22 +94,22 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 day ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 days ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (4 days ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (5 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 weeks ago)
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (2 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (3 weeks ago)
 
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig (1 month ago)
+- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 month ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (2 weeks ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (4 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
 #### 🌱 My latest projects
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Jimi Hendrix was a systems engineer
-URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+Title: Statement from Dario Amodei on Our Discussions with the Department of War
+URL: https://www.anthropic.com/news/statement-department-of-war
 Published: 1 day ago
 
-Title: First Website
-URL: https://info.cern.ch
+Title: Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage
+URL: https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/
 Published: 1 day ago
 
-Title: Making MCP cheaper via CLI
-URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
+Title: Layoffs at Block
+URL: https://twitter.com/jack/status/2027129697092731343
 Published: 1 day ago
 
-Title: The Om Programming Language
-URL: https://www.om-language.com/
+Title: AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
 Published: 1 day ago
 
-Title: Bus stop balancing is fast, cheap, and effective
-URL: https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/
+Title: Will vibe coding end like the maker movement?
+URL: https://read.technically.dev/p/vibe-coding-and-the-maker-movement
 Published: 1 day ago
 
 ```

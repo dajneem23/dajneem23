@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 days ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 day ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (5 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 days ago)
+
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (6 days ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 weeks ago)
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (3 weeks ago)
-
-- [dajneem23/BitcoinScan](https://github.com/dajneem23/BitcoinScan) - A high-performance Bitcoin blockchain data scanner and API server built with Rust. (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
+
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance.
@@ -123,8 +125,6 @@
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources
 
 - [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig
-
-- [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395) - CVE-2026-2395: Tar race file collision 
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Statement from Dario Amodei on Our Discussions with the Department of War
-URL: https://www.anthropic.com/news/statement-department-of-war
+Title: I am directing the Department of War to designate Anthropic a supply-chain risk
+URL: https://twitter.com/secwar/status/2027507717469049070
 Published: 1 day ago
 
-Title: Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage
-URL: https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/
+Title: OpenAI raises $110B on $730B pre-money valuation
+URL: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
 Published: 1 day ago
 
-Title: Layoffs at Block
-URL: https://twitter.com/jack/status/2027129697092731343
+Title: Qt45: A small polymerase ribozyme that can synthesize itself
+URL: https://www.science.org/doi/10.1126/science.adt2760
 Published: 1 day ago
 
-Title: AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
-URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+Title: A new California law says all operating systems need to have age verification
+URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
 Published: 1 day ago
 
-Title: Will vibe coding end like the maker movement?
-URL: https://read.technically.dev/p/vibe-coding-and-the-maker-movement
+Title: NASA announces overhaul of Artemis program amid safety concerns, delays
+URL: https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/
 Published: 1 day ago
 
 ```

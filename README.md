@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 day ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (2 days ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 days ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (6 days ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 week ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: I am directing the Department of War to designate Anthropic a supply-chain risk
-URL: https://twitter.com/secwar/status/2027507717469049070
+Title: The Windows 95 user interface: A case study in usability engineering (1996)
+URL: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611
 Published: 1 day ago
 
-Title: OpenAI raises $110B on $730B pre-money valuation
-URL: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+Title: MinIO Is Dead, Long Live MinIO
+URL: https://blog.vonng.com/en/db/minio-resurrect/
 Published: 1 day ago
 
-Title: Qt45: A small polymerase ribozyme that can synthesize itself
-URL: https://www.science.org/doi/10.1126/science.adt2760
+Title: We do not think Anthropic should be designated as a supply chain risk
+URL: https://twitter.com/OpenAI/status/2027846016423321831
 Published: 1 day ago
 
-Title: A new California law says all operating systems need to have age verification
-URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+Title: Obsidian Sync now has a headless client
+URL: https://help.obsidian.md/sync/headless
 Published: 1 day ago
 
-Title: NASA announces overhaul of Artemis program amid safety concerns, delays
-URL: https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/
-Published: 1 day ago
+Title: The happiest I've ever been
+URL: https://ben-mini.com/2026/the-happiest-ive-ever-been
+Published: 3 days ago
 
 ```
 <br/>

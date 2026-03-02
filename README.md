@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (2 days ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (3 days ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (5 days ago)
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: The Windows 95 user interface: A case study in usability engineering (1996)
-URL: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611
+Title: WebMCP is available for early preview
+URL: https://developer.chrome.com/blog/webmcp-epp
 Published: 1 day ago
 
-Title: MinIO Is Dead, Long Live MinIO
-URL: https://blog.vonng.com/en/db/minio-resurrect/
+Title: How to talk to anyone, and why you should
+URL: https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
+Published: 6 days ago
+
+Title: Are the Mysteries of Quantum Mechanics Beginning to Dissolve?
+URL: https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/
 Published: 1 day ago
 
-Title: We do not think Anthropic should be designated as a supply chain risk
-URL: https://twitter.com/OpenAI/status/2027846016423321831
-Published: 1 day ago
-
-Title: Obsidian Sync now has a headless client
-URL: https://help.obsidian.md/sync/headless
-Published: 1 day ago
-
-Title: The happiest I've ever been
-URL: https://ben-mini.com/2026/the-happiest-ive-ever-been
+Title: Tove Jansson's criticized illustrations of The Hobbit
+URL: https://tovejansson.com/hobbit-tolkien/
 Published: 3 days ago
+
+Title: Big Breakfast Alters Appetite, Gut Health
+URL: https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA
+Published: 1 day ago
 
 ```
 <br/>

@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (3 days ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 day ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (5 days ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (4 days ago)
+
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (6 days ago)
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 week ago)
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (2 weeks ago)
-
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript (3 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940)
+
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
@@ -123,8 +125,6 @@
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance.
 
 - [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources
-
-- [dajneem23/the-socialist-millionaire-problem-in-zig](https://github.com/dajneem23/the-socialist-millionaire-problem-in-zig) - The Socialist Millionaire Problem in Zig
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: WebMCP is available for early preview
-URL: https://developer.chrome.com/blog/webmcp-epp
+Title: The workers behind Meta's smart glasses can see everything
+URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
 Published: 1 day ago
 
-Title: How to talk to anyone, and why you should
-URL: https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
-Published: 6 days ago
-
-Title: Are the Mysteries of Quantum Mechanics Beginning to Dissolve?
-URL: https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/
+Title: Welcome (back) to Macintosh
+URL: https://take.surf/2026/03/01/welcome-back-to-macintosh
 Published: 1 day ago
 
-Title: Tove Jansson's criticized illustrations of The Hobbit
-URL: https://tovejansson.com/hobbit-tolkien/
-Published: 3 days ago
+Title: Dragon Ball Color Correction Process [pdf]
+URL: https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf
+Published: 1 day ago
 
-Title: Big Breakfast Alters Appetite, Gut Health
-URL: https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA
+Title: Closure of the Weatherradio Service in Canada
+URL: https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/
+Published: 1 day ago
+
+Title: Show HN: I built a sub-500ms latency voice agent from scratch
+URL: https://www.ntik.me/posts/voice-agent
 Published: 1 day ago
 
 ```

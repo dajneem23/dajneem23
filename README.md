@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (2 days ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 days ago)
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (5 days ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (6 days ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.3.0) - `v1.3.0` (3 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 day ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Don't Make Me Talk to Your Chatbot
-URL: https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/
+Title: MacBook Neo
+URL: https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/
 Published: 1 day ago
 
-Title: MacBook Pro with new M5 Pro and M5 Max
-URL: https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+Title: Building a new Flash
+URL: https://bill.newgrounds.com/news/post/1607118
 Published: 1 day ago
 
-Title: Talos: Hardware accelerator for deep convolutional neural networks
-URL: https://talos.wtf/
+Title: BMW Group to deploy humanoid robots in production in Germany for the first time
+URL: https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en
 Published: 1 day ago
 
-Title: Intel's make-or-break 18A process node debuts for data center with 288-core Xeon
-URL: https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech
+Title: Something is afoot in the land of Qwen
+URL: https://simonwillison.net/2026/Mar/4/qwen/
 Published: 1 day ago
 
-Title: GPT‑5.3 Instant
-URL: https://openai.com/index/gpt-5-3-instant/
+Title: Humans 40k yrs ago developed a system of conventional signs
+URL: https://www.pnas.org/doi/10.1073/pnas.2520385123
 Published: 1 day ago
 
 ```

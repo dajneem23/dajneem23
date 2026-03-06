@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 days ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (4 days ago)
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (6 days ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 week ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (2 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: MacBook Neo
-URL: https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/
+Title: CBP tapped into the online advertising ecosystem to track peoples’ movements
+URL: https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/
+Published: 2 days ago
+
+Title: GPT-5.4
+URL: https://openai.com/index/introducing-gpt-5-4/
 Published: 1 day ago
 
-Title: Building a new Flash
-URL: https://bill.newgrounds.com/news/post/1607118
+Title: Labor market impacts of AI: A new measure and early evidence
+URL: https://www.anthropic.com/research/labor-market-impacts
 Published: 1 day ago
 
-Title: BMW Group to deploy humanoid robots in production in Germany for the first time
-URL: https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en
+Title: The Brand Age
+URL: https://paulgraham.com/brandage.html
 Published: 1 day ago
 
-Title: Something is afoot in the land of Qwen
-URL: https://simonwillison.net/2026/Mar/4/qwen/
-Published: 1 day ago
-
-Title: Humans 40k yrs ago developed a system of conventional signs
-URL: https://www.pnas.org/doi/10.1073/pnas.2520385123
+Title: A standard protocol to handle and discard low-effort, AI-Generated pull requests
+URL: https://406.fail/
 Published: 1 day ago
 
 ```

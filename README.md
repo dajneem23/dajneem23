@@ -94,7 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 day ago)
+
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (5 days ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 week ago)
 
@@ -102,13 +104,11 @@
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 week ago)
 
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources (3 weeks ago)
-
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: CBP tapped into the online advertising ecosystem to track peoples’ movements
-URL: https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/
-Published: 2 days ago
-
-Title: GPT-5.4
-URL: https://openai.com/index/introducing-gpt-5-4/
+Title: this css proves me human
+URL: https://will-keleher.com/posts/this-css-makes-me-human/
 Published: 1 day ago
 
-Title: Labor market impacts of AI: A new measure and early evidence
-URL: https://www.anthropic.com/research/labor-market-impacts
+Title: C# strings silently kill your SQL Server indexes in Dapper
+URL: https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap
 Published: 1 day ago
 
-Title: The Brand Age
-URL: https://paulgraham.com/brandage.html
+Title: Show HN: The Roman Industrial Revolution that could have been (Vol 2)
+URL: https://thelydianstone.com/volume-2
 Published: 1 day ago
 
-Title: A standard protocol to handle and discard low-effort, AI-Generated pull requests
-URL: https://406.fail/
+Title: Plasma Bigscreen – 10-foot interface for KDE plasma
+URL: https://plasma-bigscreen.org
 Published: 1 day ago
+
+Title: Math Notepad
+URL: https://mathnotepad.com
+Published: 5 days ago
 
 ```
 <br/>

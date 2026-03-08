@@ -94,21 +94,21 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 days ago)
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (5 days ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (6 days ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 week ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 week ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (2 weeks ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (4 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: this css proves me human
-URL: https://will-keleher.com/posts/this-css-makes-me-human/
+Title: Put the zipcode first
+URL: https://zipcodefirst.com
 Published: 1 day ago
 
-Title: C# strings silently kill your SQL Server indexes in Dapper
-URL: https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap
+Title: CasNum
+URL: https://github.com/0x0mer/CasNum
 Published: 1 day ago
 
-Title: Show HN: The Roman Industrial Revolution that could have been (Vol 2)
-URL: https://thelydianstone.com/volume-2
+Title: A decade of Docker containers
+URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
 Published: 1 day ago
 
-Title: Plasma Bigscreen – 10-foot interface for KDE plasma
-URL: https://plasma-bigscreen.org
+Title: LLM Writing Tropes.md
+URL: https://tropes.fyi/tropes-md
 Published: 1 day ago
 
-Title: Math Notepad
-URL: https://mathnotepad.com
-Published: 5 days ago
+Title: $3T flows through U.S. nonprofits every year
+URL: https://charitysense.com/insights/the-3-trillion-blind-spot
+Published: 1 day ago
 
 ```
 <br/>

@@ -94,9 +94,9 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 days ago)
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (6 days ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 week ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (5 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Put the zipcode first
-URL: https://zipcodefirst.com
+Title: Agent Safehouse – macOS-native sandboxing for local agents
+URL: https://agent-safehouse.dev/
 Published: 1 day ago
 
-Title: CasNum
-URL: https://github.com/0x0mer/CasNum
+Title: Blacksky AppView
+URL: https://github.com/blacksky-algorithms/atproto
 Published: 1 day ago
 
-Title: A decade of Docker containers
-URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
+Title: Microscopes can see video on a laserdisc
+URL: https://www.youtube.com/watch?v=qZuR-772cks
+Published: 2 days ago
+
+Title: We should revisit literate programming in the agent era
+URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
 Published: 1 day ago
 
-Title: LLM Writing Tropes.md
-URL: https://tropes.fyi/tropes-md
-Published: 1 day ago
-
-Title: $3T flows through U.S. nonprofits every year
-URL: https://charitysense.com/insights/the-3-trillion-blind-spot
-Published: 1 day ago
+Title: Every single board computer I tested in 2025
+URL: https://bret.dk/every-single-board-computer-i-tested-in-2025/
+Published: 4 days ago
 
 ```
 <br/>

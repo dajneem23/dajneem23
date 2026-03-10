@@ -94,7 +94,7 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (4 days ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (6 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Agent Safehouse – macOS-native sandboxing for local agents
-URL: https://agent-safehouse.dev/
+Title: Sir Tony Hoare has died
+URL: http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html
 Published: 1 day ago
 
-Title: Blacksky AppView
-URL: https://github.com/blacksky-algorithms/atproto
+Title: Building a Procedural Hex Map with Wave Function Collapse
+URL: https://felixturner.github.io/hex-map-wfc/article/
 Published: 1 day ago
 
-Title: Microscopes can see video on a laserdisc
-URL: https://www.youtube.com/watch?v=qZuR-772cks
-Published: 2 days ago
-
-Title: We should revisit literate programming in the agent era
-URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+Title: JSLinux Now Supports x86_64
+URL: https://bellard.org/jslinux/
 Published: 1 day ago
 
-Title: Every single board computer I tested in 2025
-URL: https://bret.dk/every-single-board-computer-i-tested-in-2025/
-Published: 4 days ago
+Title: Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
+URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+Published: 1 day ago
+
+Title: The first airplane fatality
+URL: https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html
+Published: 1 day ago
 
 ```
 <br/>

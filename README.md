@@ -94,13 +94,13 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (5 days ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 week ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 week ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (2 weeks ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (6 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Sir Tony Hoare has died
-URL: http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html
+Title: Tony Hoare has died
+URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
 Published: 1 day ago
 
-Title: Building a Procedural Hex Map with Wave Function Collapse
-URL: https://felixturner.github.io/hex-map-wfc/article/
+Title: U+237C ⍼ Is Azimuth
+URL: https://ionathan.ch/2026/02/16/angzarr.html
 Published: 1 day ago
 
-Title: JSLinux Now Supports x86_64
-URL: https://bellard.org/jslinux/
+Title: Cloudflare Crawl Endpoint
+URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
 Published: 1 day ago
 
-Title: Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
-URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+Title: Agents that run while I sleep
+URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
 Published: 1 day ago
 
-Title: The first airplane fatality
-URL: https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html
+Title: Yann LeCun raises $1B to build AI that understands the physical world
+URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
 Published: 1 day ago
 
 ```

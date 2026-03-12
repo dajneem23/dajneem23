@@ -94,7 +94,7 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (6 days ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Tony Hoare has died
-URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+Title: Temporal: A nine-year journey to fix time in JavaScript
+URL: https://bloomberg.github.io/js-blog/post/temporal/
 Published: 1 day ago
 
-Title: U+237C ⍼ Is Azimuth
-URL: https://ionathan.ch/2026/02/16/angzarr.html
+Title: Many SWE-bench-Passing PRs would not be merged
+URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
 Published: 1 day ago
 
-Title: Cloudflare Crawl Endpoint
-URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
+Title: Don't post generated/AI-edited comments. HN is for conversation between humans.
+URL: https://news.ycombinator.com/newsguidelines.html#generated
 Published: 1 day ago
 
-Title: Agents that run while I sleep
-URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+Title: Making WebAssembly a first-class language on the Web
+URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
 Published: 1 day ago
 
-Title: Yann LeCun raises $1B to build AI that understands the physical world
-URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+Title: Personal Computer by Perplexity
+URL: https://www.perplexity.ai/personal-computer-waitlist
 Published: 1 day ago
 
 ```

@@ -94,11 +94,11 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (6 days ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 week ago)
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 week ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (2 weeks ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Temporal: A nine-year journey to fix time in JavaScript
-URL: https://bloomberg.github.io/js-blog/post/temporal/
+Title: Shall I implement it? No
+URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
 Published: 1 day ago
 
-Title: Many SWE-bench-Passing PRs would not be merged
-URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+Title: Malus – Clean Room as a Service
+URL: https://malus.sh
 Published: 1 day ago
 
-Title: Don't post generated/AI-edited comments. HN is for conversation between humans.
-URL: https://news.ycombinator.com/newsguidelines.html#generated
+Title: Bubble Sorted Amen Break
+URL: https://parametricavocado.itch.io/amen-sorting
 Published: 1 day ago
 
-Title: Making WebAssembly a first-class language on the Web
-URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+Title: Reversing memory loss via gut-brain communication
+URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html
 Published: 1 day ago
 
-Title: Personal Computer by Perplexity
-URL: https://www.perplexity.ai/personal-computer-waitlist
+Title: ATMs didn't kill bank teller jobs, but the iPhone did
+URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
 Published: 1 day ago
 
 ```

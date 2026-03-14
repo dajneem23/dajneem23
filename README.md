@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Shall I implement it? No
-URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
+Title: I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites
+URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys
 Published: 1 day ago
 
-Title: Malus – Clean Room as a Service
-URL: https://malus.sh
+Title: Can I run AI locally?
+URL: https://www.canirun.ai/
 Published: 1 day ago
 
-Title: Bubble Sorted Amen Break
-URL: https://parametricavocado.itch.io/amen-sorting
+Title: Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group
+URL: https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/
 Published: 1 day ago
 
-Title: Reversing memory loss via gut-brain communication
-URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html
-Published: 1 day ago
+Title: Show HN: Channel Surfer – Watch YouTube like it’s cable TV
+URL: https://channelsurfer.tv
+Published: 3 days ago
 
-Title: ATMs didn't kill bank teller jobs, but the iPhone did
-URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+Title: Mouser: An open source alternative to Logi-Plus mouse software
+URL: https://github.com/TomBadash/MouseControl
 Published: 1 day ago
 
 ```

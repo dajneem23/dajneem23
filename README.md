@@ -102,12 +102,12 @@
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (2 weeks ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites
-URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys
+Title: Show HN: Han – A Korean programming language written in Rust
+URL: https://github.com/xodn348/han
 Published: 1 day ago
 
-Title: Can I run AI locally?
-URL: https://www.canirun.ai/
+Title: Changes to OpenTTD Distribution on Steam
+URL: https://www.openttd.org/news/2026/03/14/steam-changes
 Published: 1 day ago
 
-Title: Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group
-URL: https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/
+Title: The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals
+URL: https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals
 Published: 1 day ago
 
-Title: Show HN: Channel Surfer – Watch YouTube like it’s cable TV
-URL: https://channelsurfer.tv
-Published: 3 days ago
+Title: Anthropic invests $100M into the Claude Partner Network
+URL: https://www.anthropic.com/news/claude-partner-network
+Published: 1 day ago
 
-Title: Mouser: An open source alternative to Logi-Plus mouse software
-URL: https://github.com/TomBadash/MouseControl
+Title: Claude March 2026 usage promotion
+URL: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
 Published: 1 day ago
 
 ```

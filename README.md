@@ -96,7 +96,7 @@
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 week ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (2 weeks ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (2 weeks ago)
 
@@ -107,10 +107,10 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (4 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Han – A Korean programming language written in Rust
-URL: https://github.com/xodn348/han
+Title: Canada's bill C-22 mandates mass metadata surveillance of Canadians
+URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
 Published: 1 day ago
 
-Title: Changes to OpenTTD Distribution on Steam
-URL: https://www.openttd.org/news/2026/03/14/steam-changes
+Title: Chrome DevTools MCP
+URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
 Published: 1 day ago
 
-Title: The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals
-URL: https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals
+Title: The 49MB web page
+URL: https://thatshubham.com/blog/news-audit
 Published: 1 day ago
 
-Title: Anthropic invests $100M into the Claude Partner Network
-URL: https://www.anthropic.com/news/claude-partner-network
+Title: LLMs can be exhausting
+URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
 Published: 1 day ago
 
-Title: Claude March 2026 usage promotion
-URL: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+Title: LLM Architecture Gallery
+URL: https://sebastianraschka.com/llm-architecture-gallery/
 Published: 1 day ago
 
 ```

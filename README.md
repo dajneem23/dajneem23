@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Canada's bill C-22 mandates mass metadata surveillance of Canadians
-URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+Title: Leanstral: Open-Source foundation for trustworthy vibe-coding
+URL: https://mistral.ai/news/leanstral
 Published: 1 day ago
 
-Title: Chrome DevTools MCP
-URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+Title: Meta’s renewed commitment to jemalloc
+URL: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
 Published: 1 day ago
 
-Title: The 49MB web page
-URL: https://thatshubham.com/blog/news-audit
+Title: The “small web” is bigger than you might think
+URL: https://kevinboone.me/small_web_is_big.html
 Published: 1 day ago
 
-Title: LLMs can be exhausting
-URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+Title: US commercial insurers pay 254% of Medicare for the same hospital procedures
+URL: https://github.com/rexrodeo/american-healthcare-conundrum
 Published: 1 day ago
 
-Title: LLM Architecture Gallery
-URL: https://sebastianraschka.com/llm-architecture-gallery/
+Title: Show HN: Trackm, a personal finance web app
+URL: https://trackm.net
 Published: 1 day ago
 
 ```

@@ -100,7 +100,7 @@
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (2 weeks ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (3 weeks ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 week ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Leanstral: Open-Source foundation for trustworthy vibe-coding
-URL: https://mistral.ai/news/leanstral
+Title: A Decade of Slug
+URL: https://terathon.com/blog/decade-slug.html
 Published: 1 day ago
 
-Title: Meta’s renewed commitment to jemalloc
-URL: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
+Title: Python 3.15's JIT is now back on track
+URL: https://fidget-spinner.github.io/posts/jit-on-track.html
 Published: 1 day ago
 
-Title: The “small web” is bigger than you might think
-URL: https://kevinboone.me/small_web_is_big.html
+Title: Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System
+URL: https://github.com/gsd-build/get-shit-done
 Published: 1 day ago
 
-Title: US commercial insurers pay 254% of Medicare for the same hospital procedures
-URL: https://github.com/rexrodeo/american-healthcare-conundrum
+Title: Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'
+URL: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level
 Published: 1 day ago
 
-Title: Show HN: Trackm, a personal finance web app
-URL: https://trackm.net
-Published: 1 day ago
+Title: It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]
+URL: https://www.youtube.com/watch?v=3Ploi723hg4
+Published: 5 days ago
 
 ```
 <br/>

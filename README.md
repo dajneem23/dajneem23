@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: A Decade of Slug
-URL: https://terathon.com/blog/decade-slug.html
+Title: Warranty Void If Regenerated
+URL: https://nearzero.software/p/warranty-void-if-regenerated
 Published: 1 day ago
 
-Title: Python 3.15's JIT is now back on track
-URL: https://fidget-spinner.github.io/posts/jit-on-track.html
+Title: Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
+URL: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+Published: 4 days ago
+
+Title: OpenRocket
+URL: https://openrocket.info/
+Published: 4 days ago
+
+Title: Wander – A tiny, decentralised tool to explore the small web
+URL: https://susam.net/wander/
 Published: 1 day ago
 
-Title: Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System
-URL: https://github.com/gsd-build/get-shit-done
+Title: Rob Pike’s Rules of Programming (1989)
+URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
 Published: 1 day ago
-
-Title: Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'
-URL: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level
-Published: 1 day ago
-
-Title: It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]
-URL: https://www.youtube.com/watch?v=3Ploi723hg4
-Published: 5 days ago
 
 ```
 <br/>

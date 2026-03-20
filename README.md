@@ -94,11 +94,11 @@
 
 
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 week ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 weeks ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (2 weeks ago)
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (2 weeks ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (3 weeks ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Warranty Void If Regenerated
-URL: https://nearzero.software/p/warranty-void-if-regenerated
+Title: Cockpit is a web-based graphical interface for servers
+URL: https://github.com/cockpit-project/cockpit
 Published: 1 day ago
 
-Title: Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
-URL: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
-Published: 4 days ago
-
-Title: OpenRocket
-URL: https://openrocket.info/
-Published: 4 days ago
-
-Title: Wander – A tiny, decentralised tool to explore the small web
-URL: https://susam.net/wander/
+Title: Astral to Join OpenAI
+URL: https://astral.sh/blog/openai
 Published: 1 day ago
 
-Title: Rob Pike’s Rules of Programming (1989)
-URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+Title: Bombarding gamblers with offers greatly increases betting and gambling harm
+URL: https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html
 Published: 1 day ago
+
+Title: Google details new 24-hour process to sideload unverified Android apps
+URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+Published: 1 day ago
+
+Title: How the Turner twins are mythbusting modern technical apparel
+URL: https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/
+Published: 3 days ago
 
 ```
 <br/>

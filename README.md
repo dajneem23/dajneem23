@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Cockpit is a web-based graphical interface for servers
-URL: https://github.com/cockpit-project/cockpit
+Title: OpenCode – The open source AI coding agent
+URL: https://opencode.ai/
 Published: 1 day ago
 
-Title: Astral to Join OpenAI
-URL: https://astral.sh/blog/openai
+Title: Our commitment to Windows quality
+URL: https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/
 Published: 1 day ago
 
-Title: Bombarding gamblers with offers greatly increases betting and gambling harm
-URL: https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html
+Title: Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists
+URL: https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029
 Published: 1 day ago
 
-Title: Google details new 24-hour process to sideload unverified Android apps
-URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+Title: We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster
+URL: https://www.openui.com/blog/rust-wasm-parser
 Published: 1 day ago
 
-Title: How the Turner twins are mythbusting modern technical apparel
-URL: https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/
-Published: 3 days ago
+Title: France's aircraft carrier located in real time by Le Monde through fitness app
+URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html
+Published: 1 day ago
 
 ```
 <br/>

@@ -102,7 +102,7 @@
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (3 weeks ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (4 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: OpenCode – The open source AI coding agent
-URL: https://opencode.ai/
+Title: Do Not Turn Child Protection into Internet Access Control
+URL: https://news.dyne.org/child-protection-is-not-access-control/
 Published: 1 day ago
 
-Title: Our commitment to Windows quality
-URL: https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/
+Title: Tinybox- offline AI device 120B parameters
+URL: https://tinygrad.org/#tinybox
 Published: 1 day ago
 
-Title: Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists
-URL: https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029
+Title: Professional video editing, right in the browser with WebGPU and WASM
+URL: https://tooscut.app/
 Published: 1 day ago
 
-Title: We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster
-URL: https://www.openui.com/blog/rust-wasm-parser
+Title: Some things just take time
+URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
 Published: 1 day ago
 
-Title: France's aircraft carrier located in real time by Le Monde through fitness app
-URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html
+Title: Attempts to post the latest Trivy security incident have been marked [dead]
+URL: https://news.ycombinator.com/from?site=github.com%2Faquasecurity
 Published: 1 day ago
 
 ```

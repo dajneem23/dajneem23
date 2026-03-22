@@ -25,22 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bad Liar</div>
-                                    <div class="artist">Imagine Dragons</div>
+                                    <div class="name">Moral of the Story</div>
+                                    <div class="artist">EAshe</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I don't see nobody but you</div>
-                                    <div class="artist">Yusei</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The Nights</div>
-                                    <div class="artist">Avicii</div>
+                                    <div class="name">(You Drive Me) Crazy</div>
+                                    <div class="artist">Britney Spears</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">How Deep Is Your Love</div>
                                     <div class="artist">Bee Gees</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dancing in My Room</div>
+                                    <div class="artist">E347aidan</div>
                                 </div>
                             </div>
                         </div>

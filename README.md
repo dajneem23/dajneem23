@@ -96,7 +96,7 @@
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 weeks ago)
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (2 weeks ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 weeks ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Do Not Turn Child Protection into Internet Access Control
-URL: https://news.dyne.org/child-protection-is-not-access-control/
+Title: Diverse perspectives on AI from Rust contributors and maintainers
+URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html
 Published: 1 day ago
 
-Title: Tinybox- offline AI device 120B parameters
-URL: https://tinygrad.org/#tinybox
+Title: PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
 Published: 1 day ago
 
-Title: Professional video editing, right in the browser with WebGPU and WASM
-URL: https://tooscut.app/
+Title: The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
+URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
 Published: 1 day ago
 
-Title: Some things just take time
-URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+Title: The future of version control
+URL: https://bramcohen.com/p/manyana
 Published: 1 day ago
 
-Title: Attempts to post the latest Trivy security incident have been marked [dead]
-URL: https://news.ycombinator.com/from?site=github.com%2Faquasecurity
+Title: Reports of code's death are greatly exaggerated
+URL: https://stevekrouse.com/precision
 Published: 1 day ago
 
 ```

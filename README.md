@@ -102,12 +102,12 @@
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (4 weeks ago)
+- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Diverse perspectives on AI from Rust contributors and maintainers
-URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html
+Title: Windows 3.1 tiled background .bmp archive
+URL: https://github.com/andreasjansson/win-3.1-backgrounds
 Published: 1 day ago
 
-Title: PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
-URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
+Title: FCC Updates Covered List to Include Foreign-Made Consumer Routers
+URL: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
 Published: 1 day ago
 
-Title: The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
-URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
+Title: Autoresearch on an old research idea
+URL: https://ykumar.me/blog/eclip-autoresearch/
 Published: 1 day ago
 
-Title: The future of version control
-URL: https://bramcohen.com/p/manyana
+Title: iPhone 17 Pro Demonstrated Running a 400B LLM
+URL: https://twitter.com/anemll/status/2035901335984611412
 Published: 1 day ago
 
-Title: Reports of code's death are greatly exaggerated
-URL: https://stevekrouse.com/precision
-Published: 1 day ago
+Title: Ju Ci (锔瓷): The Ancient Art of Repairing Porcelain
+URL: https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/
+Published: 3 days ago
 
 ```
 <br/>

@@ -94,27 +94,29 @@
 
 
 
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 day ago)
+
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 weeks ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 weeks ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (3 weeks ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
-
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance. (1 month ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 weeks ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (2 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940)
 
@@ -123,8 +125,6 @@
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
 
 - [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance.
-
-- [dajneem23/PriceOracle](https://github.com/dajneem23/PriceOracle) - Unified FX, stock, and commodity prices from multiple sources
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Windows 3.1 tiled background .bmp archive
-URL: https://github.com/andreasjansson/win-3.1-backgrounds
+Title: I wanted to build vertical SaaS for pest control, so I took a technician job
+URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
 Published: 1 day ago
 
-Title: FCC Updates Covered List to Include Foreign-Made Consumer Routers
-URL: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+Title: Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
+URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
 Published: 1 day ago
 
-Title: Autoresearch on an old research idea
-URL: https://ykumar.me/blog/eclip-autoresearch/
+Title: Arm AGI CPU
+URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
 Published: 1 day ago
 
-Title: iPhone 17 Pro Demonstrated Running a 400B LLM
-URL: https://twitter.com/anemll/status/2035901335984611412
+Title: Apple Business
+URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
 Published: 1 day ago
 
-Title: Ju Ci (锔瓷): The Ancient Art of Repairing Porcelain
-URL: https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/
-Published: 3 days ago
+Title: We’re saying goodbye to Sora
+URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+Published: 1 day ago
 
 ```
 <br/>

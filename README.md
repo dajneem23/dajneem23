@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 day ago)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (2 days ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 weeks ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: I wanted to build vertical SaaS for pest control, so I took a technician job
-URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
+Title: Running Tesla Model 3's computer on my desk using parts from crashed cars
+URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
 Published: 1 day ago
 
-Title: Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
-URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+Title: ARC-AGI-3
+URL: https://arcprize.org/arc-agi/3
 Published: 1 day ago
 
-Title: Arm AGI CPU
-URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
+Title: The EU still wants to scan  your private messages and photos
+URL: https://fightchatcontrol.eu/?foo=bar
 Published: 1 day ago
 
-Title: Apple Business
-URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+Title: Earthquake scientists reveal how overplowing weakens soil at experimental farm
+URL: https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/
 Published: 1 day ago
 
-Title: We’re saying goodbye to Sora
-URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+Title: 90% of Claude-linked output going to GitHub repos w <2 stars
+URL: https://www.claudescode.dev/?window=since_launch
 Published: 1 day ago
 
 ```

@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (2 days ago)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (3 days ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (2 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 weeks ago)
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (3 weeks ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (4 weeks ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 weeks ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Running Tesla Model 3's computer on my desk using parts from crashed cars
-URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
+Title: Why so many control rooms were seafoam green (2025)
+URL: https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam
+Published: 2 days ago
+
+Title: Deploytarot.com – tarot card reading for deployments
+URL: https://deploytarot.com/setup
 Published: 1 day ago
 
-Title: ARC-AGI-3
-URL: https://arcprize.org/arc-agi/3
+Title: Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
+URL: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
 Published: 1 day ago
 
-Title: The EU still wants to scan  your private messages and photos
-URL: https://fightchatcontrol.eu/?foo=bar
-Published: 1 day ago
+Title: DOOM Over DNS
+URL: https://github.com/resumex/doom-over-dns
+Published: 4 days ago
 
-Title: Earthquake scientists reveal how overplowing weakens soil at experimental farm
-URL: https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/
-Published: 1 day ago
-
-Title: 90% of Claude-linked output going to GitHub repos w <2 stars
-URL: https://www.claudescode.dev/?window=since_launch
+Title: New York City hospitals drop Palantir as controversial AI firm expands in UK
+URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai
 Published: 1 day ago
 
 ```

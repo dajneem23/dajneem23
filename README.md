@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (3 days ago)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (4 days ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Why so many control rooms were seafoam green (2025)
-URL: https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam
+Title: Make macOS consistently bad (unironically)
+URL: https://lr0.org/blog/p/macos/
+Published: 1 day ago
+
+Title: Improving Composer through real-time RL
+URL: https://cursor.com/blog/real-time-rl-for-composer
 Published: 2 days ago
 
-Title: Deploytarot.com – tarot card reading for deployments
-URL: https://deploytarot.com/setup
+Title: Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
+URL: https://github.com/davidmonterocrespo24/velxio
 Published: 1 day ago
 
-Title: Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
-URL: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
+Title: Anatomy of the .claude/ folder
+URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
 Published: 1 day ago
 
-Title: DOOM Over DNS
-URL: https://github.com/resumex/doom-over-dns
-Published: 4 days ago
-
-Title: New York City hospitals drop Palantir as controversial AI firm expands in UK
-URL: https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai
+Title: Show HN: Twitch Roulette – Find live streamers who need views the most
+URL: https://twitchroulette.net/
 Published: 1 day ago
 
 ```

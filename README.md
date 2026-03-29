@@ -94,22 +94,22 @@
 
 
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (4 days ago)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (5 days ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 weeks ago)
 
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (4 weeks ago)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 month ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 weeks ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (1 month ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
 #### 🌱 My latest projects
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Make macOS consistently bad (unironically)
-URL: https://lr0.org/blog/p/macos/
+Title: South Korea Mandates Solar Panels for Public Parking Lots
+URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ
 Published: 1 day ago
 
-Title: Improving Composer through real-time RL
-URL: https://cursor.com/blog/real-time-rl-for-composer
+Title: Founder of GitLab battles cancer by founding companies
+URL: https://sytse.com/cancer/
+Published: 1 day ago
+
+Title: CSS is DOOMed
+URL: https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+Published: 1 day ago
+
+Title: Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
+URL: https://twitter.com/BoWang87/status/2037648937453232504
+Published: 1 day ago
+
+Title: OpenBSD on Motorola 88000 Processors
+URL: http://miod.online.fr/software/openbsd/stories/m88k1.html
 Published: 2 days ago
-
-Title: Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
-URL: https://github.com/davidmonterocrespo24/velxio
-Published: 1 day ago
-
-Title: Anatomy of the .claude/ folder
-URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
-Published: 1 day ago
-
-Title: Show HN: Twitch Roulette – Find live streamers who need views the most
-URL: https://twitchroulette.net/
-Published: 1 day ago
 
 ```
 <br/>

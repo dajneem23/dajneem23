@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (5 days ago)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (6 days ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (3 weeks ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (4 weeks ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: South Korea Mandates Solar Panels for Public Parking Lots
-URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ
+Title: Claude Code runs Git reset –hard origin/main against project repo every 10 mins
+URL: https://github.com/anthropics/claude-code/issues/40710
 Published: 1 day ago
 
-Title: Founder of GitLab battles cancer by founding companies
-URL: https://sytse.com/cancer/
+Title: ChatGPT won't let you type until Cloudflare reads your React state
+URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
 Published: 1 day ago
 
-Title: CSS is DOOMed
-URL: https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+Title: The Cognitive Dark Forest
+URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
 Published: 1 day ago
 
-Title: Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
-URL: https://twitter.com/BoWang87/status/2037648937453232504
+Title: Voyager 1 runs on 69 KB of memory and an 8-track tape recorder
+URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
 Published: 1 day ago
 
-Title: OpenBSD on Motorola 88000 Processors
-URL: http://miod.online.fr/software/openbsd/stories/m88k1.html
-Published: 2 days ago
+Title: Coding Agents Could Make Free Software Matter Again
+URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+Published: 1 day ago
 
 ```
 <br/>

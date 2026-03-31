@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (6 days ago)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Code runs Git reset –hard origin/main against project repo every 10 mins
-URL: https://github.com/anthropics/claude-code/issues/40710
+Title: Fedware: Government apps that spy harder than the apps they ban
+URL: https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/
 Published: 1 day ago
 
-Title: ChatGPT won't let you type until Cloudflare reads your React state
-URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+Title: Android Developer Verification
+URL: https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html
 Published: 1 day ago
 
-Title: The Cognitive Dark Forest
-URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
+Title: Do your own writing
+URL: https://alexhwoods.com/dont-let-ai-write-for-you/
 Published: 1 day ago
 
-Title: Voyager 1 runs on 69 KB of memory and an 8-track tape recorder
-URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+Title: Learn Claude Code by doing, not reading
+URL: https://claude.nagdy.me/
 Published: 1 day ago
 
-Title: Coding Agents Could Make Free Software Matter Again
-URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+Title: Turning a MacBook into a touchscreen with $1 of hardware (2018)
+URL: https://anishathalye.com/macbook-touchscreen/
 Published: 1 day ago
 
 ```

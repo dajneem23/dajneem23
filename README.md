@@ -94,27 +94,29 @@
 
 
 
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 day ago)
+
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (4 weeks ago)
+- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 month ago)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 month ago)
-
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (3 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (4 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
@@ -123,8 +125,6 @@
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
-
-- [dajneem23/my-evm-security-skills](https://github.com/dajneem23/my-evm-security-skills) - A comprehensive security assessment and hardening workflow for EVM smart contracts. This skill provides systematic audit methodology for Solidity and Vyper code, covering vulnerability detection, exploit pattern matching, and remediation guidance.
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Fedware: Government apps that spy harder than the apps they ban
-URL: https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/
+Title: The Claude Code Source Leak: fake tools, frustration regexes, undercover mode
+URL: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
 Published: 1 day ago
 
-Title: Android Developer Verification
-URL: https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html
+Title: Ministack (Replacement for LocalStack)
+URL: https://ministack.org/
 Published: 1 day ago
 
-Title: Do your own writing
-URL: https://alexhwoods.com/dont-let-ai-write-for-you/
+Title: A dot a day keeps the clutter away
+URL: https://scottlawsonbc.com/post/dot-system
 Published: 1 day ago
 
-Title: Learn Claude Code by doing, not reading
-URL: https://claude.nagdy.me/
+Title: OpenAI closes funding round at an $852B valuation
+URL: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
 Published: 1 day ago
 
-Title: Turning a MacBook into a touchscreen with $1 of hardware (2018)
-URL: https://anishathalye.com/macbook-touchscreen/
-Published: 1 day ago
+Title: 4D Doom
+URL: https://github.com/danieldugas/HYPERHELL
+Published: 5 days ago
 
 ```
 <br/>

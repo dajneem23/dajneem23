@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 day ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 day ago)
+
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (2 days ago)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 month ago)
-
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook) (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710)
+
 - [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
@@ -123,8 +125,6 @@
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
-
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: The Claude Code Source Leak: fake tools, frustration regexes, undercover mode
-URL: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+Title: A new C++ back end for ocamlc
+URL: https://github.com/ocaml/ocaml/pull/14701
 Published: 1 day ago
 
-Title: Ministack (Replacement for LocalStack)
-URL: https://ministack.org/
+Title: Artemis II lifts off: four astronauts begin 10-day lunar mission
+URL: https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates
 Published: 1 day ago
 
-Title: A dot a day keeps the clutter away
-URL: https://scottlawsonbc.com/post/dot-system
+Title: DRAM pricing is killing the hobbyist SBC market
+URL: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
 Published: 1 day ago
 
-Title: OpenAI closes funding round at an $852B valuation
-URL: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+Title: EmDash – A spiritual successor to WordPress that solves plugin security
+URL: https://blog.cloudflare.com/emdash-wordpress/
 Published: 1 day ago
 
-Title: 4D Doom
-URL: https://github.com/danieldugas/HYPERHELL
-Published: 5 days ago
+Title: Obfuscation is not security – AI can deobfuscate any minified JavaScript code
+URL: https://www.afterpack.dev/blog/claude-code-source-leak
+Published: 1 day ago
 
 ```
 <br/>

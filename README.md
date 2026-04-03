@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 day ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (2 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (2 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 days ago)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (3 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (4 weeks ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 month ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (4 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: A new C++ back end for ocamlc
-URL: https://github.com/ocaml/ocaml/pull/14701
+Title: Google releases Gemma 4 open models
+URL: https://deepmind.google/models/gemma/gemma-4/
 Published: 1 day ago
 
-Title: Artemis II lifts off: four astronauts begin 10-day lunar mission
-URL: https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates
+Title: Tailscale's new macOS home
+URL: https://tailscale.com/blog/macos-notch-escape
 Published: 1 day ago
 
-Title: DRAM pricing is killing the hobbyist SBC market
-URL: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
+Title: Decisions that eroded trust in Azure – by a former Azure Core engineer
+URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
 Published: 1 day ago
 
-Title: EmDash – A spiritual successor to WordPress that solves plugin security
-URL: https://blog.cloudflare.com/emdash-wordpress/
+Title: Artemis II's toilet is a moon mission milestone
+URL: https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/
 Published: 1 day ago
 
-Title: Obfuscation is not security – AI can deobfuscate any minified JavaScript code
-URL: https://www.afterpack.dev/blog/claude-code-source-leak
+Title: Cursor 3
+URL: https://cursor.com/blog/cursor-3
 Published: 1 day ago
 
 ```

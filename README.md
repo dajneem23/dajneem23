@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (2 days ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (3 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 days ago)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.7.0) - `server-0.7.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Google releases Gemma 4 open models
-URL: https://deepmind.google/models/gemma/gemma-4/
+Title: Artemis II crew take “spectacular” image of Earth
+URL: https://www.bbc.com/news/articles/ce8jzr423p9o
 Published: 1 day ago
 
-Title: Tailscale's new macOS home
-URL: https://tailscale.com/blog/macos-notch-escape
+Title: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+URL: https://news.ycombinator.com/item?id=47633396
 Published: 1 day ago
 
-Title: Decisions that eroded trust in Azure – by a former Azure Core engineer
-URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+Title: Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C
+URL: https://github.com/cmc-labo/tinyos-rtos
 Published: 1 day ago
 
-Title: Artemis II's toilet is a moon mission milestone
-URL: https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/
+Title: iNaturalist
+URL: https://www.inaturalist.org/
 Published: 1 day ago
 
-Title: Cursor 3
-URL: https://cursor.com/blog/cursor-3
-Published: 1 day ago
+Title: What changes when you turn a Linux box into a router
+URL: https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/
+Published: 4 days ago
 
 ```
 <br/>

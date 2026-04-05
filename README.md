@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (3 days ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (4 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (5 days ago)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (4 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 month ago)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 month ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Artemis II crew take “spectacular” image of Earth
-URL: https://www.bbc.com/news/articles/ce8jzr423p9o
+Title: Show HN: A game where you build a GPU
+URL: https://jaso1024.com/mvidia/
 Published: 1 day ago
 
-Title: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
-URL: https://news.ycombinator.com/item?id=47633396
+Title: How many products does Microsoft have named 'Copilot'?
+URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
 Published: 1 day ago
 
-Title: Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C
-URL: https://github.com/cmc-labo/tinyos-rtos
-Published: 1 day ago
-
-Title: iNaturalist
-URL: https://www.inaturalist.org/
-Published: 1 day ago
-
-Title: What changes when you turn a Linux box into a router
-URL: https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/
+Title: OpenScreen is an open-source alternative to Screen Studio
+URL: https://github.com/siddharthvaddem/openscreen
 Published: 4 days ago
+
+Title: Embarrassingly simple self-distillation improves code generation
+URL: https://arxiv.org/abs/2604.01193
+Published: 1 day ago
+
+Title: LLM Wiki – example of an "idea file"
+URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+Published: 1 day ago
 
 ```
 <br/>

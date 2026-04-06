@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (4 days ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (5 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (5 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (6 days ago)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: A game where you build a GPU
-URL: https://jaso1024.com/mvidia/
+Title: In Japan, the robot isn't coming for your job; it's filling the one nobody wants
+URL: https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
 Published: 1 day ago
 
-Title: How many products does Microsoft have named 'Copilot'?
-URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+Title: Gemma 4 on iPhone
+URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
 Published: 1 day ago
 
-Title: OpenScreen is an open-source alternative to Screen Studio
-URL: https://github.com/siddharthvaddem/openscreen
-Published: 4 days ago
+Title: LÖVE: 2D Game Framework for Lua
+URL: https://github.com/love2d/love
+Published: 2 days ago
 
-Title: Embarrassingly simple self-distillation improves code generation
-URL: https://arxiv.org/abs/2604.01193
+Title: Artemis II crew see first glimpse of far side of Moon [video]
+URL: https://www.bbc.com/news/videos/ce3d5gkd2geo
 Published: 1 day ago
 
-Title: LLM Wiki – example of an "idea file"
-URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+Title: Eight years of wanting, three months of building with AI
+URL: https://lalitm.com/post/building-syntaqlite-ai/
 Published: 1 day ago
 
 ```

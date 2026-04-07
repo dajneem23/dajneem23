@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (5 days ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (1 day ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (6 days ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (6 days ago)
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (1 week ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 week ago)
+
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (2 weeks ago)
 
 - [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 month ago)
-
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940) (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)
+
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710)
 
 - [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)
@@ -123,8 +125,6 @@
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
 - [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940)
-
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: In Japan, the robot isn't coming for your job; it's filling the one nobody wants
-URL: https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
+Title: Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
+URL: https://github.com/matthartman/ghost-pepper
 Published: 1 day ago
 
-Title: Gemma 4 on iPhone
-URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+Title: Anthropic expands partnership w Google and Broadcom for multiple GW of compute
+URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
 Published: 1 day ago
 
-Title: LÖVE: 2D Game Framework for Lua
-URL: https://github.com/love2d/love
-Published: 2 days ago
-
-Title: Artemis II crew see first glimpse of far side of Moon [video]
-URL: https://www.bbc.com/news/videos/ce3d5gkd2geo
+Title: After 20 years I turned off Google Adsense for my websites
+URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm
 Published: 1 day ago
 
-Title: Eight years of wanting, three months of building with AI
-URL: https://lalitm.com/post/building-syntaqlite-ai/
+Title: Launch HN: Freestyle – Sandboxes for Coding Agents
+URL: https://www.freestyle.sh/
+Published: 1 day ago
+
+Title: Sam Altman may control our future – can he be trusted?
+URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
 Published: 1 day ago
 
 ```

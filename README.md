@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (1 day ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
 
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (6 days ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (1 day ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 week ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 day ago)
 
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack) (2 weeks ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (2 days ago)
 
-- [apache/iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed (1 month ago)
+- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)
+
 - [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710)
@@ -123,8 +125,6 @@
 - [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
-
-- [dajneem23/CVE-2026-25940](https://github.com/dajneem23/CVE-2026-25940)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
-URL: https://github.com/matthartman/ghost-pepper
+Title: Project Glasswing: Securing critical software for the AI era
+URL: https://www.anthropic.com/glasswing
 Published: 1 day ago
 
-Title: Anthropic expands partnership w Google and Broadcom for multiple GW of compute
-URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+Title: Lunar Flyby
+URL: https://www.nasa.gov/gallery/lunar-flyby/
 Published: 1 day ago
 
-Title: After 20 years I turned off Google Adsense for my websites
-URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm
+Title: System Card: Claude Mythos Preview [pdf]
+URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
 Published: 1 day ago
 
-Title: Launch HN: Freestyle – Sandboxes for Coding Agents
-URL: https://www.freestyle.sh/
+Title: S3 Files
+URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
 Published: 1 day ago
 
-Title: Sam Altman may control our future – can he be trusted?
-URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+Title: GLM-5.1: Towards Long-Horizon Tasks
+URL: https://z.ai/blog/glm-5.1
 Published: 1 day ago
 
 ```

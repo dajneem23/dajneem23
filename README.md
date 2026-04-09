@@ -96,19 +96,19 @@
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (1 day ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (2 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 day ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (2 days ago)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (2 days ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (3 days ago)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
 #### 🎉 Recent releases
 
 
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.7.0) - `server-0.7.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Project Glasswing: Securing critical software for the AI era
-URL: https://www.anthropic.com/glasswing
+Title: I ported Mac OS X to the Nintendo Wii
+URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
 Published: 1 day ago
 
-Title: Lunar Flyby
-URL: https://www.nasa.gov/gallery/lunar-flyby/
+Title: USB for Software Developers: An introduction to writing userspace USB drivers
+URL: https://werwolv.net/posts/usb_for_sw_devs/
 Published: 1 day ago
 
-Title: System Card: Claude Mythos Preview [pdf]
-URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+Title: Git commands I run before reading any code
+URL: https://piechowski.io/post/git-commands-before-reading-code/
 Published: 1 day ago
 
-Title: S3 Files
-URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
+Title: Understanding the Kalman filter with a simple radar example
+URL: https://kalmanfilter.net
 Published: 1 day ago
 
-Title: GLM-5.1: Towards Long-Horizon Tasks
-URL: https://z.ai/blog/glm-5.1
+Title: Muse Spark: Scaling towards personal superintelligence
+URL: https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1
 Published: 1 day ago
 
 ```

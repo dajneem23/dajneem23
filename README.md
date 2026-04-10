@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 day ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (2 days ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (3 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (2 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 days ago)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (3 days ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (4 days ago)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: I ported Mac OS X to the Nintendo Wii
-URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
+Title: Many African families spend fortunes burying their dead
+URL: https://davidoks.blog/p/how-funerals-keep-africa-poor
 Published: 1 day ago
 
-Title: USB for Software Developers: An introduction to writing userspace USB drivers
-URL: https://werwolv.net/posts/usb_for_sw_devs/
+Title: Native Instant Space Switching on macOS
+URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/
 Published: 1 day ago
 
-Title: Git commands I run before reading any code
-URL: https://piechowski.io/post/git-commands-before-reading-code/
+Title: Charcuterie – Visual similarity Unicode explorer
+URL: https://charcuterie.elastiq.ch/
 Published: 1 day ago
 
-Title: Understanding the Kalman filter with a simple radar example
-URL: https://kalmanfilter.net
+Title: Reverse engineering Gemini's SynthID detection
+URL: https://github.com/aloshdenny/reverse-SynthID
 Published: 1 day ago
 
-Title: Muse Spark: Scaling towards personal superintelligence
-URL: https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1
+Title: PicoZ80 – Drop-In Z80 Replacement
+URL: https://eaw.app/picoz80/
 Published: 1 day ago
 
 ```

@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (3 days ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (4 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 days ago)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (4 days ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (5 days ago)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Many African families spend fortunes burying their dead
-URL: https://davidoks.blog/p/how-funerals-keep-africa-poor
+Title: Filing the Corners Off MacBooks
+URL: https://kentwalters.com/posts/corners/
 Published: 1 day ago
 
-Title: Native Instant Space Switching on macOS
-URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/
+Title: Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
+URL: https://www.bbc.com/news/articles/cr71lkzv49po
 Published: 1 day ago
 
-Title: Charcuterie – Visual similarity Unicode explorer
-URL: https://charcuterie.elastiq.ch/
+Title: 1D Chess
+URL: https://rowan441.github.io/1dchess/chess.html
 Published: 1 day ago
 
-Title: Reverse engineering Gemini's SynthID detection
-URL: https://github.com/aloshdenny/reverse-SynthID
+Title: WireGuard makes new Windows release following Microsoft signing resolution
+URL: https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
 Published: 1 day ago
 
-Title: PicoZ80 – Drop-In Z80 Replacement
-URL: https://eaw.app/picoz80/
+Title: Industrial design files for Keychron keyboards and mice
+URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
 Published: 1 day ago
 
 ```

@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 days ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (4 days ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (5 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (5 days ago)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (5 days ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (6 days ago)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.7.0) - `server-0.7.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Filing the Corners Off MacBooks
-URL: https://kentwalters.com/posts/corners/
+Title: Small models also found the vulnerabilities that Mythos found
+URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
 Published: 1 day ago
 
-Title: Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
-URL: https://www.bbc.com/news/articles/cr71lkzv49po
+Title: Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
+URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html
 Published: 1 day ago
 
-Title: 1D Chess
-URL: https://rowan441.github.io/1dchess/chess.html
+Title: 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
+URL: https://zenodo.org/records/19513269
 Published: 1 day ago
 
-Title: WireGuard makes new Windows release following Microsoft signing resolution
-URL: https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
+Title: How We Broke Top AI Agent Benchmarks: And What Comes Next
+URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
 Published: 1 day ago
 
-Title: Industrial design files for Keychron keyboards and mice
-URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
+Title: Dark Castle
+URL: https://darkcastle.co.uk/
 Published: 1 day ago
 
 ```

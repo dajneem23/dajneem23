@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (5 days ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (5 days ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (6 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (5 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (6 days ago)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (6 days ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (1 week ago)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Small models also found the vulnerabilities that Mythos found
-URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+Title: The peril of laziness lost
+URL: https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
 Published: 1 day ago
 
-Title: Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
-URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+Title: Taking on CUDA with ROCm: 'One Step After Another'
+URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
 Published: 1 day ago
 
-Title: 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
-URL: https://zenodo.org/records/19513269
+Title: Bring Back Idiomatic Design
+URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
 Published: 1 day ago
 
-Title: How We Broke Top AI Agent Benchmarks: And What Comes Next
-URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+Title: DIY Soft Drinks
+URL: https://blinry.org/diy-soft-drinks/
 Published: 1 day ago
 
-Title: Dark Castle
-URL: https://darkcastle.co.uk/
+Title: Ask HN: What Are You Working On? (April 2026)
+URL: https://news.ycombinator.com/item?id=47741527
 Published: 1 day ago
 
 ```

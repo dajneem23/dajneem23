@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (5 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 day ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (6 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (6 days ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (6 days ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 week ago)
+
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (1 week ago)
 
 - [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (1 week ago)
-
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710) (1 week ago)
 
 #### 🎉 Recent releases
 
 
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.7.0) - `server-0.7.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: The peril of laziness lost
-URL: https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
+Title: Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them
+URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
 Published: 1 day ago
 
-Title: Taking on CUDA with ROCm: 'One Step After Another'
-URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
+Title: GitHub Stacked PRs
+URL: https://github.github.com/gh-stack/
 Published: 1 day ago
 
-Title: Bring Back Idiomatic Design
-URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+Title: Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
+URL: https://github.com/sterlingcrispin/nothing-ever-happens
 Published: 1 day ago
 
-Title: DIY Soft Drinks
-URL: https://blinry.org/diy-soft-drinks/
+Title: How to make Firefox builds 17% faster
+URL: https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/
 Published: 1 day ago
 
-Title: Ask HN: What Are You Working On? (April 2026)
-URL: https://news.ycombinator.com/item?id=47741527
+Title: (AMD) Build AI Agents That Run Locally
+URL: https://amd-gaia.ai/docs
 Published: 1 day ago
 
 ```

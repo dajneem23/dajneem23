@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 day ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 days ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (6 days ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
 - [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 week ago)
 
@@ -110,7 +110,7 @@
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (5 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them
-URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+Title: Claude Code Routines
+URL: https://code.claude.com/docs/en/routines
 Published: 1 day ago
 
-Title: GitHub Stacked PRs
-URL: https://github.github.com/gh-stack/
+Title: Rare concert recordings are landing on the Internet Archive
+URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
 Published: 1 day ago
 
-Title: Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
-URL: https://github.com/sterlingcrispin/nothing-ever-happens
+Title: Fuck the cloud (2009)
+URL: https://ascii.textfiles.com/archives/1717
 Published: 1 day ago
 
-Title: How to make Firefox builds 17% faster
-URL: https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/
-Published: 1 day ago
+Title: The Orange Pi 6 Plus
+URL: https://taoofmac.com/space/reviews/2026/04/11/1900
+Published: 4 days ago
 
-Title: (AMD) Build AI Agents That Run Locally
-URL: https://amd-gaia.ai/docs
+Title: Trusted access for the next era of cyber defense
+URL: https://openai.com/index/scaling-trusted-access-for-cyber-defense/
 Published: 1 day ago
 
 ```

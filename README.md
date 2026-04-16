@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 days ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Code Routines
-URL: https://code.claude.com/docs/en/routines
+Title: Cybersecurity looks like proof of work now
+URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
+Published: 2 days ago
+
+Title: I made a terminal pager
+URL: https://theleo.zone/posts/pager/
 Published: 1 day ago
 
-Title: Rare concert recordings are landing on the Internet Archive
-URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
+Title: Google broke its promise to me – now ICE has my data
+URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
 Published: 1 day ago
 
-Title: Fuck the cloud (2009)
-URL: https://ascii.textfiles.com/archives/1717
+Title: The buns in McDonald's Japan's burger photos are all slightly askew
+URL: https://www.mcdonalds.co.jp/en/menu/burger/
 Published: 1 day ago
 
-Title: The Orange Pi 6 Plus
-URL: https://taoofmac.com/space/reviews/2026/04/11/1900
-Published: 4 days ago
-
-Title: Trusted access for the next era of cyber defense
-URL: https://openai.com/index/scaling-trusted-access-for-cyber-defense/
+Title: PiCore - Raspberry Pi Port of Tiny Core Linux
+URL: http://tinycorelinux.net/5.x/armv6/releases/README
 Published: 1 day ago
 
 ```

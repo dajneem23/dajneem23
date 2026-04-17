@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 days ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Cybersecurity looks like proof of work now
-URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
-Published: 2 days ago
-
-Title: I made a terminal pager
-URL: https://theleo.zone/posts/pager/
+Title: Claude Opus 4.7
+URL: https://www.anthropic.com/news/claude-opus-4-7
 Published: 1 day ago
 
-Title: Google broke its promise to me – now ICE has my data
-URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
+Title: Codex for almost everything
+URL: https://openai.com/index/codex-for-almost-everything/
 Published: 1 day ago
 
-Title: The buns in McDonald's Japan's burger photos are all slightly askew
-URL: https://www.mcdonalds.co.jp/en/menu/burger/
+Title: Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan
+URL: https://www.bbc.com/news/articles/clyrd818gd2o
 Published: 1 day ago
 
-Title: PiCore - Raspberry Pi Port of Tiny Core Linux
-URL: http://tinycorelinux.net/5.x/armv6/releases/README
+Title: A Better R Programming Experience Thanks to Tree-sitter
+URL: https://ropensci.org/blog/2026/04/02/tree-sitter-overview/
+Published: 1 day ago
+
+Title: Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine
+URL: https://github.com/gainsec/autoprober
 Published: 1 day ago
 
 ```

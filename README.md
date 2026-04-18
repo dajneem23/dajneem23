@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (5 days ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Opus 4.7
-URL: https://www.anthropic.com/news/claude-opus-4-7
+Title: Claude Design
+URL: https://www.anthropic.com/news/claude-design-anthropic-labs
 Published: 1 day ago
 
-Title: Codex for almost everything
-URL: https://openai.com/index/codex-for-almost-everything/
+Title: A simplified model of Fil-C
+URL: https://www.corsix.org/content/simplified-model-of-fil-c
 Published: 1 day ago
 
-Title: Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan
-URL: https://www.bbc.com/news/articles/clyrd818gd2o
+Title: All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)
+URL: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon
 Published: 1 day ago
 
-Title: A Better R Programming Experience Thanks to Tree-sitter
-URL: https://ropensci.org/blog/2026/04/02/tree-sitter-overview/
+Title: Measuring Claude 4.7's tokenizer costs
+URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
 Published: 1 day ago
 
-Title: Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine
-URL: https://github.com/gainsec/autoprober
+Title: Landmark ancient-genome study shows surprise acceleration of human evolution
+URL: https://www.nature.com/articles/d41586-026-01204-5
 Published: 1 day ago
 
 ```

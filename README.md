@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (5 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (6 days ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Design
-URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+Title: NIST scientists create 'any wavelength' lasers
+URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
 Published: 1 day ago
 
-Title: A simplified model of Fil-C
-URL: https://www.corsix.org/content/simplified-model-of-fil-c
+Title: Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+URL: https://tokens.billchambers.me/leaderboard
 Published: 1 day ago
 
-Title: All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)
-URL: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon
+Title: The electromechanical angle computer inside the B-52 bomber's star tracker
+URL: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
 Published: 1 day ago
 
-Title: Measuring Claude 4.7's tokenizer costs
-URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+Title: College instructor turns to typewriters to curb AI-written work
+URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
 Published: 1 day ago
 
-Title: Landmark ancient-genome study shows surprise acceleration of human evolution
-URL: https://www.nature.com/articles/d41586-026-01204-5
-Published: 1 day ago
+Title: Modern Common Lisp with FSet
+URL: https://fset.common-lisp.dev/Modern-CL/Top_html/index.html
+Published: 4 days ago
 
 ```
 <br/>

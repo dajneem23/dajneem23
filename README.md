@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (6 days ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
@@ -102,12 +102,12 @@
 
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (1 week ago)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (1 week ago)
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (2 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: NIST scientists create 'any wavelength' lasers
-URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
+Title: Vercel April 2026 security incident
+URL: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
 Published: 1 day ago
 
-Title: Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
-URL: https://tokens.billchambers.me/leaderboard
+Title: The Bromine Chokepoint
+URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
 Published: 1 day ago
 
-Title: The electromechanical angle computer inside the B-52 bomber's star tracker
-URL: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
+Title: A Brief History of Fish Sauce
+URL: https://www.legalnomads.com/fish-sauce/
 Published: 1 day ago
 
-Title: College instructor turns to typewriters to curb AI-written work
-URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+Title: 2,100 Swiss municipalities showing which provider handles their official email
+URL: https://mxmap.ch/
 Published: 1 day ago
 
-Title: Modern Common Lisp with FSet
-URL: https://fset.common-lisp.dev/Modern-CL/Top_html/index.html
-Published: 4 days ago
+Title: Show HN: How context engineering works, a runnable reference
+URL: https://github.com/outcomeops/context-engineering
+Published: 3 days ago
 
 ```
 <br/>

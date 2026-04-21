@@ -94,20 +94,20 @@
 
 
 
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 day ago)
+
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (1 week ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (2 weeks ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (1 week ago)
-
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844) (2 weeks ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (2 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.4.0) - `v1.4.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321)
+
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)
 
 - [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)
@@ -123,8 +125,6 @@
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710)
 
 - [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)
-
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Vercel April 2026 security incident
-URL: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+Title: John Ternus to become Apple CEO
+URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
 Published: 1 day ago
 
-Title: The Bromine Chokepoint
-URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+Title: Jujutsu megamerges for fun and profit
+URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit
 Published: 1 day ago
 
-Title: A Brief History of Fish Sauce
-URL: https://www.legalnomads.com/fish-sauce/
+Title: Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
+URL: https://qwen.ai/blog?id=qwen3.6-max-preview
 Published: 1 day ago
 
-Title: 2,100 Swiss municipalities showing which provider handles their official email
-URL: https://mxmap.ch/
+Title: Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
+URL: https://github.com/gizmo64k/soulplayer-c64
 Published: 1 day ago
 
-Title: Show HN: How context engineering works, a runnable reference
-URL: https://github.com/outcomeops/context-engineering
-Published: 3 days ago
+Title: Kimi vendor verifier – verify accuracy of inference providers
+URL: https://www.kimi.com/blog/kimi-vendor-verifier
+Published: 1 day ago
 
 ```
 <br/>

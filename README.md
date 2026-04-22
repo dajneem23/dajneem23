@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 day ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 days ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 week ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 weeks ago)
 
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (2 weeks ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: John Ternus to become Apple CEO
-URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+Title: ChatGPT Images 2.0
+URL: https://openai.com/index/introducing-chatgpt-images-2-0/
 Published: 1 day ago
 
-Title: Jujutsu megamerges for fun and profit
-URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit
+Title: SpaceX says it has agreement to acquire Cursor for $60B
+URL: https://twitter.com/spacex/status/2046713419978453374
 Published: 1 day ago
 
-Title: Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
-URL: https://qwen.ai/blog?id=qwen3.6-max-preview
+Title: The Vercel breach: OAuth attack exposes risk in platform environment variables
+URL: https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html
 Published: 1 day ago
 
-Title: Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
-URL: https://github.com/gizmo64k/soulplayer-c64
+Title: CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production
+URL: https://www.brex.com/crabtrap
 Published: 1 day ago
 
-Title: Kimi vendor verifier – verify accuracy of inference providers
-URL: https://www.kimi.com/blog/kimi-vendor-verifier
+Title: Claude Code no longer included in Pro tier
+URL: https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a
 Published: 1 day ago
 
 ```

@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 days ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 days ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: ChatGPT Images 2.0
-URL: https://openai.com/index/introducing-chatgpt-images-2-0/
+Title: Alberta startup sells no-tech tractors for half price
+URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
 Published: 1 day ago
 
-Title: SpaceX says it has agreement to acquire Cursor for $60B
-URL: https://twitter.com/spacex/status/2046713419978453374
+Title: Apple fixes bug that cops used to extract deleted chat messages from iPhones
+URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
 Published: 1 day ago
 
-Title: The Vercel breach: OAuth attack exposes risk in platform environment variables
-URL: https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html
+Title: We found a stable Firefox identifier linking all your private Tor identities
+URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
 Published: 1 day ago
 
-Title: CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production
-URL: https://www.brex.com/crabtrap
+Title: How to Stop a Data Center in Your Backyard
+URL: https://lataco.com/stop-sgv-data-center-building
 Published: 1 day ago
 
-Title: Claude Code no longer included in Pro tier
-URL: https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a
+Title: Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model
+URL: https://qwen.ai/blog?id=qwen3.6-27b
 Published: 1 day ago
 
 ```

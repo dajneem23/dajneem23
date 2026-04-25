@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (4 days ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (5 days ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: GPT-5.5
-URL: https://openai.com/index/introducing-gpt-5-5/
+Title: Google plans to invest up to $40B in Anthropic
+URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
 Published: 1 day ago
 
-Title: Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
-URL: https://socket.dev/blog/bitwarden-cli-compromised
+Title: My audio interface has SSH enabled by default
+URL: https://hhh.hn/rodecaster-duo-fw/
 Published: 1 day ago
 
-Title: Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases
-URL: https://github.com/refactoringhq/tolaria
+Title: Iliad fragment found in Roman-era mummy
+URL: https://www.thehistoryblog.com/archives/75877
+Published: 3 days ago
+
+Title: Google Flow Music
+URL: https://www.flowmusic.app/
 Published: 1 day ago
 
-Title: MeshCore development team splits over trademark dispute and AI-generated code
-URL: https://blog.meshcore.io/2026/04/23/the-split
-Published: 1 day ago
-
-Title: U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market
-URL: https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0
+Title: The Classic American Diner
+URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
 Published: 1 day ago
 
 ```

@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (5 days ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (6 days ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Google plans to invest up to $40B in Anthropic
-URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
+Title: USB Cheat Sheet
+URL: https://fabiensanglard.net/usbcheat/index.html
 Published: 1 day ago
 
-Title: My audio interface has SSH enabled by default
-URL: https://hhh.hn/rodecaster-duo-fw/
+Title: The Free Universal Construction Kit
+URL: https://fffff.at/free-universal-construction-kit/
+Published: 4 days ago
+
+Title: Trump fires all 24 members of the U.S. National Science Foundation
+URL: https://www.science.org/content/article/trump-fires-nsf-s-oversight-board
 Published: 1 day ago
 
-Title: Iliad fragment found in Roman-era mummy
-URL: https://www.thehistoryblog.com/archives/75877
-Published: 3 days ago
+Title: 1-Bit Hokusai's "The Great Wave" (2023)
+URL: https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
+Published: 4 days ago
 
-Title: Google Flow Music
-URL: https://www.flowmusic.app/
-Published: 1 day ago
-
-Title: The Classic American Diner
-URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
+Title: Using coding assistance tools to revive projects you never were going to finish
+URL: https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/
 Published: 1 day ago
 
 ```

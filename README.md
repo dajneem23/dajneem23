@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (6 days ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 week ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 week ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 weeks ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (4 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: USB Cheat Sheet
-URL: https://fabiensanglard.net/usbcheat/index.html
+Title: I bought Friendster for $30k – Here's what I'm doing with it
+URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
 Published: 1 day ago
 
-Title: The Free Universal Construction Kit
-URL: https://fffff.at/free-universal-construction-kit/
+Title: Fast16: High-precision software sabotage 5 years before Stuxnet
+URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+Published: 1 day ago
+
+Title: Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race
+URL: https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
+Published: 1 day ago
+
+Title: Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3
+URL: https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca
+Published: 1 day ago
+
+Title: Box to Save Memory in Rust
+URL: https://dystroy.org/blog/box-to-save-memory/
 Published: 4 days ago
-
-Title: Trump fires all 24 members of the U.S. National Science Foundation
-URL: https://www.science.org/content/article/trump-fires-nsf-s-oversight-board
-Published: 1 day ago
-
-Title: 1-Bit Hokusai's "The Great Wave" (2023)
-URL: https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
-Published: 4 days ago
-
-Title: Using coding assistance tools to revive projects you never were going to finish
-URL: https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/
-Published: 1 day ago
 
 ```
 <br/>

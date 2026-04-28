@@ -100,16 +100,16 @@
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (2 weeks ago)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (2 weeks ago)
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (3 weeks ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (2 weeks ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (4 days ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (2 months ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (5 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
 #### 🌱 My latest projects
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: I bought Friendster for $30k – Here's what I'm doing with it
-URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+Title: New Integrated by Design FreeBSD Book
+URL: https://vivianvoss.net/blog/integrated-by-design-launch
 Published: 1 day ago
 
-Title: Fast16: High-precision software sabotage 5 years before Stuxnet
-URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+Title: Microsoft and OpenAI end their exclusive and revenue-sharing deal
+URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai
 Published: 1 day ago
 
-Title: Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race
-URL: https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
+Title: Talkie: a 13B vintage language model from 1930
+URL: https://talkie-lm.com/introducing-talkie
 Published: 1 day ago
 
-Title: Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3
-URL: https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca
+Title: Is my blue your blue?
+URL: https://ismy.blue/
 Published: 1 day ago
 
-Title: Box to Save Memory in Rust
-URL: https://dystroy.org/blog/box-to-save-memory/
-Published: 4 days ago
+Title: Three men are facing charges in Toronto SMS Blaster arrests
+URL: https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/
+Published: 1 day ago
 
 ```
 <br/>

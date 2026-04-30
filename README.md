@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (6 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Ghostty is leaving GitHub
-URL: https://mitchellh.com/writing/ghostty-leaving-github
+Title: Zed 1.0
+URL: https://zed.dev/blog/zed-1-0
 Published: 1 day ago
 
-Title: Before GitHub
-URL: https://lucumr.pocoo.org/2026/4/28/before-github/
+Title: Copy Fail – CVE-2026-31431
+URL: https://copy.fail/
 Published: 1 day ago
 
-Title: ChatGPT serves ads. Here's the full attribution loop
-URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+Title: Germany has become the largest ammunition producer in the world
+URL: https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/
 Published: 1 day ago
 
-Title: Carrot Disclosure: Forgejo
-URL: https://dustri.org/b/carrot-disclosure-forgejo.html
+Title: HERMES.md in commit messages causes requests to route to extra usage billing
+URL: https://github.com/anthropics/claude-code/issues/53262
 Published: 1 day ago
 
-Title: OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs
-URL: https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/
+Title: OpenTrafficMap
+URL: https://opentrafficmap.org/
 Published: 1 day ago
 
 ```

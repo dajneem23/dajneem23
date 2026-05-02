@@ -94,6 +94,8 @@
 
 
 
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 day ago)
+
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 week ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
@@ -102,12 +104,10 @@
 
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499) (3 weeks ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 weeks ago)
-
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
+
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321)
 
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)
@@ -123,8 +125,6 @@
 - [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)
 
 - [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710)
-
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Rivian allows you to disable all internet connectivity
-URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle
+Title: Ti-84 Evo
+URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
 Published: 1 day ago
 
-Title: LinkedIn scans for 6,278 extensions and encrypts the results into every request
-URL: https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/
+Title: New research suggests people can communicate and practice skills while dreaming
+URL: https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we
 Published: 1 day ago
 
-Title: How Mark Klein told the EFF about Room 641A [book excerpt]
-URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/
-Published: 1 day ago
+Title: The smelly baby problem
+URL: https://www.worksinprogress.news/p/how-disposable-diapers-conquered
+Published: 3 days ago
 
-Title: Opus 4.7 knows the real Kelsey
-URL: https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously
-Published: 2 days ago
+Title: Eka’s robotic claw feels like we're approaching a ChatGPT moment
+URL: https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/
+Published: 3 days ago
 
-Title: CopyFail was not disclosed to distro developers?
-URL: https://www.openwall.com/lists/oss-security/2026/04/30/10
+Title: Ask HN: Who is hiring? (May 2026)
+URL: https://news.ycombinator.com/item?id=47975571
 Published: 1 day ago
 
 ```

@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 days ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (3 days ago)
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 week ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 weeks ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (2 weeks ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage
-URL: https://github.com/microsoft/vscode/pull/310226
+Title: DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper
+URL: https://github.com/aattaran/deepclaude
 Published: 1 day ago
 
-Title: Six Years Perfecting Maps on WatchOS
-URL: https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
+Title: BYOMesh – New LoRa mesh radio offers 100x the bandwidth
+URL: https://partyon.xyz/@nullagent/116499715071759135
 Published: 1 day ago
 
-Title: This Month in Ladybird - April 2026
-URL: https://ladybird.org/newsletter/2026-04-30/
+Title: The 'Hidden' Costs of Great Abstractions
+URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
 Published: 1 day ago
 
-Title: Dav2d
-URL: https://code.videolan.org/videolan/dav2d
+Title: Agentic Coding Is a Trap
+URL: https://larsfaye.com/articles/agentic-coding-is-a-trap
 Published: 1 day ago
 
-Title: Neanderthals ran 'fat factories' 125,000 years ago
-URL: https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago
+Title: Southwest Headquarters Tour
+URL: https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
 Published: 1 day ago
 
 ```

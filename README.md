@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (3 days ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (4 days ago)
 
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 weeks ago)
 
@@ -102,7 +102,7 @@
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 weeks ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (3 weeks ago)
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper
-URL: https://github.com/aattaran/deepclaude
+Title: How OpenAI delivers low-latency voice AI at scale
+URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
 Published: 1 day ago
 
-Title: BYOMesh – New LoRa mesh radio offers 100x the bandwidth
-URL: https://partyon.xyz/@nullagent/116499715071759135
+Title: I am worried about Bun
+URL: https://wwj.dev/posts/i-am-worried-about-bun/
 Published: 1 day ago
 
-Title: The 'Hidden' Costs of Great Abstractions
-URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
+Title: Talking to strangers at the gym
+URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/
 Published: 1 day ago
 
-Title: Agentic Coding Is a Trap
-URL: https://larsfaye.com/articles/agentic-coding-is-a-trap
+Title: Pulitzer Prize Winners 2026
+URL: https://www.pulitzer.org/prize-winners-by-year/2026
 Published: 1 day ago
 
-Title: Southwest Headquarters Tour
-URL: https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
+Title: Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
+URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup
 Published: 1 day ago
 
 ```

@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (4 days ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (5 days ago)
 
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 weeks ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (3 weeks ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 weeks ago)
 
 - [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 weeks ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: How OpenAI delivers low-latency voice AI at scale
-URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+Title: .de TLD offline due to DNSSEC?
+URL: https://dnssec-analyzer.verisignlabs.com/nic.de
 Published: 1 day ago
 
-Title: I am worried about Bun
-URL: https://wwj.dev/posts/i-am-worried-about-bun/
+Title: Accelerating Gemma 4: faster inference with multi-token prediction drafters
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
 Published: 1 day ago
 
-Title: Talking to strangers at the gym
-URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/
+Title: Computer Use is 45x more expensive than structured APIs
+URL: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/
 Published: 1 day ago
 
-Title: Pulitzer Prize Winners 2026
-URL: https://www.pulitzer.org/prize-winners-by-year/2026
+Title: Write some software, give it away for free
+URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026
 Published: 1 day ago
 
-Title: Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
-URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup
+Title: Three Inverse Laws of AI
+URL: https://susam.net/inverse-laws-of-robotics.html
 Published: 1 day ago
 
 ```

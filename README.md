@@ -94,7 +94,9 @@
 
 
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (5 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 day ago)
+
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (6 days ago)
 
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 weeks ago)
 
@@ -102,19 +104,20 @@
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 weeks ago)
 
-- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717) (4 weeks ago)
-
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 week ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake.
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
 
@@ -123,8 +126,6 @@
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)
 
 - [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)
-
-- [dajneem23/CVE-2026-21710](https://github.com/dajneem23/CVE-2026-21710)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: .de TLD offline due to DNSSEC?
-URL: https://dnssec-analyzer.verisignlabs.com/nic.de
+Title: Valve releases Steam Controller CAD files under Creative Commons license
+URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
 Published: 1 day ago
 
-Title: Accelerating Gemma 4: faster inference with multi-token prediction drafters
-URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+Title: DeepSeek V4 Pro at 75% off until 31 May
+URL: https://api-docs.deepseek.com/quick_start/pricing
 Published: 1 day ago
 
-Title: Computer Use is 45x more expensive than structured APIs
-URL: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/
+Title: Appearing productive in the workplace
+URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
 Published: 1 day ago
 
-Title: Write some software, give it away for free
-URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026
+Title: Vibe coding and agentic engineering are getting closer than I'd like
+URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
 Published: 1 day ago
 
-Title: Three Inverse Laws of AI
-URL: https://susam.net/inverse-laws-of-robotics.html
+Title: From Supabase to Clerk to Better Auth
+URL: https://blog.val.town/better-auth
 Published: 1 day ago
 
 ```

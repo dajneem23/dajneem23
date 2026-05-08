@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 day ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (2 days ago)
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (6 days ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
 
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 weeks ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
 
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (4 weeks ago)
+- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Valve releases Steam Controller CAD files under Creative Commons license
-URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
+Title: Dirtyfrag: Universal Linux LPE
+URL: https://www.openwall.com/lists/oss-security/2026/05/07/8
 Published: 1 day ago
 
-Title: DeepSeek V4 Pro at 75% off until 31 May
-URL: https://api-docs.deepseek.com/quick_start/pricing
+Title: Canvas (Instructure) LMS Down in Ongoing Ransomware Attack
+URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
 Published: 1 day ago
 
-Title: Appearing productive in the workplace
-URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+Title: The Burning Man MOOP Map
+URL: https://www.not-ship.com/burning-man-moop/
 Published: 1 day ago
 
-Title: Vibe coding and agentic engineering are getting closer than I'd like
-URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+Title: Agents need control flow, not more prompts
+URL: https://bsuh.bearblog.dev/agents-need-control-flow/
 Published: 1 day ago
 
-Title: From Supabase to Clerk to Better Auth
-URL: https://blog.val.town/better-auth
+Title: Maybe you shouldn't install new software for a bit
+URL: https://xeiaso.net/blog/2026/abstain-from-install/
 Published: 1 day ago
 
 ```

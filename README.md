@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (2 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 days ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Dirtyfrag: Universal Linux LPE
-URL: https://www.openwall.com/lists/oss-security/2026/05/07/8
+Title: Google broke reCAPTCHA for de-googled Android users
+URL: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users
 Published: 1 day ago
 
-Title: Canvas (Instructure) LMS Down in Ongoing Ransomware Attack
-URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+Title: You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)
+URL: https://ze3tar.github.io/post-zcrx.html
 Published: 1 day ago
 
-Title: The Burning Man MOOP Map
-URL: https://www.not-ship.com/burning-man-moop/
+Title: AI is breaking two vulnerability cultures
+URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
 Published: 1 day ago
 
-Title: Agents need control flow, not more prompts
-URL: https://bsuh.bearblog.dev/agents-need-control-flow/
+Title: Cartoon Network Flash Games
+URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games
 Published: 1 day ago
 
-Title: Maybe you shouldn't install new software for a bit
-URL: https://xeiaso.net/blog/2026/abstain-from-install/
+Title: AWS North Virginia data center outage – recovery to take hours
+URL: https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html
 Published: 1 day ago
 
 ```

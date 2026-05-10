@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (4 days ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (3 days ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Google broke reCAPTCHA for de-googled Android users
-URL: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users
+Title: Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc
+URL: https://twitter.com/jarredsumner/status/2053047748191232310
 Published: 1 day ago
 
-Title: You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)
-URL: https://ze3tar.github.io/post-zcrx.html
+Title: Internet Archive Switzerland
+URL: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/
 Published: 1 day ago
 
-Title: AI is breaking two vulnerability cultures
-URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
+Title: Rust but Lisp
+URL: https://github.com/ThatXliner/rust-but-lisp
 Published: 1 day ago
 
-Title: Cartoon Network Flash Games
-URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games
-Published: 1 day ago
+Title: The Serial TTL connector we deserve
+URL: https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/
+Published: 3 days ago
 
-Title: AWS North Virginia data center outage – recovery to take hours
-URL: https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html
+Title: I’ve banned query strings
+URL: https://chrismorgan.info/no-query-strings
 Published: 1 day ago
 
 ```

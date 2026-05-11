@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (4 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (5 days ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 weeks ago)
+- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 weeks ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (3 weeks ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 weeks ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc
-URL: https://twitter.com/jarredsumner/status/2053047748191232310
+Title: Hardware Attestation as Monopoly Enabler
+URL: https://grapheneos.social/@GrapheneOS/116550899908879585
 Published: 1 day ago
 
-Title: Internet Archive Switzerland
-URL: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/
+Title: Local AI needs to be the norm
+URL: https://unix.foo/posts/local-ai-needs-to-be-norm/
 Published: 1 day ago
 
-Title: Rust but Lisp
-URL: https://github.com/ThatXliner/rust-but-lisp
+Title: Incident Report: CVE-2024-YIKES
+URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
 Published: 1 day ago
 
-Title: The Serial TTL connector we deserve
-URL: https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/
-Published: 3 days ago
+Title: Running local models on an M4 with 24GB memory
+URL: https://jola.dev/posts/running-local-models-on-m4
+Published: 1 day ago
 
-Title: I’ve banned query strings
-URL: https://chrismorgan.info/no-query-strings
+Title: Obsidian plugin was abused to deploy a remote access trojan
+URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
 Published: 1 day ago
 
 ```

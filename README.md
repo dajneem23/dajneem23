@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (5 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (6 days ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Hardware Attestation as Monopoly Enabler
-URL: https://grapheneos.social/@GrapheneOS/116550899908879585
+Title: Postmortem: TanStack npm supply-chain compromise
+URL: https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
 Published: 1 day ago
 
-Title: Local AI needs to be the norm
-URL: https://unix.foo/posts/local-ai-needs-to-be-norm/
+Title: UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
+URL: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage
 Published: 1 day ago
 
-Title: Incident Report: CVE-2024-YIKES
-URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
+Title: Library for fast mapping of Java records to native memory
+URL: https://github.com/mamba-studio/TypedMemory
 Published: 1 day ago
 
-Title: Running local models on an M4 with 24GB memory
-URL: https://jola.dev/posts/running-local-models-on-m4
+Title: GitLab announces workforce reduction and end of their CREDIT values
+URL: https://about.gitlab.com/blog/gitlab-act-2/
 Published: 1 day ago
 
-Title: Obsidian plugin was abused to deploy a remote access trojan
-URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
+Title: Google says criminal hackers used AI to find a major software flaw
+URL: https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html
 Published: 1 day ago
 
 ```

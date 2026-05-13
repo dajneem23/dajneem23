@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (6 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 week ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
 
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 weeks ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (4 weeks ago)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
 
 - [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 month ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Postmortem: TanStack npm supply-chain compromise
-URL: https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
+Title: Googlebook
+URL: https://googlebook.google/
 Published: 1 day ago
 
-Title: UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
-URL: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage
+Title: Kraftwerk's radical 1976 track
+URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
 Published: 1 day ago
 
-Title: Library for fast mapping of Java records to native memory
-URL: https://github.com/mamba-studio/TypedMemory
+Title: Restore full BambuNetwork support for Bambu Lab printers
+URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 Published: 1 day ago
 
-Title: GitLab announces workforce reduction and end of their CREDIT values
-URL: https://about.gitlab.com/blog/gitlab-act-2/
+Title: How to make your text look futuristic (2016)
+URL: https://typesetinthefuture.com/2016/02/18/futuristic/
 Published: 1 day ago
 
-Title: Google says criminal hackers used AI to find a major software flaw
-URL: https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html
+Title: CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq
+URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html
 Published: 1 day ago
 
 ```

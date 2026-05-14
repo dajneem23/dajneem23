@@ -109,7 +109,7 @@
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 week ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Googlebook
-URL: https://googlebook.google/
+Title: Linux gaming is faster because Windows APIs are becoming Linux kernel features
+URL: https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
+Published: 4 days ago
+
+Title: Setting up a free *.city.state.us locality domain (2025)
+URL: https://fredchan.org/blog/locality-domains-guide/
 Published: 1 day ago
 
-Title: Kraftwerk's radical 1976 track
-URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
-Published: 1 day ago
+Title: A History of IDEs at Google
+URL: https://laurent.le-brun.eu/blog/a-history-of-ides-at-google
+Published: 5 days ago
 
-Title: Restore full BambuNetwork support for Bambu Lab printers
-URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
-Published: 1 day ago
+Title: Marco Polo: Finding a friend with only distance and motion
+URL: https://www.jackhogan.me/blog/marco-polo
+Published: 3 days ago
 
-Title: How to make your text look futuristic (2016)
-URL: https://typesetinthefuture.com/2016/02/18/futuristic/
-Published: 1 day ago
-
-Title: CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq
-URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html
-Published: 1 day ago
+Title: Chess puzzle I found in my dad's old book
+URL: https://ardoedo.it/kempelen/
+Published: 3 days ago
 
 ```
 <br/>

@@ -96,7 +96,7 @@
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 week ago)
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 week ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 weeks ago)
 
 - [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 weeks ago)
 
@@ -111,7 +111,7 @@
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (6 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Linux gaming is faster because Windows APIs are becoming Linux kernel features
-URL: https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
-Published: 4 days ago
-
-Title: Setting up a free *.city.state.us locality domain (2025)
-URL: https://fredchan.org/blog/locality-domains-guide/
+Title: Removing the modem and GPS from my 2024 RAV4 hybrid
+URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
 Published: 1 day ago
 
-Title: A History of IDEs at Google
-URL: https://laurent.le-brun.eu/blog/a-history-of-ides-at-google
-Published: 5 days ago
+Title: A few words on DS4
+URL: https://antirez.com/news/165
+Published: 1 day ago
 
-Title: Marco Polo: Finding a friend with only distance and motion
-URL: https://www.jackhogan.me/blog/marco-polo
-Published: 3 days ago
+Title: First public macOS kernel memory corruption exploit on Apple M5
+URL: https://blog.calif.io/p/first-public-kernel-memory-corruption
+Published: 1 day ago
 
-Title: Chess puzzle I found in my dad's old book
-URL: https://ardoedo.it/kempelen/
-Published: 3 days ago
+Title: RTX 5090 and M4 MacBook Air: Can It Game?
+URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
+Published: 1 day ago
+
+Title: Codex is now in the ChatGPT mobile app
+URL: https://openai.com/index/work-with-codex-from-anywhere/
+Published: 1 day ago
 
 ```
 <br/>

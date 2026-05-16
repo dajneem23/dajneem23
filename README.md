@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Removing the modem and GPS from my 2024 RAV4 hybrid
-URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
+Title: Project Gutenberg – keeps getting better
+URL: https://www.gutenberg.org/
 Published: 1 day ago
 
-Title: A few words on DS4
-URL: https://antirez.com/news/165
+Title: I believe there are entire companies right now under AI psychosis
+URL: https://twitter.com/mitchellh/status/2055380239711457578
 Published: 1 day ago
 
-Title: First public macOS kernel memory corruption exploit on Apple M5
-URL: https://blog.calif.io/p/first-public-kernel-memory-corruption
+Title: The Zulip Foundation
+URL: https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/
 Published: 1 day ago
 
-Title: RTX 5090 and M4 MacBook Air: Can It Game?
-URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
-Published: 1 day ago
+Title: Naturally Occurring Quasicrystals
+URL: https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/
+Published: 2 days ago
 
-Title: Codex is now in the ChatGPT mobile app
-URL: https://openai.com/index/work-with-codex-from-anywhere/
+Title: How to Write to SSDs [pdf]
+URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
 Published: 1 day ago
 
 ```

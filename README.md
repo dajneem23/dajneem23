@@ -94,15 +94,15 @@
 
 
 
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 day ago)
+
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 week ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 weeks ago)
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 weeks ago)
+- [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 weeks ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
-
-- [dajneem23/ziglings](https://github.com/dajneem23/ziglings) - Learn the ⚡Zig programming language by fixing tiny broken programs. (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -121,11 +121,11 @@
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
 
-- [dajneem23/CVE-2026-3462](https://github.com/dajneem23/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321)
+- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
-- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)
+- [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
 
-- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)
+- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Project Gutenberg – keeps getting better
-URL: https://www.gutenberg.org/
+Title: Zerostack – A Unix-inspired coding agent written in pure Rust
+URL: https://crates.io/crates/zerostack/1.0.0
 Published: 1 day ago
 
-Title: I believe there are entire companies right now under AI psychosis
-URL: https://twitter.com/mitchellh/status/2055380239711457578
+Title: MCP Hello Page
+URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
 Published: 1 day ago
 
-Title: The Zulip Foundation
-URL: https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/
+Title: A nicer voltmeter clock
+URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
 Published: 1 day ago
 
-Title: Naturally Occurring Quasicrystals
-URL: https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/
-Published: 2 days ago
+Title: A molecule with half-Möbius topology
+URL: https://www.science.org/doi/10.1126/science.aea3321
+Published: 5 days ago
 
-Title: How to Write to SSDs [pdf]
-URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
+Title: SANA-WM, a 2.6B open-source world model for 1-minute 720p video
+URL: https://nvlabs.github.io/Sana/WM/
 Published: 1 day ago
 
 ```

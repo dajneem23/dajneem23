@@ -94,20 +94,20 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 day ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (2 days ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 week ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 weeks ago)
 
-- [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (3 weeks ago)
+- [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (4 weeks ago)
 
 - [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Zerostack – A Unix-inspired coding agent written in pure Rust
-URL: https://crates.io/crates/zerostack/1.0.0
+Title: GenCAD
+URL: https://gencad.github.io/
 Published: 1 day ago
 
-Title: MCP Hello Page
-URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
+Title: ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations
+URL: https://www.jdhodges.com/blog/thinkpad-history/
 Published: 1 day ago
 
-Title: A nicer voltmeter clock
-URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
+Title: Design posters showcasing your country's electrical grid
+URL: https://github.com/open-energy-transition/grid2poster
 Published: 1 day ago
 
-Title: A molecule with half-Möbius topology
-URL: https://www.science.org/doi/10.1126/science.aea3321
-Published: 5 days ago
+Title: Prolog Coding Horror
+URL: https://www.metalevel.at/prolog/horror
+Published: 1 day ago
 
-Title: SANA-WM, a 2.6B open-source world model for 1-minute 720p video
-URL: https://nvlabs.github.io/Sana/WM/
+Title: Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP
+URL: https://xca-attacks.github.io/fabricked/
 Published: 1 day ago
 
 ```

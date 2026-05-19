@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (2 days ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (3 days ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: GenCAD
-URL: https://gencad.github.io/
+Title: Click
+URL: https://clickclickclick.click/
 Published: 1 day ago
 
-Title: ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations
-URL: https://www.jdhodges.com/blog/thinkpad-history/
+Title: Anthropic co-founder to present AI encyclical alongside Pope Leo XIV
+URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
 Published: 1 day ago
 
-Title: Design posters showcasing your country's electrical grid
-URL: https://github.com/open-energy-transition/grid2poster
+Title: Anthropic acquires Stainless
+URL: https://www.anthropic.com/news/anthropic-acquires-stainless
 Published: 1 day ago
 
-Title: Prolog Coding Horror
-URL: https://www.metalevel.at/prolog/horror
+Title: Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp
+URL: https://hyperpolyglot.org/lisp
 Published: 1 day ago
 
-Title: Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP
-URL: https://xca-attacks.github.io/fabricked/
+Title: We stopped AI bot spam in our GitHub repo using Git's –author flag
+URL: https://archestra.ai/blog/only-responsible-ai
 Published: 1 day ago
 
 ```

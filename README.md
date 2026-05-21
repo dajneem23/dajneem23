@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (4 days ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (5 days ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (2 weeks ago)
 
@@ -102,14 +102,14 @@
 
 - [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 month ago)
 
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills) (1 month ago)
+- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry. (1 month ago)
 
 #### 🎉 Recent releases
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 weeks ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (3 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (4 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 3.5 Flash
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+Title: An OpenAI model has disproved a central conjecture in discrete geometry
+URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 Published: 1 day ago
 
-Title: I’ve built a virtual museum with nearly every operating system you can think of
-URL: https://virtualosmuseum.org/
+Title: GitHub confirms breach of 3,800 repos via malicious VSCode extension
+URL: https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
 Published: 1 day ago
 
-Title: Google changes its search box
-URL: https://blog.google/products-and-platforms/products/search/search-io-2026/
+Title: DOS Zone
+URL: https://dos.zone/
 Published: 1 day ago
 
-Title: OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool
-URL: https://openai.com/index/advancing-content-provenance/
+Title: Flipper One Tech Specs
+URL: https://docs.flipper.net/one/general/tech-specs
 Published: 1 day ago
 
-Title: Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks
-URL: https://github.com/antoinezambelli/forge
+Title: Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects
+URL: https://legiscan.com/CO/bill/SB051/2026
 Published: 1 day ago
 
 ```

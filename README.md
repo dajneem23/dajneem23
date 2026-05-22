@@ -94,11 +94,11 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (5 days ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (6 days ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (2 weeks ago)
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 weeks ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (3 weeks ago)
 
 - [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (1 day ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (4 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: An OpenAI model has disproved a central conjecture in discrete geometry
-URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+Title: Project Hail Mary – Stellar Navigation Chart
+URL: https://valhovey.github.io/gaia-mary/
 Published: 1 day ago
 
-Title: GitHub confirms breach of 3,800 repos via malicious VSCode extension
-URL: https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
+Title: Using Kagi Search with Low Vision
+URL: https://veroniiiica.com/using-kagi-search-with-low-vision/
 Published: 1 day ago
 
-Title: DOS Zone
-URL: https://dos.zone/
+Title: Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
+URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
 Published: 1 day ago
 
-Title: Flipper One Tech Specs
-URL: https://docs.flipper.net/one/general/tech-specs
+Title: We're testing new ad formats in Search and expanding our Direct Offers pilot
+URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
 Published: 1 day ago
 
-Title: Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects
-URL: https://legiscan.com/CO/bill/SB051/2026
-Published: 1 day ago
+Title: Was my $48K GPU server worth it?
+URL: https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/
+Published: 4 days ago
 
 ```
 <br/>

@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (6 days ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 week ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (2 weeks ago)
 
@@ -107,9 +107,9 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/edge) - `edge` (2 days ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 weeks ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (4 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Project Hail Mary – Stellar Navigation Chart
-URL: https://valhovey.github.io/gaia-mary/
+Title: Shipping a Laptop to a Refugee Camp in Uganda
+URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
 Published: 1 day ago
 
-Title: Using Kagi Search with Low Vision
-URL: https://veroniiiica.com/using-kagi-search-with-low-vision/
+Title: Why Japanese companies do so many different things
+URL: https://davidoks.blog/p/why-japanese-companies-do-so-many
 Published: 1 day ago
 
-Title: Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
-URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
+Title: Project Glasswing: An Initial Update
+URL: https://www.anthropic.com/research/glasswing-initial-update
 Published: 1 day ago
 
-Title: We're testing new ad formats in Search and expanding our Direct Offers pilot
-URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
+Title: Why We've Filed a Referendum
+URL: https://www.stopstratos.org
 Published: 1 day ago
 
-Title: Was my $48K GPU server worth it?
-URL: https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/
-Published: 4 days ago
+Title: A Wayland Compositor in Minecraft
+URL: https://modrinth.com/mod/waylandcraft
+Published: 3 days ago
 
 ```
 <br/>

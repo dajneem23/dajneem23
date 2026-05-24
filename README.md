@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Shipping a Laptop to a Refugee Camp in Uganda
-URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
+Title: It's time to talk about my writerdeck
+URL: https://veronicaexplains.net/my-first-writerdeck/
 Published: 1 day ago
 
-Title: Why Japanese companies do so many different things
-URL: https://davidoks.blog/p/why-japanese-companies-do-so-many
+Title: Don't Roll Your Own
+URL: https://susam.net/do-not-roll-your-own.html
 Published: 1 day ago
 
-Title: Project Glasswing: An Initial Update
-URL: https://www.anthropic.com/research/glasswing-initial-update
-Published: 1 day ago
+Title: Sales and Dungeons: Thermal printer TTRPG utility
+URL: https://sales-and-dungeons.app/
+Published: 2 days ago
 
-Title: Why We've Filed a Referendum
-URL: https://www.stopstratos.org
-Published: 1 day ago
+Title: My two-part desk setup (2025)
+URL: https://arslan.io/2025/11/18/my-two-part-desk-setup/
+Published: 4 days ago
 
-Title: A Wayland Compositor in Minecraft
-URL: https://modrinth.com/mod/waylandcraft
-Published: 3 days ago
+Title: On The <dl> (2021)
+URL: https://benmyers.dev/blog/on-the-dl/
+Published: 1 day ago
 
 ```
 <br/>

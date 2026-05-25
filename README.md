@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: It's time to talk about my writerdeck
-URL: https://veronicaexplains.net/my-first-writerdeck/
+Title: Show HN: Audiomass – a free, open-source multitrack audio editor for the web
+URL: https://audiomass.co/?multitrack=1
 Published: 1 day ago
 
-Title: Don't Roll Your Own
-URL: https://susam.net/do-not-roll-your-own.html
+Title: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
+URL: https://esengine.github.io/DeepSeek-Reasonix/
 Published: 1 day ago
 
-Title: Sales and Dungeons: Thermal printer TTRPG utility
-URL: https://sales-and-dungeons.app/
-Published: 2 days ago
+Title: Defeating Git Rigour Fatigue with Jujutsu
+URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/
+Published: 1 day ago
 
-Title: My two-part desk setup (2025)
-URL: https://arslan.io/2025/11/18/my-two-part-desk-setup/
+Title: LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years
+URL: https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/
 Published: 4 days ago
 
-Title: On The <dl> (2021)
-URL: https://benmyers.dev/blog/on-the-dl/
+Title: Memory has grown to nearly two-thirds of AI chip component costs
+URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares
 Published: 1 day ago
 
 ```

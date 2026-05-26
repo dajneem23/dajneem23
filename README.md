@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Audiomass – a free, open-source multitrack audio editor for the web
-URL: https://audiomass.co/?multitrack=1
+Title: CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude
+URL: https://support.apple.com/en-us/127115
 Published: 1 day ago
 
-Title: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
-URL: https://esengine.github.io/DeepSeek-Reasonix/
+Title: Norway's 2 petabytes of Huawei flash storage and LLM training
+URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910
 Published: 1 day ago
 
-Title: Defeating Git Rigour Fatigue with Jujutsu
-URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/
+Title: Exit IP VPN servers mitigation rollout
+URL: https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout
 Published: 1 day ago
 
-Title: LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years
-URL: https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/
-Published: 4 days ago
+Title: California moves to exempt Linux from its age-verification law after backlash
+URL: https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law
+Published: 1 day ago
 
-Title: Memory has grown to nearly two-thirds of AI chip component costs
-URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares
+Title: Using AI to write better code more slowly
+URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
 Published: 1 day ago
 
 ```

@@ -96,7 +96,7 @@
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 week ago)
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (2 weeks ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 weeks ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 weeks ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude
-URL: https://support.apple.com/en-us/127115
+Title: Chemistry behind the Garden Grove chemical tank
+URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank
 Published: 1 day ago
 
-Title: Norway's 2 petabytes of Huawei flash storage and LLM training
-URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910
-Published: 1 day ago
+Title: Agent Memory: An Anatomy
+URL: https://brgsk.xyz/agent-memory-anatomy/
+Published: today
 
-Title: Exit IP VPN servers mitigation rollout
-URL: https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout
-Published: 1 day ago
+Title: A few interesting modern pixel fonts
+URL: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
+Published: 2 days ago
 
-Title: California moves to exempt Linux from its age-verification law after backlash
-URL: https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law
-Published: 1 day ago
+Title: I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline
+URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
+Published: 5 days ago
 
-Title: Using AI to write better code more slowly
-URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+Title: Big tech's anti-labor playbook has come for Wikipedia
+URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943
 Published: 1 day ago
 
 ```

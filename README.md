@@ -110,7 +110,7 @@
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (3 months ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (4 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
 
 #### 🌱 My latest projects
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Chemistry behind the Garden Grove chemical tank
-URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank
+Title: YouTube to automatically label AI-generated videos
+URL: https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
 Published: 1 day ago
 
-Title: Agent Memory: An Anatomy
-URL: https://brgsk.xyz/agent-memory-anatomy/
-Published: today
+Title: I think Anthropic and OpenAI have found product-market fit
+URL: https://simonwillison.net/2026/May/27/product-market-fit/
+Published: 1 day ago
 
-Title: A few interesting modern pixel fonts
-URL: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
-Published: 2 days ago
+Title: Internet traffic in Iran increasing
+URL: https://radar.cloudflare.com/traffic/ir?dateRange=28d
+Published: 1 day ago
 
-Title: I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline
-URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
-Published: 5 days ago
+Title: What Apple and Google are doing to push notifications
+URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
+Published: 1 day ago
 
-Title: Big tech's anti-labor playbook has come for Wikipedia
-URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943
+Title: SimCity 3k in 4k (2025)
+URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
 Published: 1 day ago
 
 ```

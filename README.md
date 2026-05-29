@@ -98,7 +98,7 @@
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 weeks ago)
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (3 weeks ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (4 weeks ago)
 
 - [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: YouTube to automatically label AI-generated videos
-URL: https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
+Title: Claude Opus 4.8
+URL: https://www.anthropic.com/news/claude-opus-4-8
 Published: 1 day ago
 
-Title: I think Anthropic and OpenAI have found product-market fit
-URL: https://simonwillison.net/2026/May/27/product-market-fit/
+Title: Bricks and Minifigs Stole a Man's $200k Lego Collection
+URL: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
 Published: 1 day ago
 
-Title: Internet traffic in Iran increasing
-URL: https://radar.cloudflare.com/traffic/ir?dateRange=28d
+Title: I made a million dollar product from my dorm room (2025)
+URL: https://nick.winans.io/blog/nice-nano/
 Published: 1 day ago
 
-Title: What Apple and Google are doing to push notifications
-URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
+Title: Garnix (A Nix CI) is shutting down
+URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895
 Published: 1 day ago
 
-Title: SimCity 3k in 4k (2025)
-URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
+Title: Various LLM Smells
+URL: https://shvbsle.in/various-llm-smells/
 Published: 1 day ago
 
 ```

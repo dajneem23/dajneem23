@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 week ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (2 weeks ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 weeks ago)
 
@@ -107,10 +107,10 @@
 #### 🎉 Recent releases
 
 
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 day ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.1) - `@ethereumjs/vm@10.1.1` (4 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
 
 #### 🌱 My latest projects
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Opus 4.8
-URL: https://www.anthropic.com/news/claude-opus-4-8
+Title: You can just say it
+URL: https://noperator.dev/posts/you-can-just-say-it/
 Published: 1 day ago
 
-Title: Bricks and Minifigs Stole a Man's $200k Lego Collection
-URL: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
+Title: SQLite is all you need for durable workflows
+URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
 Published: 1 day ago
 
-Title: I made a million dollar product from my dorm room (2025)
-URL: https://nick.winans.io/blog/nice-nano/
+Title: The dead economy theory
+URL: https://www.owenmcgrann.com/p/the-dead-economy-theory
 Published: 1 day ago
 
-Title: Garnix (A Nix CI) is shutting down
-URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895
+Title: Notes from the Mistral AI Now Summit
+URL: https://koenvangilst.nl/lab/mistral-ai-now-summit
 Published: 1 day ago
 
-Title: Various LLM Smells
-URL: https://shvbsle.in/various-llm-smells/
+Title: Shift will clean homes for free to train future robots
+URL: https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
 Published: 1 day ago
 
 ```

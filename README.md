@@ -98,7 +98,7 @@
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 weeks ago)
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (4 weeks ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 month ago)
 
 - [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 day ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 days ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: You can just say it
-URL: https://noperator.dev/posts/you-can-just-say-it/
+Title: Microsoft degrades functionality of perpetually-licensed offline products
+URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
 Published: 1 day ago
 
-Title: SQLite is all you need for durable workflows
-URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+Title: Domain expertise has always been the real moat
+URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
 Published: 1 day ago
 
-Title: The dead economy theory
-URL: https://www.owenmcgrann.com/p/the-dead-economy-theory
+Title: I found a seashell in the middle of the desert
+URL: https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert
+Published: 2 days ago
+
+Title: Accenture to acquire Ookla
+URL: https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
 Published: 1 day ago
 
-Title: Notes from the Mistral AI Now Summit
-URL: https://koenvangilst.nl/lab/mistral-ai-now-summit
-Published: 1 day ago
-
-Title: Shift will clean homes for free to train future robots
-URL: https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
+Title: wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack
+URL: https://github.com/wolfSSL/wolfCOSE
 Published: 1 day ago
 
 ```

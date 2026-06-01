@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (3 days ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Microsoft degrades functionality of perpetually-licensed offline products
-URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
+Title: Chuwi Minibook X: the netbook we deserve
+URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/
 Published: 1 day ago
 
-Title: Domain expertise has always been the real moat
-URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+Title: Cloudflare Turnstile requiring fingerprintable WebGL
+URL: https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting
 Published: 1 day ago
 
-Title: I found a seashell in the middle of the desert
-URL: https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert
-Published: 2 days ago
-
-Title: Accenture to acquire Ookla
-URL: https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
+Title: 1-Bit Bonsai Image 4B Image Generation for Local Devices
+URL: https://prismml.com/news/bonsai-image-4b
 Published: 1 day ago
 
-Title: wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack
-URL: https://github.com/wolfSSL/wolfCOSE
+Title: New Beam Spring Keyboards
+URL: https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/
+Published: 3 days ago
+
+Title: It's Not Just X. It's Y
+URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/
 Published: 1 day ago
 
 ```

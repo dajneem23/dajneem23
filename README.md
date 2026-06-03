@@ -96,7 +96,7 @@
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (2 weeks ago)
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (3 weeks ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (4 weeks ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 month ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (4 days ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (5 days ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: The newest Instagram “exploit” is the goofiest I've seen
-URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco
+Title: MAI-Code-1-Flash
+URL: https://microsoft.ai/news/introducingmai-code-1-flash/
 Published: 1 day ago
 
-Title: OpenAI frontier models and Codex are now available on AWS
-URL: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/
+Title: Use your Nvidia GPU's VRAM as swap space on Linux
+URL: https://github.com/c0dejedi/nbd-vram
 Published: 1 day ago
 
-Title: Debug Project
-URL: https://debug.com/
+Title: California’s university system went all in on AI, now it's tearing itself apart
+URL: https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html
 Published: 1 day ago
 
-Title: AI Agent Guidelines for CS336 at Stanford
-URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
+Title: CT scans of BYD car parts
+URL: https://www.lumafield.com/scan-of-the-month/byd
 Published: 1 day ago
 
-Title: Should you normalize RGB values by 255 or 256?
-URL: https://30fps.net/pages/255-vs-256-division/
+Title: AI Outperforms Law Professors in Stanford Law Study
+URL: https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
 Published: 1 day ago
 
 ```

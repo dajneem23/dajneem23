@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (5 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (6 days ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: MAI-Code-1-Flash
-URL: https://microsoft.ai/news/introducingmai-code-1-flash/
+Title: Elixir v1.20: Now a gradually typed language
+URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
 Published: 1 day ago
 
-Title: Use your Nvidia GPU's VRAM as swap space on Linux
-URL: https://github.com/c0dejedi/nbd-vram
+Title: Gemma 4 12B: A unified, encoder-free multimodal model
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
 Published: 1 day ago
 
-Title: California’s university system went all in on AI, now it's tearing itself apart
-URL: https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html
+Title: I was recently diagnosed with anti-NMDA receptor encephalitis
+URL: https://burntsushi.net/encephalitis/
 Published: 1 day ago
 
-Title: CT scans of BYD car parts
-URL: https://www.lumafield.com/scan-of-the-month/byd
-Published: 1 day ago
+Title: The Ü Programming Language
+URL: https://github.com/Panzerschrek/U-00DC-Sprache/
+Published: today
 
-Title: AI Outperforms Law Professors in Stanford Law Study
-URL: https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
+Title: Artificial intelligence is not conscious – Ted Chiang
+URL: https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/
 Published: 1 day ago
 
 ```

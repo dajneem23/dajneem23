@@ -96,7 +96,7 @@
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (2 weeks ago)
 
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (4 weeks ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 month ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (6 days ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 week ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Elixir v1.20: Now a gradually typed language
-URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
+Title: Do transformers need three projections? Systematic study of QKV variants
+URL: https://arxiv.org/abs/2606.04032
 Published: 1 day ago
 
-Title: Gemma 4 12B: A unified, encoder-free multimodal model
-URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+Title: Anthropic's open-source framework for AI-powered vulnerability discovery
+URL: https://github.com/anthropics/defending-code-reference-harness
 Published: 1 day ago
 
-Title: I was recently diagnosed with anti-NMDA receptor encephalitis
-URL: https://burntsushi.net/encephalitis/
+Title: VoidZero Is Joining Cloudflare
+URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/
 Published: 1 day ago
 
-Title: The Ü Programming Language
-URL: https://github.com/Panzerschrek/U-00DC-Sprache/
-Published: today
-
-Title: Artificial intelligence is not conscious – Ted Chiang
-URL: https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/
+Title: When AI Builds Itself: Our progress toward recursive self-improvement
+URL: https://www.anthropic.com/institute/recursive-self-improvement
 Published: 1 day ago
+
+Title: Branchless Quicksort faster than std:sort and pdqsort with C and C++ API
+URL: https://tiki.li/blog/blqsort
+Published: 3 days ago
 
 ```
 <br/>

@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (2 weeks ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (3 weeks ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Do transformers need three projections? Systematic study of QKV variants
-URL: https://arxiv.org/abs/2606.04032
+Title: Astronauts told to return to ISS after sheltering over air leak repairs
+URL: https://www.bbc.com/news/live/c4g44ew3g1kt
 Published: 1 day ago
 
-Title: Anthropic's open-source framework for AI-powered vulnerability discovery
-URL: https://github.com/anthropics/defending-code-reference-harness
+Title: pg_durable: Microsoft open sources in-database durable execution
+URL: https://github.com/microsoft/pg_durable
 Published: 1 day ago
 
-Title: VoidZero Is Joining Cloudflare
-URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/
+Title: Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 Published: 1 day ago
 
-Title: When AI Builds Itself: Our progress toward recursive self-improvement
-URL: https://www.anthropic.com/institute/recursive-self-improvement
+Title: New method turns ocean water into drinking water, without waste
+URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
 Published: 1 day ago
 
-Title: Branchless Quicksort faster than std:sort and pdqsort with C and C++ API
-URL: https://tiki.li/blog/blqsort
+Title: Mouseless – keyboard-driven control of macOS/Linux/Windows
+URL: https://mouseless.click
 Published: 3 days ago
 
 ```

@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Astronauts told to return to ISS after sheltering over air leak repairs
-URL: https://www.bbc.com/news/live/c4g44ew3g1kt
+Title: Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
+URL: https://ntsc.rs/
 Published: 1 day ago
 
-Title: pg_durable: Microsoft open sources in-database durable execution
-URL: https://github.com/microsoft/pg_durable
+Title: Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
+URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/
 Published: 1 day ago
 
-Title: Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency
-URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
+Title: Moving beyond fork() + exec()
+URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/
 Published: 1 day ago
 
-Title: New method turns ocean water into drinking water, without waste
-URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
+Title: Zeroserve: A zero-config web server you can script with eBPF
+URL: https://su3.io/posts/introducing-zeroserve
 Published: 1 day ago
 
-Title: Mouseless – keyboard-driven control of macOS/Linux/Windows
-URL: https://mouseless.click
-Published: 3 days ago
+Title: Nvidia is proposing a beast of a CPU system for Windows PCs
+URL: https://twitter.com/lemire/status/2062880075117113739
+Published: 1 day ago
 
 ```
 <br/>

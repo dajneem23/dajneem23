@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
-URL: https://ntsc.rs/
+Title: Building from zero after addiction, prison, and a felony
+URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
 Published: 1 day ago
 
-Title: Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
-URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/
+Title: Show HN: I Derived a Pancake
+URL: https://www.absurdlyoptimized.com/recipes/pancakes/
+Published: 3 days ago
+
+Title: Making peace with your unlived dreams (2023)
+URL: https://nik.art/making-peace-with-your-unlived-dreams/
 Published: 1 day ago
 
-Title: Moving beyond fork() + exec()
-URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/
+Title: How's Linear so fast? A technical breakdown
+URL: https://performance.dev/how-is-linear-so-fast-a-technical-breakdown
 Published: 1 day ago
 
-Title: Zeroserve: A zero-config web server you can script with eBPF
-URL: https://su3.io/posts/introducing-zeroserve
-Published: 1 day ago
-
-Title: Nvidia is proposing a beast of a CPU system for Windows PCs
-URL: https://twitter.com/lemire/status/2062880075117113739
-Published: 1 day ago
+Title: Do we fear the serializable isolation level more than we fear subtle bugs (2024)
+URL: https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609
+Published: 5 days ago
 
 ```
 <br/>

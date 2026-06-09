@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Building from zero after addiction, prison, and a felony
-URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
+Title: OpenAI Submits S-1 Draft to SEC
+URL: https://openai.com/index/openai-submits-confidential-s-1/
 Published: 1 day ago
 
-Title: Show HN: I Derived a Pancake
-URL: https://www.absurdlyoptimized.com/recipes/pancakes/
-Published: 3 days ago
-
-Title: Making peace with your unlived dreams (2023)
-URL: https://nik.art/making-peace-with-your-unlived-dreams/
+Title: Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]
+URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf
 Published: 1 day ago
 
-Title: How's Linear so fast? A technical breakdown
-URL: https://performance.dev/how-is-linear-so-fast-a-technical-breakdown
+Title: Siri AI
+URL: https://www.apple.com/apple-intelligence/
 Published: 1 day ago
 
-Title: Do we fear the serializable isolation level more than we fear subtle bugs (2024)
-URL: https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609
-Published: 5 days ago
+Title: Show HN: Performative-UI – A react component library of design tropes
+URL: https://vorpus.github.io/performativeUI/
+Published: 1 day ago
+
+Title: MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second
+URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
+Published: 1 day ago
 
 ```
 <br/>

@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: OpenAI Submits S-1 Draft to SEC
-URL: https://openai.com/index/openai-submits-confidential-s-1/
+Title: Claude Fable 5
+URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
 Published: 1 day ago
 
-Title: Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]
-URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf
+Title: Upcoming breaking changes for NPM v12
+URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/
 Published: 1 day ago
 
-Title: Siri AI
-URL: https://www.apple.com/apple-intelligence/
+Title: Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks
+URL: https://aarushgupta.io/posts/kan-fpga/
 Published: 1 day ago
 
-Title: Show HN: Performative-UI – A react component library of design tropes
-URL: https://vorpus.github.io/performativeUI/
+Title: If Claude Fable stops helping you, you'll never know
+URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
 Published: 1 day ago
 
-Title: MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second
-URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
+Title: Making Graphics Like it's 1993
+URL: https://staniks.github.io/articles/catlantean-3d-blog-1/
 Published: 1 day ago
 
 ```

@@ -94,6 +94,8 @@
 
 
 
+- [open-flaw/.github](https://github.com/open-flaw/.github) (1 day ago)
+
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (3 weeks ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
@@ -101,8 +103,6 @@
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 month ago)
 
 - [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 month ago)
-
-- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry. (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Fable 5
-URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
+Title: Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable
+URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
 Published: 1 day ago
 
-Title: Upcoming breaking changes for NPM v12
-URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/
+Title: πFS
+URL: https://github.com/philipl/pifs
 Published: 1 day ago
 
-Title: Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks
-URL: https://aarushgupta.io/posts/kan-fpga/
+Title: Raspberry Pi 5 – 16GB RAM
+URL: https://www.adafruit.com/product/6125?src=raspberrypi
 Published: 1 day ago
 
-Title: If Claude Fable stops helping you, you'll never know
-URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
-Published: 1 day ago
+Title: Anthropic requires 30 day data retention for Fable and Mythos
+URL: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
+Published: 2 days ago
 
-Title: Making Graphics Like it's 1993
-URL: https://staniks.github.io/articles/catlantean-3d-blog-1/
+Title: A Written Language for the Cherokee So Efficient It Was Thought to Be Magic
+URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/
 Published: 1 day ago
 
 ```

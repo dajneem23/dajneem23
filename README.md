@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (1 day ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (2 days ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 week ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 weeks ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable
-URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
+Title: Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
+URL: https://fablepool.com
 Published: 1 day ago
 
-Title: πFS
-URL: https://github.com/philipl/pifs
+Title: Show HN: Homebrew 6.0.0
+URL: https://brew.sh/2026/06/11/homebrew-6.0.0/
 Published: 1 day ago
 
-Title: Raspberry Pi 5 – 16GB RAM
-URL: https://www.adafruit.com/product/6125?src=raspberrypi
+Title: If you are asking for human attention, demonstrate human effort
+URL: https://tombedor.dev/human-attention-and-human-effort/
 Published: 1 day ago
 
-Title: Anthropic requires 30 day data retention for Fable and Mythos
-URL: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
-Published: 2 days ago
+Title: MiMo Code is now released and open-source
+URL: https://mimo.xiaomi.com/mimocode
+Published: 1 day ago
 
-Title: A Written Language for the Cherokee So Efficient It Was Thought to Be Magic
-URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/
+Title: A jacket that harvests drinking water from the air
+URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
 Published: 1 day ago
 
 ```

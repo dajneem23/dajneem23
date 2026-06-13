@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (2 days ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (3 days ago)
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (3 weeks ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (4 weeks ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
-URL: https://fablepool.com
+Title: Renault: Electric motors with no rare earths
+URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/
 Published: 1 day ago
 
-Title: Show HN: Homebrew 6.0.0
-URL: https://brew.sh/2026/06/11/homebrew-6.0.0/
+Title: CRISPR tech selectively shreds cancer cells, including "undruggable" cancers
+URL: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/
 Published: 1 day ago
 
-Title: If you are asking for human attention, demonstrate human effort
-URL: https://tombedor.dev/human-attention-and-human-effort/
+Title: Show HN: Putt.day a daily mini golf game
+URL: https://putt.day/
 Published: 1 day ago
 
-Title: MiMo Code is now released and open-source
-URL: https://mimo.xiaomi.com/mimocode
+Title: Swift at Apple: Migrating the TrueType hinting interpreter
+URL: https://www.swift.org/blog/migrating-truetype-hinting-to-swift/
 Published: 1 day ago
 
-Title: A jacket that harvests drinking water from the air
-URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
+Title: Twenty One Zero-Days in FFmpeg
+URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg
 Published: 1 day ago
 
 ```

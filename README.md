@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (3 days ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (4 days ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (4 weeks ago)
 
@@ -111,7 +111,7 @@
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (7 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Renault: Electric motors with no rare earths
-URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/
+Title: Noise infusion banned from statistical products published by Census Bureau
+URL: https://desfontain.es/blog/banning-noise.html
 Published: 1 day ago
 
-Title: CRISPR tech selectively shreds cancer cells, including "undruggable" cancers
-URL: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/
+Title: GLM 5.2 Is Out
+URL: https://twitter.com/jietang/status/2065784751345287314
 Published: 1 day ago
 
-Title: Show HN: Putt.day a daily mini golf game
-URL: https://putt.day/
+Title: Every Frame Perfect
+URL: https://tonsky.me/blog/every-frame-perfect/
 Published: 1 day ago
 
-Title: Swift at Apple: Migrating the TrueType hinting interpreter
-URL: https://www.swift.org/blog/migrating-truetype-hinting-to-swift/
+Title: Treating pancreatic tumours may have revealed cancer's master switch
+URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
 Published: 1 day ago
 
-Title: Twenty One Zero-Days in FFmpeg
-URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg
-Published: 1 day ago
+Title: Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
+URL: https://blog.pyodide.org/posts/314-release/
+Published: 5 days ago
 
 ```
 <br/>

@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (4 days ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (5 days ago)
 
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (4 weeks ago)
+- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Noise infusion banned from statistical products published by Census Bureau
-URL: https://desfontain.es/blog/banning-noise.html
+Title: Your ePub Is Fine. Kobo Disagrees. Blame Adobe
+URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
 Published: 1 day ago
 
-Title: GLM 5.2 Is Out
-URL: https://twitter.com/jietang/status/2065784751345287314
+Title: Show HN: Kage – Shadow any website to a single binary for offline viewing
+URL: https://github.com/tamnd/kage
 Published: 1 day ago
 
-Title: Every Frame Perfect
-URL: https://tonsky.me/blog/every-frame-perfect/
+Title: What even is food authenticity? Why we guard carbonara, and flatten chicken rice
+URL: https://iza.ac/posts/2026/06/food-authenticity/
 Published: 1 day ago
 
-Title: Treating pancreatic tumours may have revealed cancer's master switch
-URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
+Title: Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
+URL: https://github.com/nex-agi/Nex-N2/issues/4
 Published: 1 day ago
 
-Title: Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
-URL: https://blog.pyodide.org/posts/314-release/
+Title: Firewood Splitting Simulator
+URL: https://screen.toys/firewood/
 Published: 5 days ago
 
 ```

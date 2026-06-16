@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (5 days ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (6 days ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Your ePub Is Fine. Kobo Disagrees. Blame Adobe
-URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
+Title: A backdoor in a LinkedIn job offer
+URL: https://roman.pt/posts/linkedin-backdoor/
 Published: 1 day ago
 
-Title: Show HN: Kage – Shadow any website to a single binary for offline viewing
-URL: https://github.com/tamnd/kage
+Title: Banned Book Library in a Wi-Fi Smart Light Bulb
+URL: https://www.richardosgood.com/posts/banned-book-library/
 Published: 1 day ago
 
-Title: What even is food authenticity? Why we guard carbonara, and flatten chicken rice
-URL: https://iza.ac/posts/2026/06/food-authenticity/
+Title: Iroh 1.0
+URL: https://www.iroh.computer/blog/v1
 Published: 1 day ago
 
-Title: Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
-URL: https://github.com/nex-agi/Nex-N2/issues/4
+Title: I Love the Computer
+URL: https://michaelenger.com/blog/i-love-the-computer/
 Published: 1 day ago
 
-Title: Firewood Splitting Simulator
-URL: https://screen.toys/firewood/
-Published: 5 days ago
+Title: TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
+URL: https://tinywind.io
+Published: 1 day ago
 
 ```
 <br/>

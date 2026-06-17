@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (6 days ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (1 week ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: A backdoor in a LinkedIn job offer
-URL: https://roman.pt/posts/linkedin-backdoor/
+Title: GrapheneOS has been ported to Android 17
+URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
 Published: 1 day ago
 
-Title: Banned Book Library in a Wi-Fi Smart Light Bulb
-URL: https://www.richardosgood.com/posts/banned-book-library/
+Title: Running local models is good now
+URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
 Published: 1 day ago
 
-Title: Iroh 1.0
-URL: https://www.iroh.computer/blog/v1
+Title: Humiliating IIS servers for fun and jail time
+URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
 Published: 1 day ago
 
-Title: I Love the Computer
-URL: https://michaelenger.com/blog/i-love-the-computer/
+Title: SpaceX to buy Cursor for $60B
+URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
 Published: 1 day ago
 
-Title: TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
-URL: https://tinywind.io
+Title: Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More
+URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/
 Published: 1 day ago
 
 ```

@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: GrapheneOS has been ported to Android 17
-URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
+Title: Lore – Open source version control system designed for scalability
+URL: https://lore.org/
 Published: 1 day ago
 
-Title: Running local models is good now
-URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
+Title: Storied Colors – a catalogue of named colors
+URL: https://storiedcolors.com/
 Published: 1 day ago
 
-Title: Humiliating IIS servers for fun and jail time
-URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
+Title: US holds off blacklisting DeepSeek, more than 100 firms deemed security risks
+URL: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/
 Published: 1 day ago
 
-Title: SpaceX to buy Cursor for $60B
-URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
+Title: Leaked financial docs show OpenAI is losing billions of dollars a year
+URL: https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
 Published: 1 day ago
 
-Title: Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More
-URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/
+Title: GLM-5.2 is the new leading open weights model on Artificial Analysis
+URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
 Published: 1 day ago
 
 ```

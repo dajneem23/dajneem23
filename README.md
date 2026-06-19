@@ -102,12 +102,12 @@
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 month ago)
 
-- [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (1 month ago)
+- [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 months ago)
 
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (3 weeks ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Lore – Open source version control system designed for scalability
-URL: https://lore.org/
+Title: Zero-Touch OAuth for MCP
+URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
 Published: 1 day ago
 
-Title: Storied Colors – a catalogue of named colors
-URL: https://storiedcolors.com/
+Title: Update on Ocean Observatories Initiative
+URL: https://www.nsf.gov/news/update-ocean-observatories-initiative
 Published: 1 day ago
 
-Title: US holds off blacklisting DeepSeek, more than 100 firms deemed security risks
-URL: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/
+Title: I found 10k GitHub repositories distributing Trojan malware
+URL: https://orchidfiles.com/github-repositories-distributing-malware/
 Published: 1 day ago
 
-Title: Leaked financial docs show OpenAI is losing billions of dollars a year
-URL: https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
-Published: 1 day ago
+Title: Cell-based architecture for resilient payment systems
+URL: https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/
+Published: 4 days ago
 
-Title: GLM-5.2 is the new leading open weights model on Artificial Analysis
-URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
+Title: The Korean telecom giant at the center of Anthropic's Mythos controversy
+URL: https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
 Published: 1 day ago
 
 ```

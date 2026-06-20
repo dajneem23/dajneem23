@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Zero-Touch OAuth for MCP
-URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
+Title: Norway imposes near ban on AI in elementary school
+URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
 Published: 1 day ago
 
-Title: Update on Ocean Observatories Initiative
-URL: https://www.nsf.gov/news/update-ocean-observatories-initiative
+Title: Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
+URL: https://www.legacy.com/legacy/robert-bobby-prince-lll
 Published: 1 day ago
 
-Title: I found 10k GitHub repositories distributing Trojan malware
-URL: https://orchidfiles.com/github-repositories-distributing-malware/
+Title: There are no instances in ATProto
+URL: https://overreacted.io/there-are-no-instances-in-atproto/
 Published: 1 day ago
 
-Title: Cell-based architecture for resilient payment systems
-URL: https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/
-Published: 4 days ago
-
-Title: The Korean telecom giant at the center of Anthropic's Mythos controversy
-URL: https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
+Title: Think of the Children: How to Force Real ID for All Internet Traffic (2023)
+URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/
 Published: 1 day ago
+
+Title: I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾
+URL: https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929
+Published: 1 week ago
 
 ```
 <br/>

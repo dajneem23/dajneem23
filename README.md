@@ -110,7 +110,7 @@
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (3 weeks ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (8 months ago)
 
 #### 🌱 My latest projects
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Norway imposes near ban on AI in elementary school
-URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+Title: Pre-2022 Books
+URL: https://notes.lorenzogravina.com/musings/pre-2022-books
 Published: 1 day ago
 
-Title: Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
-URL: https://www.legacy.com/legacy/robert-bobby-prince-lll
+Title: Not just books: renting a sewing machine from the library can improve democracy
+URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
 Published: 1 day ago
 
-Title: There are no instances in ATProto
-URL: https://overreacted.io/there-are-no-instances-in-atproto/
+Title: Epoll vs. Io_uring in Linux
+URL: https://sibexi.co/posts/epoll-vs-io_uring/
 Published: 1 day ago
 
-Title: Think of the Children: How to Force Real ID for All Internet Traffic (2023)
-URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/
+Title: Slow breathing modulates brain function and risk behavior
+URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
 Published: 1 day ago
 
-Title: I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾
-URL: https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929
-Published: 1 week ago
+Title: Show HN: TownSquare, a tiny presence layer for websites
+URL: https://townsquare.cauenapier.com/
+Published: 1 day ago
 
 ```
 <br/>

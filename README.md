@@ -109,7 +109,7 @@
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (3 weeks ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (1 month ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (8 months ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Pre-2022 Books
-URL: https://notes.lorenzogravina.com/musings/pre-2022-books
+Title: Apertus – Open Foundation Model for Sovereign AI
+URL: https://apertvs.ai/
 Published: 1 day ago
 
-Title: Not just books: renting a sewing machine from the library can improve democracy
-URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
+Title: Did my old job only exist because of fraud?
+URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
 Published: 1 day ago
 
-Title: Epoll vs. Io_uring in Linux
-URL: https://sibexi.co/posts/epoll-vs-io_uring/
+Title: Everything is logarithms
+URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
 Published: 1 day ago
 
-Title: Slow breathing modulates brain function and risk behavior
-URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
+Title: JSON-LD Explained for Personal Websites
+URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
 Published: 1 day ago
 
-Title: Show HN: TownSquare, a tiny presence layer for websites
-URL: https://townsquare.cauenapier.com/
+Title: PowerFox Browser
+URL: https://powerfox.jazzzny.me/
 Published: 1 day ago
 
 ```

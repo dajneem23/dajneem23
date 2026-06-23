@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Apertus – Open Foundation Model for Sovereign AI
-URL: https://apertvs.ai/
+Title: Steam Machine launches today
+URL: https://store.steampowered.com/news/group/45479024/view/685257114654870245
 Published: 1 day ago
 
-Title: Did my old job only exist because of fraud?
-URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
+Title: Runing GLM-5.2 on local hardware
+URL: https://unsloth.ai/docs/models/glm-5.2
 Published: 1 day ago
 
-Title: Everything is logarithms
-URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
+Title: Optocam Zero: a Pi Zero based digital camera made using off the shelf components
+URL: https://github.com/dorukkumkumoglu/optocamzero
 Published: 1 day ago
 
-Title: JSON-LD Explained for Personal Websites
-URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
-Published: 1 day ago
+Title: Cyberdecks, going analog, and convivial technology
+URL: https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/
+Published: 3 days ago
 
-Title: PowerFox Browser
-URL: https://powerfox.jazzzny.me/
-Published: 1 day ago
+Title: My Mathematical Regression
+URL: https://blog.dahl.dev/posts/my-mathematical-regression/
+Published: 4 days ago
 
 ```
 <br/>

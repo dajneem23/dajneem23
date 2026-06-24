@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (1 week ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (2 weeks ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Steam Machine launches today
-URL: https://store.steampowered.com/news/group/45479024/view/685257114654870245
+Title: Jerry's Map
+URL: http://www.jerrysmap.com/the-map
 Published: 1 day ago
 
-Title: Runing GLM-5.2 on local hardware
-URL: https://unsloth.ai/docs/models/glm-5.2
+Title: FUTO Swipe – A new swipe typing model
+URL: https://swipe.futo.tech/
 Published: 1 day ago
 
-Title: Optocam Zero: a Pi Zero based digital camera made using off the shelf components
-URL: https://github.com/dorukkumkumoglu/optocamzero
+Title: Swift Package Index joins Apple
+URL: https://swiftpackageindex.com/blog/swift-package-index-joins-apple
 Published: 1 day ago
 
-Title: Cyberdecks, going analog, and convivial technology
-URL: https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/
+Title: Printing Gaussian Splats
+URL: https://www.patreon.com/DanyBittel/posts/printing-splats-161333338
 Published: 3 days ago
 
-Title: My Mathematical Regression
-URL: https://blog.dahl.dev/posts/my-mathematical-regression/
-Published: 4 days ago
+Title: A man was gifted his dream car by Kevin Mitnick, who he helped put in prison
+URL: https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison
+Published: 2 days ago
 
 ```
 <br/>

@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Jerry's Map
-URL: http://www.jerrysmap.com/the-map
+Title: OpenAI unveils its first custom chip, built by Broadcom
+URL: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
 Published: 1 day ago
 
-Title: FUTO Swipe – A new swipe typing model
-URL: https://swipe.futo.tech/
+Title: PostgreSQL is enough (2024)
+URL: https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb
 Published: 1 day ago
 
-Title: Swift Package Index joins Apple
-URL: https://swiftpackageindex.com/blog/swift-package-index-joins-apple
+Title: Qualcomm to Acquire Modular
+URL: https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/
 Published: 1 day ago
 
-Title: Printing Gaussian Splats
-URL: https://www.patreon.com/DanyBittel/posts/printing-splats-161333338
-Published: 3 days ago
+Title: RubyLLM: A Ruby framework for all major AI providers
+URL: https://rubyllm.com/
+Published: 1 day ago
 
-Title: A man was gifted his dream car by Kevin Mitnick, who he helped put in prison
-URL: https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison
-Published: 2 days ago
+Title: We’re making Bunny DNS free
+URL: https://bunny.net/blog/were-making-bunny-dns-free/
+Published: 1 day ago
 
 ```
 <br/>

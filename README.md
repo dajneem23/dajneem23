@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (3 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (4 weeks ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: OpenAI unveils its first custom chip, built by Broadcom
-URL: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+Title: An entire Herculaneum scroll has been read for the first time
+URL: https://scrollprize.org/firstscroll
 Published: 1 day ago
 
-Title: PostgreSQL is enough (2024)
-URL: https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb
+Title: The 'papers, please' era of the internet will decimate your privacy
+URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet
 Published: 1 day ago
 
-Title: Qualcomm to Acquire Modular
-URL: https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/
+Title: Un-0: Generating Images with Coupled Oscillators
+URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/
 Published: 1 day ago
 
-Title: RubyLLM: A Ruby framework for all major AI providers
-URL: https://rubyllm.com/
-Published: 1 day ago
+Title: A game where you're an OS and have to manage processes, memory and I/O events
+URL: https://github.com/plbrault/youre-the-os
+Published: 3 days ago
 
-Title: We’re making Bunny DNS free
-URL: https://bunny.net/blog/were-making-bunny-dns-free/
-Published: 1 day ago
+Title: Oxide computer 3D rack guided tour
+URL: https://explorer.oxide.computer/
+Published: 4 days ago
 
 ```
 <br/>

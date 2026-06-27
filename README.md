@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: An entire Herculaneum scroll has been read for the first time
-URL: https://scrollprize.org/firstscroll
+Title: Previewing GPT‑5.6 Sol: a next-generation model
+URL: https://openai.com/index/previewing-gpt-5-6-sol/
 Published: 1 day ago
 
-Title: The 'papers, please' era of the internet will decimate your privacy
-URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet
+Title: A C++ implementation of a fast hash map and hash set using hopscotch hashing
+URL: https://github.com/Tessil/hopscotch-map
 Published: 1 day ago
 
-Title: Un-0: Generating Images with Coupled Oscillators
-URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/
+Title: US allows Anthropic to release Mythos to 'trusted partners'
+URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/
 Published: 1 day ago
 
-Title: A game where you're an OS and have to manage processes, memory and I/O events
-URL: https://github.com/plbrault/youre-the-os
-Published: 3 days ago
+Title: Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
+URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+Published: 1 day ago
 
-Title: Oxide computer 3D rack guided tour
-URL: https://explorer.oxide.computer/
-Published: 4 days ago
+Title: U.S. government will decide who gets to use GPT-5.6
+URL: https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
+Published: 1 day ago
 
 ```
 <br/>

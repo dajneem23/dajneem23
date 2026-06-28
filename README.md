@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (4 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Previewing GPT‑5.6 Sol: a next-generation model
-URL: https://openai.com/index/previewing-gpt-5-6-sol/
+Title: IP Crawl: Living atlas of open webcams discovered on the public internet
+URL: https://ipcrawl.com/
 Published: 1 day ago
 
-Title: A C++ implementation of a fast hash map and hash set using hopscotch hashing
-URL: https://github.com/Tessil/hopscotch-map
+Title: Anonymous GitHub account mass-dropping undisclosed 0-days
+URL: https://github.com/bikini/exploitarium
 Published: 1 day ago
 
-Title: US allows Anthropic to release Mythos to 'trusted partners'
-URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/
+Title: OpenRA
+URL: https://www.openra.net/
 Published: 1 day ago
 
-Title: Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
-URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+Title: Choosing a Public DNS Resolver
+URL: https://evilbit.de/dns-resolver-guide.html
 Published: 1 day ago
 
-Title: U.S. government will decide who gets to use GPT-5.6
-URL: https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
+Title: DSpark: Speculative decoding accelerates LLM inference [pdf]
+URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
 Published: 1 day ago
 
 ```

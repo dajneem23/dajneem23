@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: IP Crawl: Living atlas of open webcams discovered on the public internet
-URL: https://ipcrawl.com/
+Title: GLM 5.2 beats Claude in our benchmarks
+URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
 Published: 1 day ago
 
-Title: Anonymous GitHub account mass-dropping undisclosed 0-days
-URL: https://github.com/bikini/exploitarium
+Title: Xonaly – Canada's Independent Search Engine
+URL: https://xonaly.com/
 Published: 1 day ago
 
-Title: OpenRA
-URL: https://www.openra.net/
+Title: A QNX-inspired operating system with selectable kernels
+URL: https://qsoe.net
 Published: 1 day ago
 
-Title: Choosing a Public DNS Resolver
-URL: https://evilbit.de/dns-resolver-guide.html
+Title: Knowledge Distillation of Black-Box Large Language Models
+URL: https://arxiv.org/abs/2401.07013
 Published: 1 day ago
 
-Title: DSpark: Speculative decoding accelerates LLM inference [pdf]
-URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
+Title: Historical memory prices 1960-2026
+URL: https://dam.stanford.edu/memory-prices.html
 Published: 1 day ago
 
 ```

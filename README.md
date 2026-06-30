@@ -94,15 +94,15 @@
 
 
 
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 day ago)
+
 - [open-flaw/.github](https://github.com/open-flaw/.github) (2 weeks ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
 
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (1 month ago)
-
-- [open-flaw/CVE-2026-3462](https://github.com/open-flaw/CVE-2026-3462) - Acrobat Reader | Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') (CWE-1321) (2 months ago)
+- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 months ago)
 
 #### 🎉 Recent releases
 
@@ -117,6 +117,8 @@
 
 
 
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake.
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
@@ -124,8 +126,6 @@
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
 - [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
-
-- [dajneem23/codex-skills](https://github.com/dajneem23/codex-skills)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: GLM 5.2 beats Claude in our benchmarks
-URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+Title: .self: A new top-level domain designed to support self-hosting
+URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
 Published: 1 day ago
 
-Title: Xonaly – Canada's Independent Search Engine
-URL: https://xonaly.com/
+Title: Qwen 3.6 27B is the sweet spot for local development
+URL: https://quesma.com/blog/qwen-36-is-awesome/
 Published: 1 day ago
 
-Title: A QNX-inspired operating system with selectable kernels
-URL: https://qsoe.net
+Title: Free the Icons
+URL: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/
+Published: 3 days ago
+
+Title: Scientists find molecular-level evidence for two structures in liquid water
+URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
 Published: 1 day ago
 
-Title: Knowledge Distillation of Black-Box Large Language Models
-URL: https://arxiv.org/abs/2401.07013
-Published: 1 day ago
-
-Title: Historical memory prices 1960-2026
-URL: https://dam.stanford.edu/memory-prices.html
+Title: Rocketlab acquires Iridium
+URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
 Published: 1 day ago
 
 ```

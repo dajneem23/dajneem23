@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 day ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 day ago)
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (2 weeks ago)
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 days ago)
+
+- [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
-
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs) (2 months ago)
 
 #### 🎉 Recent releases
 
@@ -117,6 +117,8 @@
 
 
 
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS.
+
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake.
@@ -124,8 +126,6 @@
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
 
 - [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
-
-- [dajneem23/my-hook](https://github.com/dajneem23/my-hook)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: .self: A new top-level domain designed to support self-hosting
-URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
+Title: Claude Sonnet 5
+URL: https://www.anthropic.com/news/claude-sonnet-5
 Published: 1 day ago
 
-Title: Qwen 3.6 27B is the sweet spot for local development
-URL: https://quesma.com/blog/qwen-36-is-awesome/
+Title: Claude Code is steganographically marking requests
+URL: https://thereallo.dev/blog/claude-code-prompt-steganography
 Published: 1 day ago
 
-Title: Free the Icons
-URL: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/
-Published: 3 days ago
-
-Title: Scientists find molecular-level evidence for two structures in liquid water
-URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
+Title: From brain waves to words: a new path to communication without surgery
+URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1
 Published: 1 day ago
 
-Title: Rocketlab acquires Iridium
-URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
+Title: Hatari – Online Atari ST/STE/TT/Falcon Emulator
+URL: https://hatari.frama.io/hatari/online/hatari.html
+Published: 1 day ago
+
+Title: Nano Banana 2 Lite
+URL: https://deepmind.google/models/gemini-image/flash-lite/
 Published: 1 day ago
 
 ```

@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 day ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 day ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 days ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (2 days ago)
+
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (3 days ago)
 
 - [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
 
 - [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
-
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake. (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -117,6 +117,8 @@
 
 
 
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc)
+
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS.
 
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
@@ -124,8 +126,6 @@
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake.
 
 - [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
-
-- [dajneem23/help_me_unpack](https://github.com/dajneem23/help_me_unpack)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Sonnet 5
-URL: https://www.anthropic.com/news/claude-sonnet-5
+Title: ZCode – Harness for GLM-5.2
+URL: https://zcode.z.ai/en
 Published: 1 day ago
 
-Title: Claude Code is steganographically marking requests
-URL: https://thereallo.dev/blog/claude-code-prompt-steganography
+Title: Show HN: Searchable directory of 22k+ products from worker-owned co-ops
+URL: https://www.workerowned.info/
 Published: 1 day ago
 
-Title: From brain waves to words: a new path to communication without surgery
-URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1
+Title: For first time, a cell built from scratch grows and divides
+URL: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
 Published: 1 day ago
 
-Title: Hatari – Online Atari ST/STE/TT/Falcon Emulator
-URL: https://hatari.frama.io/hatari/online/hatari.html
+Title: Healthy but Sedentary People Show Early Decline in Cellular Energy Production
+URL: https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production
 Published: 1 day ago
 
-Title: Nano Banana 2 Lite
-URL: https://deepmind.google/models/gemini-image/flash-lite/
+Title: What to learn to be a graphics programmer
+URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
 Published: 1 day ago
 
 ```

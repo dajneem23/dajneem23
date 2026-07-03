@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 day ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (2 days ago)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (2 days ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (3 days ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (3 days ago)
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (4 days ago)
 
 - [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: ZCode – Harness for GLM-5.2
-URL: https://zcode.z.ai/en
+Title: Virginia bans sale of geolocation data
+URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
 Published: 1 day ago
 
-Title: Show HN: Searchable directory of 22k+ products from worker-owned co-ops
-URL: https://www.workerowned.info/
+Title: crustc: entirety of `rustc`, translated to C
+URL: https://github.com/FractalFir/crustc
 Published: 1 day ago
 
-Title: For first time, a cell built from scratch grows and divides
-URL: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
+Title: An American Privacy Emergency
+URL: https://scottaaronson.blog/?p=9902
+Published: today
+
+Title: Exapunks (2018)
+URL: https://www.zachtronics.com/exapunks/
 Published: 1 day ago
 
-Title: Healthy but Sedentary People Show Early Decline in Cellular Energy Production
-URL: https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production
-Published: 1 day ago
-
-Title: What to learn to be a graphics programmer
-URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
-Published: 1 day ago
+Title: Reality has a surprising amount of detail (2017)
+URL: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+Published: 6 days ago
 
 ```
 <br/>

@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (2 days ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (3 days ago)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (3 days ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (4 days ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (4 days ago)
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (5 days ago)
 
 - [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Virginia bans sale of geolocation data
-URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
+Title: Giant trees have no trouble pumping water to top branches
+URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
 Published: 1 day ago
 
-Title: crustc: entirety of `rustc`, translated to C
-URL: https://github.com/FractalFir/crustc
+Title: Leanstral 1.5: Proof Abundance for All
+URL: https://mistral.ai/news/leanstral-1-5/
 Published: 1 day ago
 
-Title: An American Privacy Emergency
-URL: https://scottaaronson.blog/?p=9902
-Published: today
-
-Title: Exapunks (2018)
-URL: https://www.zachtronics.com/exapunks/
+Title: SearXNG: A free internet metasearch engine
+URL: https://github.com/searxng/searxng
 Published: 1 day ago
 
-Title: Reality has a surprising amount of detail (2017)
-URL: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
-Published: 6 days ago
+Title: Odin, Wikipedia and Engagement Farming
+URL: https://katamari64.se/posts/2026/odin-wikipedia/
+Published: 1 day ago
+
+Title: Steam Controller Auto-Charge – pilot to magnetic charging puck using CV
+URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge
+Published: 1 day ago
 
 ```
 <br/>

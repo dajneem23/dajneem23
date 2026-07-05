@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (3 days ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (today)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (4 days ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (4 days ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (5 days ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (5 days ago)
+
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (6 days ago)
 
 - [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
-
-- [open-flaw/open-flaw](https://github.com/open-flaw/open-flaw) (1 month ago)
 
 #### 🎉 Recent releases
 
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (1 month ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (8 months ago)
@@ -117,6 +117,8 @@
 
 
 
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job
+
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc)
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS.
@@ -124,8 +126,6 @@
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake.
-
-- [dajneem23/buffer-overflow-labs](https://github.com/dajneem23/buffer-overflow-labs)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Giant trees have no trouble pumping water to top branches
-URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
+Title: Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
 Published: 1 day ago
 
-Title: Leanstral 1.5: Proof Abundance for All
-URL: https://mistral.ai/news/leanstral-1-5/
+Title: Scientists reverse brain aging, with a nasal spray
+URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/
 Published: 1 day ago
 
-Title: SearXNG: A free internet metasearch engine
-URL: https://github.com/searxng/searxng
+Title: GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+URL: https://github.com/openai/codex/issues/30364
 Published: 1 day ago
 
-Title: Odin, Wikipedia and Engagement Farming
-URL: https://katamari64.se/posts/2026/odin-wikipedia/
+Title: Google Books (or similar) all book scans – $200k bounty (2025)
+URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234
 Published: 1 day ago
 
-Title: Steam Controller Auto-Charge – pilot to magnetic charging puck using CV
-URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge
+Title: Leaking YouTube creators' private videos
+URL: https://javoriuski.com/post/youtube
 Published: 1 day ago
 
 ```

@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (today)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 day ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (4 days ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (5 days ago)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (5 days ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (6 days ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (6 days ago)
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
 
 - [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
-URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+Title: OpenPrinter
+URL: https://www.opentools.studio/
 Published: 1 day ago
 
-Title: Scientists reverse brain aging, with a nasal spray
-URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/
+Title: Organic Maps
+URL: https://organicmaps.app/
 Published: 1 day ago
 
-Title: GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
-URL: https://github.com/openai/codex/issues/30364
+Title: Show HN: Homegames. An open-source game platform I've been making for 8 years
+URL: https://homegames.io
 Published: 1 day ago
 
-Title: Google Books (or similar) all book scans – $200k bounty (2025)
-URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234
-Published: 1 day ago
+Title: Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills
+URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt
+Published: today
 
-Title: Leaking YouTube creators' private videos
-URL: https://javoriuski.com/post/youtube
+Title: Connections in Math: the two kinds of random
+URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/
 Published: 1 day ago
 
 ```

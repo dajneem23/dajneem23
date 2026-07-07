@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 day ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (2 days ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (5 days ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (6 days ago)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (6 days ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 week ago)
 
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: OpenPrinter
-URL: https://www.opentools.studio/
+Title: OpenWrt One – Open Hardware Router
+URL: https://openwrt.org/toh/openwrt/one
 Published: 1 day ago
 
-Title: Organic Maps
-URL: https://organicmaps.app/
+Title: Fable turned remarkable into Tom Riddle's diary from Harry Potter
+URL: https://github.com/MaximeRivest/Riddle
 Published: 1 day ago
 
-Title: Show HN: Homegames. An open-source game platform I've been making for 8 years
-URL: https://homegames.io
+Title: CoMaps – FOSS Offline Maps
+URL: https://www.comaps.app/
 Published: 1 day ago
 
-Title: Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills
-URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt
-Published: today
+Title: Ternlight – 7 MB embedding model that runs in browser (WASM)
+URL: https://ternlight-demo.vercel.app/
+Published: 1 day ago
 
-Title: Connections in Math: the two kinds of random
-URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/
+Title: GLM 5.2 and the coming AI margin collapse
+URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
 Published: 1 day ago
 
 ```

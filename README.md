@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (2 days ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 days ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (6 days ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 week ago)
 
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
 
-- [open-flaw/.github](https://github.com/open-flaw/.github) (3 weeks ago)
+- [open-flaw/.github](https://github.com/open-flaw/.github) (4 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: OpenWrt One – Open Hardware Router
-URL: https://openwrt.org/toh/openwrt/one
+Title: GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup
+URL: https://www.gao.gov/products/gao-26-108193
 Published: 1 day ago
 
-Title: Fable turned remarkable into Tom Riddle's diary from Harry Potter
-URL: https://github.com/MaximeRivest/Riddle
+Title: Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro
+URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
 Published: 1 day ago
 
-Title: CoMaps – FOSS Offline Maps
-URL: https://www.comaps.app/
+Title: StreetComplete: Fixing OpenStreetMap, one tiny quest at a time
+URL: https://streetcomplete.app/
 Published: 1 day ago
 
-Title: Ternlight – 7 MB embedding model that runs in browser (WASM)
-URL: https://ternlight-demo.vercel.app/
+Title: Chat Control 1.0 and 2.0 Explained
+URL: https://fightchatcontrol.eu/chat-control-overview
 Published: 1 day ago
 
-Title: GLM 5.2 and the coming AI margin collapse
-URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
+Title: Show HN: Davit, a Apple Containers UI
+URL: https://davit.app
 Published: 1 day ago
 
 ```

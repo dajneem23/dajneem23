@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 days ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (4 days ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup
-URL: https://www.gao.gov/products/gao-26-108193
+Title: John Deere owners will get the right to repair equipment under FTC settlement
+URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
 Published: 1 day ago
 
-Title: Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro
-URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
+Title: Separating signal from noise in coding evaluations
+URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
 Published: 1 day ago
 
-Title: StreetComplete: Fixing OpenStreetMap, one tiny quest at a time
-URL: https://streetcomplete.app/
+Title: FAANG Simulator
+URL: https://www.abeyk.com/escape-the-rat-race/
 Published: 1 day ago
 
-Title: Chat Control 1.0 and 2.0 Explained
-URL: https://fightchatcontrol.eu/chat-control-overview
+Title: Chatto is now open source
+URL: https://www.hmans.dev/blog/chatto-is-open-source
 Published: 1 day ago
 
-Title: Show HN: Davit, a Apple Containers UI
-URL: https://davit.app
+Title: Decoding the obfuscated bash script on a Uniqlo t-shirt
+URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
 Published: 1 day ago
 
 ```

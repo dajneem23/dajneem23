@@ -94,15 +94,15 @@
 
 
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (4 days ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 day ago)
+
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (5 days ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 week ago)
 
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
-
-- [open-flaw/.github](https://github.com/open-flaw/.github) (4 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -117,6 +117,8 @@
 
 
 
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS, 
+
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc)
@@ -124,8 +126,6 @@
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS.
 
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac) - A lightweight, native macOS desktop app for DeepSeek, built with Pake.
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: John Deere owners will get the right to repair equipment under FTC settlement
-URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
+Title: Show HN: Getting GLM 5.2 running on my slow computer
+URL: https://github.com/JustVugg/colibri
 Published: 1 day ago
 
-Title: Separating signal from noise in coding evaluations
-URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
+Title: GPT-5.6
+URL: https://openai.com/index/gpt-5-6/
 Published: 1 day ago
 
-Title: FAANG Simulator
-URL: https://www.abeyk.com/escape-the-rat-race/
+Title: EU Parliament greenlights Chat Control 1.0
+URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
 Published: 1 day ago
 
-Title: Chatto is now open source
-URL: https://www.hmans.dev/blog/chatto-is-open-source
+Title: Show HN: 18 Words
+URL: https://18words.com/
 Published: 1 day ago
 
-Title: Decoding the obfuscated bash script on a Uniqlo t-shirt
-URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
-Published: 1 day ago
+Title: Train sim created by just one person is being called the best ever made
+URL: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429
+Published: 5 days ago
 
 ```
 <br/>

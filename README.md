@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 day ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (today)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (5 days ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (6 days ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Getting GLM 5.2 running on my slow computer
-URL: https://github.com/JustVugg/colibri
+Title: QuadRF can spot drones and see WiFi through my wall
+URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
 Published: 1 day ago
 
-Title: GPT-5.6
-URL: https://openai.com/index/gpt-5-6/
+Title: Apple sues OpenAI, accuses ex-employees of stealing trade secrets
+URL: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
 Published: 1 day ago
 
-Title: EU Parliament greenlights Chat Control 1.0
-URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+Title: Einstein's relativity rules chemical bonds in heavy elements, new research shows
+URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
 Published: 1 day ago
 
-Title: Show HN: 18 Words
-URL: https://18words.com/
+Title: GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]
+URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
 Published: 1 day ago
 
-Title: Train sim created by just one person is being called the best ever made
-URL: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429
-Published: 5 days ago
+Title: The tech of 'Terminator 2' – an oral history (2017)
+URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/
+Published: 1 day ago
 
 ```
 <br/>

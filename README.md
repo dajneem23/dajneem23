@@ -96,7 +96,7 @@
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (today)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (6 days ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: QuadRF can spot drones and see WiFi through my wall
-URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+Title: Stop Telling Me to Ask an LLM
+URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/
 Published: 1 day ago
 
-Title: Apple sues OpenAI, accuses ex-employees of stealing trade secrets
-URL: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
+Title: Weightlifting beats running for blood sugar control, researchers find
+URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html
 Published: 1 day ago
 
-Title: Einstein's relativity rules chemical bonds in heavy elements, new research shows
-URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+Title: Mesh LLM: distributed AI computing on iroh
+URL: https://www.iroh.computer/blog/mesh-llm
 Published: 1 day ago
 
-Title: GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]
-URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
+Title: Show HN: Ant – A JavaScript runtime and ecosystem
+URL: https://antjs.org
 Published: 1 day ago
 
-Title: The tech of 'Terminator 2' – an oral history (2017)
-URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/
+Title: RISCBoy is an open-source portable games console, designed from scratch
+URL: https://github.com/Wren6991/RISCBoy
 Published: 1 day ago
 
 ```

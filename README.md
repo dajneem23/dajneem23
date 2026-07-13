@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (today)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 day ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
 
@@ -102,7 +102,7 @@
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 week ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 week ago)
+- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 weeks ago)
 
 #### 🎉 Recent releases
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Stop Telling Me to Ask an LLM
-URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/
+Title: Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS
+URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/
 Published: 1 day ago
 
-Title: Weightlifting beats running for blood sugar control, researchers find
-URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html
+Title: Cyberpunk Comics, Manga and Graphic Novels
+URL: https://shellzine.net/cyberpunk-comics/
 Published: 1 day ago
 
-Title: Mesh LLM: distributed AI computing on iroh
-URL: https://www.iroh.computer/blog/mesh-llm
+Title: Tiny Emulators
+URL: https://floooh.github.io/tiny8bit-preview/index.html
 Published: 1 day ago
 
-Title: Show HN: Ant – A JavaScript runtime and ecosystem
-URL: https://antjs.org
-Published: 1 day ago
+Title: So you want to learn physics (second edition, 2021)
+URL: https://www.susanrigetti.com/physics
+Published: 5 days ago
 
-Title: RISCBoy is an open-source portable games console, designed from scratch
-URL: https://github.com/Wren6991/RISCBoy
+Title: Designing and assembling my first PCB
+URL: https://vilkeliskis.com/b/2026/0711.html
 Published: 1 day ago
 
 ```

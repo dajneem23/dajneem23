@@ -100,7 +100,7 @@
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (1 week ago)
+- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (2 weeks ago)
 
 - [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 weeks ago)
 
@@ -111,7 +111,7 @@
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (8 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS
-URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/
+Title: ‘Asia's cleanest village’ bans tourists on Sundays
+URL: https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays
 Published: 1 day ago
 
-Title: Cyberpunk Comics, Manga and Graphic Novels
-URL: https://shellzine.net/cyberpunk-comics/
+Title: Claude is just Mr. Meeseeks
+URL: https://github.com/thephw/claude-meseeks
 Published: 1 day ago
 
-Title: Tiny Emulators
-URL: https://floooh.github.io/tiny8bit-preview/index.html
+Title: Building and shipping Mac and iOS apps without ever opening Xcode
+URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
 Published: 1 day ago
 
-Title: So you want to learn physics (second edition, 2021)
-URL: https://www.susanrigetti.com/physics
-Published: 5 days ago
+Title: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor
+URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
+Published: 1 day ago
 
-Title: Designing and assembling my first PCB
-URL: https://vilkeliskis.com/b/2026/0711.html
+Title: An Englishwoman who sketched India before photography took hold
+URL: https://www.bbc.com/news/articles/cm2drrv6q54o
 Published: 1 day ago
 
 ```

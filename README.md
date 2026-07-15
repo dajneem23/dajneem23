@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 day ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (2 days ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 week ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (2 weeks ago)
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (2 weeks ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: ‘Asia's cleanest village’ bans tourists on Sundays
-URL: https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays
+Title: Bonsai 27B: A 27B-Class model that runs on a phone
+URL: https://prismml.com/news/bonsai-27b
 Published: 1 day ago
 
-Title: Claude is just Mr. Meeseeks
-URL: https://github.com/thephw/claude-meseeks
+Title: Financing the AI boom: from cash flows to debt [pdf]
+URL: https://www.bis.org/publ/bisbull120.pdf
 Published: 1 day ago
 
-Title: Building and shipping Mac and iOS apps without ever opening Xcode
-URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
+Title: Dependabot version updates introduce default package cooldown
+URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/
 Published: 1 day ago
 
-Title: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor
-URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
+Title: The Tower Keeps Rising
+URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
 Published: 1 day ago
 
-Title: An Englishwoman who sketched India before photography took hold
-URL: https://www.bbc.com/news/articles/cm2drrv6q54o
+Title: Cursor 0day: When Full Disclosure Becomes the Only Protection Left
+URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
 Published: 1 day ago
 
 ```

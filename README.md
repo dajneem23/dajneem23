@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (2 days ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (3 days ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
 
@@ -107,9 +107,9 @@
 #### 🎉 Recent releases
 
 
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 day ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.5.0) - `v1.5.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (9 months ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Bonsai 27B: A 27B-Class model that runs on a phone
-URL: https://prismml.com/news/bonsai-27b
+Title: Inkling: Our Open-Weights Model
+URL: https://thinkingmachines.ai/news/introducing-inkling/
 Published: 1 day ago
 
-Title: Financing the AI boom: from cash flows to debt [pdf]
-URL: https://www.bis.org/publ/bisbull120.pdf
+Title: SQLite should have (Rust-style) editions
+URL: https://mort.coffee/home/sqlite-editions/
 Published: 1 day ago
 
-Title: Dependabot version updates introduce default package cooldown
-URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/
+Title: Grok Build is open source
+URL: https://github.com/xai-org/grok-build
 Published: 1 day ago
 
-Title: The Tower Keeps Rising
-URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+Title: Metal-Organic Frameworks, Chemistry's New Miracle Materials
+URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials
 Published: 1 day ago
 
-Title: Cursor 0day: When Full Disclosure Becomes the Only Protection Left
-URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
+Title: Stripe and Advent have made a joint offer to acquire PayPal – sources
+URL: https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/
 Published: 1 day ago
 
 ```

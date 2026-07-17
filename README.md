@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (3 days ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (4 days ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 day ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Inkling: Our Open-Weights Model
-URL: https://thinkingmachines.ai/news/introducing-inkling/
+Title: Kimi K3: Open Frontier Intelligence
+URL: https://www.kimi.com/blog/kimi-k3
 Published: 1 day ago
 
-Title: SQLite should have (Rust-style) editions
-URL: https://mort.coffee/home/sqlite-editions/
+Title: LM Studio Bionic: the AI agent for open models
+URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic
 Published: 1 day ago
 
-Title: Grok Build is open source
-URL: https://github.com/xai-org/grok-build
+Title: Microsoft Comic Chat is now open source
+URL: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
 Published: 1 day ago
 
-Title: Metal-Organic Frameworks, Chemistry's New Miracle Materials
-URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials
+Title: The Little Book of Reinforcement Learning
+URL: https://github.com/alxndrTL/little-book-rl/
 Published: 1 day ago
 
-Title: Stripe and Advent have made a joint offer to acquire PayPal – sources
-URL: https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/
+Title: Decoy Font
+URL: https://www.mixfont.com/experiments/decoy-font
 Published: 1 day ago
 
 ```

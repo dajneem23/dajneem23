@@ -94,7 +94,9 @@
 
 
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (4 days ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 day ago)
+
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (5 days ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
 
@@ -102,12 +104,10 @@
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (2 weeks ago)
 
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 weeks ago)
-
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (3 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
@@ -117,6 +117,8 @@
 
 
 
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl)
+
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS, 
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job
@@ -124,8 +126,6 @@
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc)
 
 - [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS.
-
-- [dajneem23/z-codebase-memory-mcp](https://github.com/dajneem23/z-codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Kimi K3: Open Frontier Intelligence
-URL: https://www.kimi.com/blog/kimi-k3
+Title: Kaiser nurses say AI, workplace surveillance are making their jobs, care worse
+URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
 Published: 1 day ago
 
-Title: LM Studio Bionic: the AI agent for open models
-URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic
+Title: Texas wins court order to suspend domain name for violating age-verification law
+URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
 Published: 1 day ago
 
-Title: Microsoft Comic Chat is now open source
-URL: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
+Title: AWS: Inaccurate Estimated Billing Data – $1.7 billion
+URL: https://news.ycombinator.com/item?id=48945241
 Published: 1 day ago
 
-Title: The Little Book of Reinforcement Learning
-URL: https://github.com/alxndrTL/little-book-rl/
+Title: The Zilog Z80 has turned 50
+URL: https://goliath32.com/blog/z80.html
 Published: 1 day ago
 
-Title: Decoy Font
-URL: https://www.mixfont.com/experiments/decoy-font
+Title: Thanks HN for 15 years of support and helping me find my life's work
+URL: https://news.ycombinator.com/item?id=48949551
 Published: 1 day ago
 
 ```

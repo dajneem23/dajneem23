@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 day ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 days ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (5 days ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (6 days ago)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 week ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (2 weeks ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (3 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (4 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Kaiser nurses say AI, workplace surveillance are making their jobs, care worse
-URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
+Title: Codex Resets
+URL: https://codex-resets.com/
 Published: 1 day ago
 
-Title: Texas wins court order to suspend domain name for violating age-verification law
-URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
+Title: Speech Recognition and TTS in less than 500kb
+URL: https://github.com/moonshine-ai/moonshine/tree/main/micro
+Published: 5 days ago
+
+Title: Classic Amiga titles, free to download
+URL: https://amigafreeware.downer.tech/
 Published: 1 day ago
 
-Title: AWS: Inaccurate Estimated Billing Data – $1.7 billion
-URL: https://news.ycombinator.com/item?id=48945241
+Title: Judge a book by its first pages
+URL: https://uncovered.ink
 Published: 1 day ago
 
-Title: The Zilog Z80 has turned 50
-URL: https://goliath32.com/blog/z80.html
-Published: 1 day ago
-
-Title: Thanks HN for 15 years of support and helping me find my life's work
-URL: https://news.ycombinator.com/item?id=48949551
+Title: GPT-5.6 used a prompt to close a 30-year gap in convex optimization
+URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
 Published: 1 day ago
 
 ```

@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 days ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 days ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (6 days ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (4 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (5 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Codex Resets
-URL: https://codex-resets.com/
+Title: Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+URL: https://news.ycombinator.com/item?id=48968606
 Published: 1 day ago
 
-Title: Speech Recognition and TTS in less than 500kb
-URL: https://github.com/moonshine-ai/moonshine/tree/main/micro
-Published: 5 days ago
-
-Title: Classic Amiga titles, free to download
-URL: https://amigafreeware.downer.tech/
+Title: AI advice made people 3x less accurate but 2x confident, researchers found
+URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study
 Published: 1 day ago
 
-Title: Judge a book by its first pages
-URL: https://uncovered.ink
+Title: Qwen 3.8
+URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
 Published: 1 day ago
 
-Title: GPT-5.6 used a prompt to close a 30-year gap in convex optimization
-URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
+Title: The Zen of Parallel Programming
+URL: https://smolnero.com/posts/the-zen-of-parallel-programming
+Published: 6 days ago
+
+Title: A new Intel Itanium (IA-64) emulator that boots Windows
+URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html
 Published: 1 day ago
 
 ```

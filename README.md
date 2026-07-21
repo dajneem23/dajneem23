@@ -94,7 +94,9 @@
 
 
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 days ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 day ago)
+
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (4 days ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
 
@@ -102,20 +104,20 @@
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (2 weeks ago)
 
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS. (2 weeks ago)
-
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (5 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (6 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (2 months ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (9 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl)
 
@@ -124,8 +126,6 @@
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc)
-
-- [dajneem23/decrypt-chrome-password-macos](https://github.com/dajneem23/decrypt-chrome-password-macos) - Decrypt Chrome passwords on macOS.
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
-URL: https://news.ycombinator.com/item?id=48968606
+Title: China’s open-weights AI strategy is winning
+URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
 Published: 1 day ago
 
-Title: AI advice made people 3x less accurate but 2x confident, researchers found
-URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study
+Title: Who's Afraid of Chinese Models?
+URL: https://stratechery.com/2026/whos-afraid-of-chinese-models/
 Published: 1 day ago
 
-Title: Qwen 3.8
-URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+Title: Kimi Work
+URL: https://www.kimi.com/products/kimi-work
 Published: 1 day ago
 
-Title: The Zen of Parallel Programming
-URL: https://smolnero.com/posts/the-zen-of-parallel-programming
-Published: 6 days ago
+Title: Human mathematicians are being outcounterexampled
+URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+Published: 1 day ago
 
-Title: A new Intel Itanium (IA-64) emulator that boots Windows
-URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html
+Title: Jelly UI: Soft-body physics for native HTML form controls
+URL: https://jelly-ui.com/
 Published: 1 day ago
 
 ```

@@ -94,20 +94,20 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 day ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 days ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (4 days ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (5 days ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (2 weeks ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (2 weeks ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (3 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (6 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: China’s open-weights AI strategy is winning
-URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
+Title: OpenAI and Hugging Face address security incident during model evaluation
+URL: https://openai.com/index/hugging-face-model-evaluation-security-incident/
 Published: 1 day ago
 
-Title: Who's Afraid of Chinese Models?
-URL: https://stratechery.com/2026/whos-afraid-of-chinese-models/
+Title: Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
+URL: https://fireworks.ai/blog/kimik3-fable
 Published: 1 day ago
 
-Title: Kimi Work
-URL: https://www.kimi.com/products/kimi-work
+Title: FreeInk: Open ecosystem for e-readers
+URL: https://freeink.org/
 Published: 1 day ago
 
-Title: Human mathematicians are being outcounterexampled
-URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+Title: A digestion of the Jacobian conjecture counterexample
+URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
 Published: 1 day ago
 
-Title: Jelly UI: Soft-body physics for native HTML form controls
-URL: https://jelly-ui.com/
+Title: Advertise in ChatGPT
+URL: https://ads.openai.com/
 Published: 1 day ago
 
 ```

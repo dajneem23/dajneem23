@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 days ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 days ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (5 days ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (6 days ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: OpenAI and Hugging Face address security incident during model evaluation
-URL: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+Title: Quality non-fiction books are the antithesis of AI slop
+URL: https://resobscura.substack.com/p/quality-non-fiction-books-are-the
 Published: 1 day ago
 
-Title: Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
-URL: https://fireworks.ai/blog/kimik3-fable
+Title: Medici family mystery may be solved after more than 400 years
+URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria
 Published: 1 day ago
 
-Title: FreeInk: Open ecosystem for e-readers
-URL: https://freeink.org/
+Title: GigaToken: ~1000x faster Language model tokenization
+URL: https://github.com/marcelroed/gigatoken/
 Published: 1 day ago
 
-Title: A digestion of the Jacobian conjecture counterexample
-URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
+Title: Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
+URL: https://bento.page/slides/
 Published: 1 day ago
 
-Title: Advertise in ChatGPT
-URL: https://ads.openai.com/
+Title: Malleable Computing, Emacs, and You
+URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
 Published: 1 day ago
 
 ```

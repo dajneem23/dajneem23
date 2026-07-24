@@ -94,9 +94,9 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 days ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (4 days ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (6 days ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 week ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Quality non-fiction books are the antithesis of AI slop
-URL: https://resobscura.substack.com/p/quality-non-fiction-books-are-the
+Title: 98.css
+URL: https://jdan.github.io/98.css/#status-bar
 Published: 1 day ago
 
-Title: Medici family mystery may be solved after more than 400 years
-URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria
+Title: Writing by hand is good for your brain
+URL: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
 Published: 1 day ago
 
-Title: GigaToken: ~1000x faster Language model tokenization
-URL: https://github.com/marcelroed/gigatoken/
+Title: Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
+URL: https://news.ycombinator.com/item?id=49026810
 Published: 1 day ago
 
-Title: Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
-URL: https://bento.page/slides/
+Title: A Taxonomy of Omnicidal Futures Involving Artificial Intelligence
+URL: https://arxiv.org/abs/2507.09369
 Published: 1 day ago
 
-Title: Malleable Computing, Emacs, and You
-URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
-Published: 1 day ago
+Title: The Beam Engine
+URL: https://glinscott.github.io/beam-engine/
+Published: 2 days ago
 
 ```
 <br/>

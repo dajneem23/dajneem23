@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (4 days ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (5 days ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 week ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: 98.css
-URL: https://jdan.github.io/98.css/#status-bar
+Title: Claude Opus 5
+URL: https://www.anthropic.com/news/claude-opus-5
 Published: 1 day ago
 
-Title: Writing by hand is good for your brain
-URL: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
+Title: Postgres LISTEN/NOTIFY actually scales
+URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
 Published: 1 day ago
 
-Title: Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
-URL: https://news.ycombinator.com/item?id=49026810
+Title: SpaceX Starship Flight 13 livestream [video]
+URL: https://www.spacex.com/launches/starship-flight-13
 Published: 1 day ago
 
-Title: A Taxonomy of Omnicidal Futures Involving Artificial Intelligence
-URL: https://arxiv.org/abs/2507.09369
+Title: Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard
+URL: https://artificialanalysis.ai/models
 Published: 1 day ago
 
-Title: The Beam Engine
-URL: https://glinscott.github.io/beam-engine/
+Title: Show HN: I simulated closing the Strait of Hormuz on real oil trade data
+URL: https://globaloilnetwork.staffinganalytics.io/
 Published: 2 days ago
 
 ```

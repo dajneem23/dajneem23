@@ -94,13 +94,13 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (5 days ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (6 days ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 week ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (2 weeks ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 weeks ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (3 weeks ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Opus 5
-URL: https://www.anthropic.com/news/claude-opus-5
+Title: Did They Ghost You?
+URL: https://didtheyghostyou.com/
 Published: 1 day ago
 
-Title: Postgres LISTEN/NOTIFY actually scales
-URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
+Title: What is happening to jobs? Separating AI hype from reality
+URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
 Published: 1 day ago
 
-Title: SpaceX Starship Flight 13 livestream [video]
-URL: https://www.spacex.com/launches/starship-flight-13
+Title: Stolen Buttons
+URL: https://anatolyzenkov.com/stolen-buttons
+Published: 6 days ago
+
+Title: GM Backs Sodium Ion Batteries for U.S. Grid Storage
+URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
 Published: 1 day ago
 
-Title: Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard
-URL: https://artificialanalysis.ai/models
+Title: The new rules of context engineering for Claude 5 generation models
+URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 Published: 1 day ago
-
-Title: Show HN: I simulated closing the Strait of Hormuz on real oil trade data
-URL: https://globaloilnetwork.staffinganalytics.io/
-Published: 2 days ago
 
 ```
 <br/>

@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (6 days ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 week ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 week ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 week ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (2 weeks ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 weeks ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Did They Ghost You?
-URL: https://didtheyghostyou.com/
+Title: Show HN: Distill and serve small models with frontier quality for half the cost
+URL: https://github.com/experientiallabs/world-model-optimizer
 Published: 1 day ago
 
-Title: What is happening to jobs? Separating AI hype from reality
-URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
+Title: Decker, a platform that builds on the legacy of Hypercard and classic macOS
+URL: https://beyondloom.com/decker/
 Published: 1 day ago
 
-Title: Stolen Buttons
-URL: https://anatolyzenkov.com/stolen-buttons
-Published: 6 days ago
+Title: I wanted a clock that never needed setting. Things escalated
+URL: https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/
+Published: 4 days ago
 
-Title: GM Backs Sodium Ion Batteries for U.S. Grid Storage
-URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
+Title: Teaching Kids Forth
+URL: https://gracefulliberty.com/articles/teaching-kids-forth/
 Published: 1 day ago
 
-Title: The new rules of context engineering for Claude 5 generation models
-URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+Title: French firefighters face 'pyrocumulonimbus' for first time
+URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time
 Published: 1 day ago
 
 ```

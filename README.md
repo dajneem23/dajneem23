@@ -108,7 +108,7 @@
 
 
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 week ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (1 month ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (9 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Distill and serve small models with frontier quality for half the cost
-URL: https://github.com/experientiallabs/world-model-optimizer
+Title: Our position on open-weights models
+URL: https://www.anthropic.com/news/position-open-weights-models
 Published: 1 day ago
 
-Title: Decker, a platform that builds on the legacy of Hypercard and classic macOS
-URL: https://beyondloom.com/decker/
+Title: DConf 2026 in London
+URL: https://dconf.org/2026/index.html
 Published: 1 day ago
 
-Title: I wanted a clock that never needed setting. Things escalated
-URL: https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/
-Published: 4 days ago
-
-Title: Teaching Kids Forth
-URL: https://gracefulliberty.com/articles/teaching-kids-forth/
+Title: Benchmarking Opus 5 on SlopCodeBench
+URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
 Published: 1 day ago
 
-Title: French firefighters face 'pyrocumulonimbus' for first time
-URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time
+Title: Watching Go's new garbage collector move through the heap
+URL: https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html
+Published: 3 days ago
+
+Title: C/C++ projects packaged for Zig
+URL: https://github.com/allyourcodebase
 Published: 1 day ago
 
 ```

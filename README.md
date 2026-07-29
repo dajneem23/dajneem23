@@ -102,12 +102,12 @@
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 weeks ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (3 weeks ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (4 weeks ago)
 
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 week ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Our position on open-weights models
-URL: https://www.anthropic.com/news/position-open-weights-models
+Title: Codex Security
+URL: https://github.com/openai/codex-security
 Published: 1 day ago
 
-Title: DConf 2026 in London
-URL: https://dconf.org/2026/index.html
+Title: Half-Life ported to Mac OS 9
+URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
 Published: 1 day ago
 
-Title: Benchmarking Opus 5 on SlopCodeBench
-URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
+Title: Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+URL: https://github.com/twalichiewicz/HNewhere
 Published: 1 day ago
 
-Title: Watching Go's new garbage collector move through the heap
-URL: https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html
-Published: 3 days ago
+Title: Substack writers, you need a website
+URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+Published: 1 day ago
 
-Title: C/C++ projects packaged for Zig
-URL: https://github.com/allyourcodebase
+Title: Anthropic publishes a practical key-recovery attack on HAWK-256
+URL: https://github.com/anthropics/cryptography-research-demo
 Published: 1 day ago
 
 ```

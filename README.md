@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Codex Security
-URL: https://github.com/openai/codex-security
+Title: The coolest use for the Vision Pro
+URL: https://christianselig.com/2026/07/vision-pro-house/
 Published: 1 day ago
 
-Title: Half-Life ported to Mac OS 9
-URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
+Title: AI's top startups are barely publishing their research
+URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
 Published: 1 day ago
 
-Title: Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
-URL: https://github.com/twalichiewicz/HNewhere
+Title: Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+URL: https://github.com/drumih/turbo-fieldfare
 Published: 1 day ago
 
-Title: Substack writers, you need a website
-URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+Title: Superlogical
+URL: https://www.superlogical.com/
 Published: 1 day ago
 
-Title: Anthropic publishes a practical key-recovery attack on HAWK-256
-URL: https://github.com/anthropics/cryptography-research-demo
+Title: Keychron announces first open-source firmware for gaming mice
+URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
 Published: 1 day ago
 
 ```

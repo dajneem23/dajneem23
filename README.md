@@ -96,13 +96,13 @@
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 week ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 week ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 weeks ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (2 weeks ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 weeks ago)
 
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (4 weeks ago)
+- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 month ago)
 
 #### 🎉 Recent releases
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: The coolest use for the Vision Pro
-URL: https://christianselig.com/2026/07/vision-pro-house/
+Title: Read this before you buy that TV streaming stick
+URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
 Published: 1 day ago
 
-Title: AI's top startups are barely publishing their research
-URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+Title: Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+URL: https://github.com/AminBlg/SimpleEnglish
 Published: 1 day ago
 
-Title: Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
-URL: https://github.com/drumih/turbo-fieldfare
+Title: I flagged two research papers for fake authors and both were accepted as orals
+URL: https://geospatialml.com/posts/reviewing-ai-slop/
 Published: 1 day ago
 
-Title: Superlogical
-URL: https://www.superlogical.com/
+Title: The AI Aesthetic
+URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/
 Published: 1 day ago
 
-Title: Keychron announces first open-source firmware for gaming mice
-URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
+Title: Stacked PRs are now live on GitHub
+URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
 Published: 1 day ago
 
 ```

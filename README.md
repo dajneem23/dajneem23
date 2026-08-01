@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Read this before you buy that TV streaming stick
-URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
+Title: Tailscale didn't stop the Hugging Face intrusion
+URL: https://tailscale.com/blog/hugging-face-intrusion
 Published: 1 day ago
 
-Title: Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
-URL: https://github.com/AminBlg/SimpleEnglish
+Title: Elevators
+URL: https://john.fun/elevators
 Published: 1 day ago
 
-Title: I flagged two research papers for fake authors and both were accepted as orals
-URL: https://geospatialml.com/posts/reviewing-ai-slop/
+Title: qm
+URL: https://github.com/yc-software/qm
 Published: 1 day ago
 
-Title: The AI Aesthetic
-URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/
-Published: 1 day ago
+Title: Twenty-five years ago it was cryptography, today it's model weights
+URL: https://weeraman.com/because-we-can/
+Published: 4 days ago
 
-Title: Stacked PRs are now live on GitHub
-URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
-Published: 1 day ago
+Title: The Absurdity of Albert Camus
+URL: https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus
+Published: 2 days ago
 
 ```
 <br/>

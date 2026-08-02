@@ -100,7 +100,7 @@
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (2 weeks ago)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (3 weeks ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (4 weeks ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Tailscale didn't stop the Hugging Face intrusion
-URL: https://tailscale.com/blog/hugging-face-intrusion
+Title: AI financial advice is surprisingly good if you ask the right questions
+URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions
 Published: 1 day ago
 
-Title: Elevators
-URL: https://john.fun/elevators
+Title: Seedance 2.5
+URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
 Published: 1 day ago
 
-Title: qm
-URL: https://github.com/yc-software/qm
+Title: Diátaxis
+URL: https://diataxis.fr/
 Published: 1 day ago
 
-Title: Twenty-five years ago it was cryptography, today it's model weights
-URL: https://weeraman.com/because-we-can/
-Published: 4 days ago
+Title: Unraveling the mysteries of habit formation
+URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28
+Published: 1 day ago
 
-Title: The Absurdity of Albert Camus
-URL: https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus
-Published: 2 days ago
+Title: A stray commit buried multiple levels deep cost me months
+URL: https://www.droppedasbaby.com/posts/db-commits/
+Published: 1 day ago
 
 ```
 <br/>

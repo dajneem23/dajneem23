@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 week ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 weeks ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 weeks ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (2 weeks ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (3 weeks ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (4 weeks ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: AI financial advice is surprisingly good if you ask the right questions
-URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions
+Title: Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
+URL: https://github.com/pg83/shitty
 Published: 1 day ago
 
-Title: Seedance 2.5
-URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+Title: Karpathy’s Pelican
+URL: https://twitter.com/karpathy/status/2083749667410727319
 Published: 1 day ago
 
-Title: Diátaxis
-URL: https://diataxis.fr/
+Title: Autoregressive Language Model on the 6502 Processor
+URL: https://mattbeton.com/blog/bitnet-6502.html
+Published: 3 days ago
+
+Title: Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+URL: https://github.com/wie-project/kakehashi
 Published: 1 day ago
 
-Title: Unraveling the mysteries of habit formation
-URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28
-Published: 1 day ago
-
-Title: A stray commit buried multiple levels deep cost me months
-URL: https://www.droppedasbaby.com/posts/db-commits/
-Published: 1 day ago
+Title: Note-Taking and Personal Knowledge Management
+URL: https://unattributed.cc/note-taking-and-personal-knowledge-management
+Published: 6 days ago
 
 ```
 <br/>

@@ -100,7 +100,7 @@
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (3 weeks ago)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (4 weeks ago)
+- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 month ago)
 
 - [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 month ago)
 
@@ -109,7 +109,7 @@
 
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (2 months ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (9 months ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
-URL: https://github.com/pg83/shitty
+Title: LLMs reward expertise
+URL: https://www.seangoedecke.com/llms-reward-expertise/
 Published: 1 day ago
 
-Title: Karpathy’s Pelican
-URL: https://twitter.com/karpathy/status/2083749667410727319
+Title: Ten advances in mathematics and theoretical computer science
+URL: https://openai.com/index/ten-advances-in-mathematics/
 Published: 1 day ago
 
-Title: Autoregressive Language Model on the 6502 Processor
-URL: https://mattbeton.com/blog/bitnet-6502.html
-Published: 3 days ago
-
-Title: Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
-URL: https://github.com/wie-project/kakehashi
+Title: Windows XP 2002 for the Itanium: Unbridled rage
+URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/
 Published: 1 day ago
 
-Title: Note-Taking and Personal Knowledge Management
-URL: https://unattributed.cc/note-taking-and-personal-knowledge-management
-Published: 6 days ago
+Title: Devtools must be open source
+URL: https://blog.exe.dev/devtools-must-be-open-source
+Published: 1 day ago
+
+Title: Ask HN: Who is hiring? (August 2026)
+URL: https://news.ycombinator.com/item?id=49156683
+Published: 1 day ago
 
 ```
 <br/>

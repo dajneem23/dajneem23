@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 weeks ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: LLMs reward expertise
-URL: https://www.seangoedecke.com/llms-reward-expertise/
+Title: libexpat now funded by the City of Munich for up to 6 months
+URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/
 Published: 1 day ago
 
-Title: Ten advances in mathematics and theoretical computer science
-URL: https://openai.com/index/ten-advances-in-mathematics/
+Title: DuckDB – Data power tools for your laptop, now in Clojure (2023)
+URL: https://techascent.com/blog/just-ducking-around.html
 Published: 1 day ago
 
-Title: Windows XP 2002 for the Itanium: Unbridled rage
-URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/
+Title: Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
+URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
 Published: 1 day ago
 
-Title: Devtools must be open source
-URL: https://blog.exe.dev/devtools-must-be-open-source
+Title: I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel
+URL: https://twitter.com/gwern/status/2084739205071343837
 Published: 1 day ago
 
-Title: Ask HN: Who is hiring? (August 2026)
-URL: https://news.ycombinator.com/item?id=49156683
+Title: We finally learned to center a div, then browsers added sidebars
+URL: https://seg6.space/posts/center-div/
 Published: 1 day ago
 
 ```

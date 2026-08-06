@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: libexpat now funded by the City of Munich for up to 6 months
-URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/
+Title: Discovery Loop
+URL: https://www.discoveryloop.com/
 Published: 1 day ago
 
-Title: DuckDB – Data power tools for your laptop, now in Clojure (2023)
-URL: https://techascent.com/blog/just-ducking-around.html
+Title: Zed DeltaDB
+URL: https://zed.dev/deltadb
 Published: 1 day ago
 
-Title: Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
-URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
+Title: The title cards in Blade Runner are amazing
+URL: https://randsinrepose.com/archives/blade-runner-title-cards/
 Published: 1 day ago
 
-Title: I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel
-URL: https://twitter.com/gwern/status/2084739205071343837
+Title: Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
+URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
 Published: 1 day ago
 
-Title: We finally learned to center a div, then browsers added sidebars
-URL: https://seg6.space/posts/center-div/
+Title: NVIDIA’s Vera Whitepaper Has a Thread Loose
+URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread
 Published: 1 day ago
 
 ```

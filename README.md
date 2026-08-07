@@ -96,7 +96,7 @@
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 weeks ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 weeks ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 weeks ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (3 weeks ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Discovery Loop
-URL: https://www.discoveryloop.com/
+Title: AMD acquires Taalas to boost inference performance by etching models in silicon
+URL: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
 Published: 1 day ago
 
-Title: Zed DeltaDB
-URL: https://zed.dev/deltadb
+Title: Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun
+URL: https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/
+Published: 2 days ago
+
+Title: Mario Meets Pareto
+URL: https://www.mayerowitz.io/blog/mario-meets-pareto
 Published: 1 day ago
 
-Title: The title cards in Blade Runner are amazing
-URL: https://randsinrepose.com/archives/blade-runner-title-cards/
+Title: Welcoming the Nepalese Government to Have I Been Pwned
+URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/
 Published: 1 day ago
 
-Title: Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
-URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
-Published: 1 day ago
-
-Title: NVIDIA’s Vera Whitepaper Has a Thread Loose
-URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread
+Title: Bioengineered chewing gum may offer a way to fight HPV and other microbes
+URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm
 Published: 1 day ago
 
 ```

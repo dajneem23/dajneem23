@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: AMD acquires Taalas to boost inference performance by etching models in silicon
-URL: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
+Title: DeepSeek V4 Flash 0731
+URL: https://arcprize.org/results/deepseek-v4-flash-0731
 Published: 1 day ago
 
-Title: Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun
-URL: https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/
-Published: 2 days ago
-
-Title: Mario Meets Pareto
-URL: https://www.mayerowitz.io/blog/mario-meets-pareto
+Title: Assembly Hall of Shame
+URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame
 Published: 1 day ago
 
-Title: Welcoming the Nepalese Government to Have I Been Pwned
-URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/
+Title: Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
+URL: https://ancientlibrary.net/
 Published: 1 day ago
 
-Title: Bioengineered chewing gum may offer a way to fight HPV and other microbes
-URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm
+Title: What happens if an entire class of workers loses faith in their careers
+URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/
+Published: 1 day ago
+
+Title: U.S. Department of Energy Launches the Genesis Open Models Initiative
+URL: https://genesisopenmodels.anl.gov/
 Published: 1 day ago
 
 ```

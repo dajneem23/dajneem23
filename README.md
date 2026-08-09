@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: DeepSeek V4 Flash 0731
-URL: https://arcprize.org/results/deepseek-v4-flash-0731
+Title: Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
+URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/
 Published: 1 day ago
 
-Title: Assembly Hall of Shame
-URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame
+Title: My server is a phone now
+URL: https://seg6.space/posts/phone-server/
 Published: 1 day ago
 
-Title: Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
-URL: https://ancientlibrary.net/
+Title: Fastmail offers EU data region
+URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
 Published: 1 day ago
 
-Title: What happens if an entire class of workers loses faith in their careers
-URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/
+Title: A domain can now say it is for sale, in DNS
+URL: https://specification.website/spec/foundations/for-sale-dns/
 Published: 1 day ago
 
-Title: U.S. Department of Energy Launches the Genesis Open Models Initiative
-URL: https://genesisopenmodels.anl.gov/
+Title: Open-source interactive map for the Aug 12 total solar eclipse
+URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
 Published: 1 day ago
 
 ```

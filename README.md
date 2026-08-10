@@ -94,11 +94,11 @@
 
 
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 weeks ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 weeks ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (3 weeks ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (4 weeks ago)
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
-URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/
+Title: How I use LLMs to learn complex topics
+URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
 Published: 1 day ago
 
-Title: My server is a phone now
-URL: https://seg6.space/posts/phone-server/
+Title: New Zealand lost its music media, and what we're building to replace it
+URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
 Published: 1 day ago
 
-Title: Fastmail offers EU data region
-URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+Title: "The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)
+URL: https://publicdomainreview.org/collection/marnameh/
+Published: 3 days ago
+
+Title: Mea Culpa – Dark Hours
+URL: https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html
 Published: 1 day ago
 
-Title: A domain can now say it is for sale, in DNS
-URL: https://specification.website/spec/foundations/for-sale-dns/
-Published: 1 day ago
-
-Title: Open-source interactive map for the Aug 12 total solar eclipse
-URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
+Title: Ask HN: What are you working on? (August 2026)
+URL: https://news.ycombinator.com/item?id=49233423
 Published: 1 day ago
 
 ```

@@ -94,28 +94,30 @@
 
 
 
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 day ago)
+
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 day ago)
+
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 weeks ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (4 weeks ago)
 
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job (1 month ago)
-
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc) (1 month ago)
-
 #### 🎉 Recent releases
 
 
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 day ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (9 months ago)
 
 #### 🌱 My latest projects
 
 
+
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography)
 
@@ -124,8 +126,6 @@
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS, 
 
 - [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job
-
-- [dajneem23/z-grpc](https://github.com/dajneem23/z-grpc)
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: How I use LLMs to learn complex topics
-URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
+Title: Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
+URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
 Published: 1 day ago
 
-Title: New Zealand lost its music media, and what we're building to replace it
-URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
+Title: Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
 Published: 1 day ago
 
-Title: "The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)
-URL: https://publicdomainreview.org/collection/marnameh/
-Published: 3 days ago
-
-Title: Mea Culpa – Dark Hours
-URL: https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html
+Title: Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots
+URL: https://cactuscompute.com/needle
 Published: 1 day ago
 
-Title: Ask HN: What are you working on? (August 2026)
-URL: https://news.ycombinator.com/item?id=49233423
+Title: Rust SIMD on the GPU
+URL: https://www.vectorware.com/blog/simd-on-gpu/
 Published: 1 day ago
+
+Title: Publishing Schematics Before “Open Source” Was a Word
+URL: https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704
+Published: 4 days ago
 
 ```
 <br/>

@@ -94,21 +94,21 @@
 
 
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 day ago)
-
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 day ago)
+
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 days ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 weeks ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (4 weeks ago)
+- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 day ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (3 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (4 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
-URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+Title: WorldClaw Agentic 3D open-world generation at scale
+URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
 Published: 1 day ago
 
-Title: Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
-URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
+Title: Compression is prediction
+URL: https://ngrok.com/blog/compression-is-prediction
 Published: 1 day ago
 
-Title: Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots
-URL: https://cactuscompute.com/needle
+Title: Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
+URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
 Published: 1 day ago
 
-Title: Rust SIMD on the GPU
-URL: https://www.vectorware.com/blog/simd-on-gpu/
+Title: Mojo 1.0
+URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here
 Published: 1 day ago
 
-Title: Publishing Schematics Before “Open Source” Was a Word
-URL: https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704
-Published: 4 days ago
+Title: Go is an ideal language for AI-assisted software engineering
+URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
+Published: 1 day ago
 
 ```
 <br/>

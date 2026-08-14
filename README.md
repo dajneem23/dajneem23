@@ -94,21 +94,21 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 days ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (4 days ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (3 weeks ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (4 weeks ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 days ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (4 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (4 days ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: DeepSeek V4 Pro 0813
-URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+Title: Gemini 3.7 Flash
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
 Published: 1 day ago
 
-Title: Delta
-URL: https://zed.dev/blog/introducing-delta
+Title: Accelerating GPT-5.6 Sol Ultrafast
+URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
 Published: 1 day ago
 
-Title: Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
-URL: https://tailscale.com/blog/sqlite-wal-reset-bug
+Title: NP-Overrated
+URL: https://gruhn.me/blog/2026-08-13/
 Published: 1 day ago
 
-Title: Qwen3.8-2.4T
-URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
+Title: Understanding is the new bottleneck
+URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
 Published: 1 day ago
 
-Title: Why Target Common Lisp for Code Generation?
-URL: http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+Title: Donkey.bas is 45 Years Old – 131 line of Glory
+URL: https://donkeybas.com/
 Published: 1 day ago
 
 ```

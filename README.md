@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (4 days ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (4 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (5 days ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (4 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (5 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 3.7 Flash
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+Title: Qwen 3.8 27B
+URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8
 Published: 1 day ago
 
-Title: Accelerating GPT-5.6 Sol Ultrafast
-URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+Title: Going Dark, and the era of law enforcement hacking
+URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
 Published: 1 day ago
 
-Title: NP-Overrated
-URL: https://gruhn.me/blog/2026-08-13/
+Title: RISC-V: They should have known better
+URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV
 Published: 1 day ago
 
-Title: Understanding is the new bottleneck
-URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
+Title: Why does Opus 5 feel worse to work with?
+URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/
 Published: 1 day ago
 
-Title: Donkey.bas is 45 Years Old – 131 line of Glory
-URL: https://donkeybas.com/
+Title: The case for overhauling American science
+URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science
 Published: 1 day ago
 
 ```

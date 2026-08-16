@@ -94,20 +94,20 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (4 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (5 days ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (5 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (6 days ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (4 weeks ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 month ago)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 month ago)
 
 #### 🎉 Recent releases
 
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (5 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (6 days ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Qwen 3.8 27B
-URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8
+Title: Engineers will do anything to avoid learning from history
+URL: https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/
 Published: 1 day ago
 
-Title: Going Dark, and the era of law enforcement hacking
-URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
+Title: Abdominal fat predicts heart disease risk better than BMI
+URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi
 Published: 1 day ago
 
-Title: RISC-V: They should have known better
-URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV
+Title: Semaglutide linked to lower predicted dementia risk
+URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
 Published: 1 day ago
 
-Title: Why does Opus 5 feel worse to work with?
-URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/
+Title: Bede Liu, a digital signal processing pioneer, has died
+URL: https://spectrum.ieee.org/digital-signal-processing
 Published: 1 day ago
 
-Title: The case for overhauling American science
-URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science
+Title: Cultivating a state of mind where new ideas are born (2023)
+URL: https://www.henrikkarlsson.xyz/p/good-ideas
 Published: 1 day ago
 
 ```

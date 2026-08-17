@@ -94,11 +94,11 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (5 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (6 days ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (6 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 week ago)
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 weeks ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (4 weeks ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (6 days ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Engineers will do anything to avoid learning from history
-URL: https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/
+Title: A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
+URL: https://rvembedded.com/blog_post/12/
 Published: 1 day ago
 
-Title: Abdominal fat predicts heart disease risk better than BMI
-URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi
+Title: Claude: System Prompts
+URL: https://platform.claude.com/docs/en/release-notes/system-prompts
 Published: 1 day ago
 
-Title: Semaglutide linked to lower predicted dementia risk
-URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
-Published: 1 day ago
+Title: SIMD in the 90s: Programming Intel's Pentium MMX
+URL: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
+Published: 4 days ago
 
-Title: Bede Liu, a digital signal processing pioneer, has died
-URL: https://spectrum.ieee.org/digital-signal-processing
-Published: 1 day ago
+Title: Low-Tech Ceramic Water Filter
+URL: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
+Published: 6 days ago
 
-Title: Cultivating a state of mind where new ideas are born (2023)
-URL: https://www.henrikkarlsson.xyz/p/good-ideas
-Published: 1 day ago
+Title: A quick look at zero-knowledge proofs
+URL: https://bernsteinbear.com/blog/zkp/
+Published: 3 days ago
 
 ```
 <br/>

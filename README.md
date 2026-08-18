@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (6 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 week ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 week ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
-URL: https://rvembedded.com/blog_post/12/
+Title: How Bluesky draws its logo on screenshots
+URL: https://timmarinin.net/2026/bluesky-screenshots/
 Published: 1 day ago
 
-Title: Claude: System Prompts
-URL: https://platform.claude.com/docs/en/release-notes/system-prompts
+Title: Quake Shareware, a CD-ROM just a little too full
+URL: https://fabiensanglard.net/quake_shareware_cd/index.html
 Published: 1 day ago
 
-Title: SIMD in the 90s: Programming Intel's Pentium MMX
-URL: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
-Published: 4 days ago
+Title: Fairphone 6 and PostmarketOS working main camera
+URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+Published: 1 day ago
 
-Title: Low-Tech Ceramic Water Filter
-URL: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
-Published: 6 days ago
+Title: GPU Offload in Rust: Portable, Safe, and Fast
+URL: https://arxiv.org/abs/2608.13759
+Published: 1 day ago
 
-Title: A quick look at zero-knowledge proofs
-URL: https://bernsteinbear.com/blog/zkp/
-Published: 3 days ago
+Title: A Preview of DuckDB v2.0
+URL: https://duckdb.org/2026/08/17/duckdb-20-highlights
+Published: 1 day ago
 
 ```
 <br/>

@@ -98,7 +98,7 @@
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 week ago)
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (4 weeks ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 month ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: How Bluesky draws its logo on screenshots
-URL: https://timmarinin.net/2026/bluesky-screenshots/
+Title: A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+URL: https://github.com/DenisSergeevitch/desktop-fly
 Published: 1 day ago
 
-Title: Quake Shareware, a CD-ROM just a little too full
-URL: https://fabiensanglard.net/quake_shareware_cd/index.html
+Title: Being ambitious and being a dad
+URL: https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
+Published: 3 days ago
+
+Title: The Amazon tax
+URL: https://seths.blog/2026/08/the-amazon-tax/
 Published: 1 day ago
 
-Title: Fairphone 6 and PostmarketOS working main camera
-URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+Title: fx :Tiny, open, native coding agent.
+URL: https://fx.sh
 Published: 1 day ago
 
-Title: GPU Offload in Rust: Portable, Safe, and Fast
-URL: https://arxiv.org/abs/2608.13759
-Published: 1 day ago
-
-Title: A Preview of DuckDB v2.0
-URL: https://duckdb.org/2026/08/17/duckdb-20-highlights
+Title: How does IKEA come up with names for its products?
+URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html
 Published: 1 day ago
 
 ```

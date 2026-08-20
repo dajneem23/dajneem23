@@ -94,6 +94,8 @@
 
 
 
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 day ago)
+
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 week ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 week ago)
@@ -102,8 +104,6 @@
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 month ago)
 
-- [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS,  (1 month ago)
-
 #### 🎉 Recent releases
 
 
@@ -111,7 +111,7 @@
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (3 months ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
-URL: https://github.com/DenisSergeevitch/desktop-fly
+Title: OpenRouter is joining Stripe
+URL: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
 Published: 1 day ago
 
-Title: Being ambitious and being a dad
-URL: https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
-Published: 3 days ago
-
-Title: The Amazon tax
-URL: https://seths.blog/2026/08/the-amazon-tax/
+Title: Go 1.27
+URL: https://go.dev/blog/go1.27
 Published: 1 day ago
 
-Title: fx :Tiny, open, native coding agent.
-URL: https://fx.sh
+Title: Google replaced Git tags for certain source code with obtaining via Google Drive
+URL: https://grapheneos.social/@GrapheneOS/117057099753905023
 Published: 1 day ago
 
-Title: How does IKEA come up with names for its products?
-URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html
+Title: Unlocking a locked/deactivated e-waste Cricut Maker
+URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+Published: 1 day ago
+
+Title: Unsloth Dynamic 3.0 GGUFs
+URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
 Published: 1 day ago
 
 ```

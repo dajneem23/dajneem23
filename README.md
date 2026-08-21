@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 day ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 week ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: OpenRouter is joining Stripe
-URL: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+Title: The August 17 outage, and the work ahead
+URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
 Published: 1 day ago
 
-Title: Go 1.27
-URL: https://go.dev/blog/go1.27
+Title: Consumer Rights Wiki
+URL: https://consumerrights.wiki/w/Main_Page
 Published: 1 day ago
 
-Title: Google replaced Git tags for certain source code with obtaining via Google Drive
-URL: https://grapheneos.social/@GrapheneOS/117057099753905023
+Title: I like 'em thick: an apology to my English teachers
+URL: https://www.experimental-history.com/p/i-like-em-thick
+Published: 3 days ago
+
+Title: Aaron Swartz was prosecuted for scraping, while Meta does it without consequence
+URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
 Published: 1 day ago
 
-Title: Unlocking a locked/deactivated e-waste Cricut Maker
-URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
-Published: 1 day ago
-
-Title: Unsloth Dynamic 3.0 GGUFs
-URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+Title: AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
 Published: 1 day ago
 
 ```

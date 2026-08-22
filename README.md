@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 day ago)
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 week ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 days ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 week ago)
 
@@ -107,9 +107,9 @@
 #### 🎉 Recent releases
 
 
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 day ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.2) - `@ethereumjs/vm@10.1.2` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: The August 17 outage, and the work ahead
-URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+Title: Kobo can run apps now
+URL: https://bandarlabs.github.io/Cobalt/
 Published: 1 day ago
 
-Title: Consumer Rights Wiki
-URL: https://consumerrights.wiki/w/Main_Page
+Title: Felony Bench
+URL: https://www.felonybench.com/
 Published: 1 day ago
 
-Title: I like 'em thick: an apology to my English teachers
-URL: https://www.experimental-history.com/p/i-like-em-thick
+Title: Felony charges for citizen deleting phone data at US Border
+URL: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html
+Published: 1 day ago
+
+Title: Scientists release biggest 2D map of the universe
+URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/
+Published: 1 day ago
+
+Title: AI boosted homework scores, then exam scores dropped: study
+URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
 Published: 3 days ago
-
-Title: Aaron Swartz was prosecuted for scraping, while Meta does it without consequence
-URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
-Published: 1 day ago
-
-Title: AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
-URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
-Published: 1 day ago
 
 ```
 <br/>

@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 day ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 days ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 days ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (4 days ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 day ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 days ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 week ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Kobo can run apps now
-URL: https://bandarlabs.github.io/Cobalt/
+Title: Scrap
+URL: https://twitter.com/moxie/status/2091218652133732491
 Published: 1 day ago
 
-Title: Felony Bench
-URL: https://www.felonybench.com/
+Title: NanoGPT Speedrun Frontier
+URL: https://www.primeintellect.ai/research/nanogpt-speedrun
 Published: 1 day ago
 
-Title: Felony charges for citizen deleting phone data at US Border
-URL: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html
+Title: Why your local LLM feels dumber than it is
+URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
 Published: 1 day ago
 
-Title: Scientists release biggest 2D map of the universe
-URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/
+Title: NetBSD and my life (2005)
+URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html
 Published: 1 day ago
 
-Title: AI boosted homework scores, then exam scores dropped: study
-URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
-Published: 3 days ago
+Title: ElevenLabs, TwelveLabs, ThirteenLabs
+URL: https://quantumi.sh/public/labs.html
+Published: 1 day ago
 
 ```
 <br/>

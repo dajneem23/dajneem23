@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (4 days ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (5 days ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (6 days ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (4 days ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Everything I own, owned
-URL: https://schlarp.com/posts/everything-i-own-owned/
+Title: iCloud+ Hide My Email addresses will remain on icloud.com
+URL: https://developer.apple.com/news/?id=1ptvdtcm
 Published: 1 day ago
 
-Title: How I find problems to solve as a staff engineer
-URL: https://lalitm.com/post/find-problems-staff-engineer/
+Title: Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded
+URL: https://twitter.com/lemire/status/2091894299289874926
 Published: 1 day ago
 
-Title: Google Workspace thinks my domain is an email provider (2025)
-URL: https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/
+Title: Moon (2024)
+URL: https://ciechanow.ski/moon/
 Published: 1 day ago
 
-Title: Anthropic's best AI model struggles to attract users as cheaper tools thrive
-URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
+Title: MS Paint and Photos inivisibly watermark even locally generated output with GUID
+URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
 Published: 1 day ago
 
-Title: My agent.md to improve LLM-assisted code quality
-URL: https://fabiensanglard.net/agent.md/index.html
+Title: The entire city of San Francisco as a video game
+URL: https://sf.thijs.gg/
 Published: 1 day ago
 
 ```

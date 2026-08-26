@@ -94,9 +94,9 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (4 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (5 days ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (6 days ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 week ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (4 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (5 days ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: iCloud+ Hide My Email addresses will remain on icloud.com
-URL: https://developer.apple.com/news/?id=1ptvdtcm
+Title: Python's pre-declared constants are kinda weird
+URL: https://sebsite.pw/w/20260801-pythonconstants.html
 Published: 1 day ago
 
-Title: Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded
-URL: https://twitter.com/lemire/status/2091894299289874926
+Title: FDA authorizes first wearable device that monitors ketone and blood sugar levels
+URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
 Published: 1 day ago
 
-Title: Moon (2024)
-URL: https://ciechanow.ski/moon/
+Title: Apple introduces M6 and M5 Ultra
+URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
 Published: 1 day ago
 
-Title: MS Paint and Photos inivisibly watermark even locally generated output with GUID
-URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+Title: OpenAI Jalapeño: Better than Nvidia Blackwell
+URL: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 Published: 1 day ago
 
-Title: The entire city of San Francisco as a video game
-URL: https://sf.thijs.gg/
+Title: New Mac Studio with M5 Max and M5 Ultra
+URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
 Published: 1 day ago
 
 ```

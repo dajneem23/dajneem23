@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (5 days ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (6 days ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 week ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (5 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (6 days ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Python's pre-declared constants are kinda weird
-URL: https://sebsite.pw/w/20260801-pythonconstants.html
+Title: Mechanical Turk shutting down September 30
+URL: https://www.mturk.com/
 Published: 1 day ago
 
-Title: FDA authorizes first wearable device that monitors ketone and blood sugar levels
-URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
+Title: Zohran and the Short Link
+URL: https://iamwillwang.com/notes/zohran-and-the-short-link/
 Published: 1 day ago
 
-Title: Apple introduces M6 and M5 Ultra
-URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
+Title: GLM-5.3-Flash
+URL: https://z.ai/blog/glm-5.3-flash
 Published: 1 day ago
 
-Title: OpenAI Jalapeño: Better than Nvidia Blackwell
-URL: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+Title: Tailcat – Like netcat, but over Tailscale’s data plane
+URL: https://github.com/tailscale/tailcat
 Published: 1 day ago
 
-Title: New Mac Studio with M5 Max and M5 Ultra
-URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+Title: Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
+URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html
 Published: 1 day ago
 
 ```

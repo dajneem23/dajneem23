@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
-URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+Title: GUIs should be fully keyboard-driven
+URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
 Published: 1 day ago
 
-Title: Small Models Have Arrived
-URL: https://calv.info/small-models-have-arrived
+Title: Boot a Virtual iPhone via Apple's Virtualization.framework
+URL: https://github.com/Lakr233/vphone-cli
 Published: 1 day ago
 
-Title: 507 Mechanical Movements
-URL: https://507movements.com/
+Title: Htmx 4.0
+URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
 Published: 1 day ago
 
-Title: Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
-URL: https://github.com/elyosh/OpenTIE/
+Title: Just the rumour of a bug is enough to find an exploit these days
+URL: https://anil.recoil.org/notes/rumour-is-the-exploit
 Published: 1 day ago
 
-Title: Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
-URL: https://www.terminal-bench-science.ai/announcement
-Published: today
+Title: U.S. sanctions against the A/I Collective
+URL: https://www.inventati.org/
+Published: 1 day ago
 
 ```
 <br/>

@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: GUIs should be fully keyboard-driven
-URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+Title: Defrag98: Windows 98 Disk Defragmenter Simulator Online
+URL: https://defrag98.com
 Published: 1 day ago
 
-Title: Boot a Virtual iPhone via Apple's Virtualization.framework
-URL: https://github.com/Lakr233/vphone-cli
+Title: Tencent Releases and Open-Sources Tencent Hy4 Preview
+URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
 Published: 1 day ago
 
-Title: Htmx 4.0
-URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+Title: vLLM v0.28.0
+URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0
 Published: 1 day ago
 
-Title: Just the rumour of a bug is enough to find an exploit these days
-URL: https://anil.recoil.org/notes/rumour-is-the-exploit
-Published: 1 day ago
+Title: Nancy Grace Roman Space Telescope Launches this Sunday
+URL: https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova
+Published: 2 days ago
 
-Title: U.S. sanctions against the A/I Collective
-URL: https://www.inventati.org/
-Published: 1 day ago
+Title: Tether: iMessage, SMS, etc. on Linux
+URL: https://zackbartel.com/blog/2026/08/tether/
+Published: 6 days ago
 
 ```
 <br/>

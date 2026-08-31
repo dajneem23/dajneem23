@@ -98,7 +98,7 @@
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 week ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 weeks ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 month ago)
 
@@ -108,7 +108,7 @@
 
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 week ago)
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Defrag98: Windows 98 Disk Defragmenter Simulator Online
-URL: https://defrag98.com
+Title: “I just chose words carefully”
+URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
 Published: 1 day ago
 
-Title: Tencent Releases and Open-Sources Tencent Hy4 Preview
-URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
-Published: 1 day ago
-
-Title: vLLM v0.28.0
-URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0
-Published: 1 day ago
-
-Title: Nancy Grace Roman Space Telescope Launches this Sunday
-URL: https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova
+Title: Creepy Crawlies
+URL: https://people.kernel.org/monsieuricon/creepy-crawlies
 Published: 2 days ago
 
-Title: Tether: iMessage, SMS, etc. on Linux
-URL: https://zackbartel.com/blog/2026/08/tether/
-Published: 6 days ago
+Title: Thoughts on Pope Leo XIV's Magnifica Humanitas
+URL: https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/
+Published: 1 day ago
+
+Title: Haiku R1/beta6 has been released
+URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+Published: 1 day ago
+
+Title: Cores in space: The core memory module from a 1980 Spacelab computer
+URL: https://www.righto.com/2026/08/spacelab-core-memory.html
+Published: 1 day ago
 
 ```
 <br/>

@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: “I just chose words carefully”
-URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
+Title: Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO
+URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/
 Published: 1 day ago
 
-Title: Creepy Crawlies
-URL: https://people.kernel.org/monsieuricon/creepy-crawlies
-Published: 2 days ago
-
-Title: Thoughts on Pope Leo XIV's Magnifica Humanitas
-URL: https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/
+Title: Run macOS Software on Linux
+URL: https://www.darlinghq.org/
 Published: 1 day ago
 
-Title: Haiku R1/beta6 has been released
-URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+Title: I turned my security cameras into an automatic bird identification system
+URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
 Published: 1 day ago
 
-Title: Cores in space: The core memory module from a 1980 Spacelab computer
-URL: https://www.righto.com/2026/08/spacelab-core-memory.html
+Title: 'Mad honey' that can stop your heart is being sold online
+URL: https://phys.org/news/2026-08-mad-honey-heart-sold-online.html
+Published: 4 days ago
+
+Title: Playa Phone
+URL: https://playaphone.com/
 Published: 1 day ago
 
 ```

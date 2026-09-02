@@ -96,7 +96,7 @@
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 week ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 week ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 weeks ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 weeks ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO
-URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/
+Title: Hang on to Your Firefox
+URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox
 Published: 1 day ago
 
-Title: Run macOS Software on Linux
-URL: https://www.darlinghq.org/
+Title: Claude Fable 5.1 and Claude Mythos 5.1
+URL: https://www.anthropic.com/claude-fable-and-mythos-5-1
 Published: 1 day ago
 
-Title: I turned my security cameras into an automatic bird identification system
-URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
+Title: How accurate have Ed Zitron's AI skeptic predictions been?
+URL: https://danluu.com/zitron/
 Published: 1 day ago
 
-Title: 'Mad honey' that can stop your heart is being sold online
-URL: https://phys.org/news/2026-08-mad-honey-heart-sold-online.html
-Published: 4 days ago
+Title: The efficient frontier of LLM inference
+URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
+Published: 1 day ago
 
-Title: Playa Phone
-URL: https://playaphone.com/
+Title: Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+URL: https://masteranza.github.io/weedout/
 Published: 1 day ago
 
 ```

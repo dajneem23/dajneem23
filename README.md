@@ -110,7 +110,7 @@
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 week ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (3 months ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
 
 #### 🌱 My latest projects
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Hang on to Your Firefox
-URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox
+Title: Muse Spark 1.3
+URL: https://developer.meta.com/ai/models/muse-spark/
 Published: 1 day ago
 
-Title: Claude Fable 5.1 and Claude Mythos 5.1
-URL: https://www.anthropic.com/claude-fable-and-mythos-5-1
+Title: Gemini 3.8 Flash and 3.8 Flash Cyber
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
 Published: 1 day ago
 
-Title: How accurate have Ed Zitron's AI skeptic predictions been?
-URL: https://danluu.com/zitron/
+Title: Google avoids a breakup of its ad tech business
+URL: https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html
 Published: 1 day ago
 
-Title: The efficient frontier of LLM inference
-URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
-Published: 1 day ago
+Title: Holden's Lightning Flight
+URL: https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight
+Published: 3 days ago
 
-Title: Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
-URL: https://masteranza.github.io/weedout/
-Published: 1 day ago
+Title: Reverse Engineering Unknown File Formats with ImHex
+URL: https://werwolv.net/posts/file_format_reverse_engineering/
+Published: 3 days ago
 
 ```
 <br/>

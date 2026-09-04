@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 week ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 weeks ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 week ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 weeks ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Muse Spark 1.3
-URL: https://developer.meta.com/ai/models/muse-spark/
+Title: GPT-6 Astra
+URL: https://openai.com/index/gpt-6-astra/
 Published: 1 day ago
 
-Title: Gemini 3.8 Flash and 3.8 Flash Cyber
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+Title: .name Termination
+URL: https://neil.fraser.name/news/2026/09/03/
 Published: 1 day ago
 
-Title: Google avoids a breakup of its ad tech business
-URL: https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html
+Title: Qwen 3.8 27B available on Cerebras at 1500 tokens/s
+URL: https://inference-docs.cerebras.ai/models/overview
 Published: 1 day ago
 
-Title: Holden's Lightning Flight
-URL: https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight
+Title: The largest electric aircraft just flew [video]
+URL: https://www.youtube.com/watch?v=nM86DBOqgPM
 Published: 3 days ago
 
-Title: Reverse Engineering Unknown File Formats with ImHex
-URL: https://werwolv.net/posts/file_format_reverse_engineering/
-Published: 3 days ago
+Title: New type of dice guarantees no tie when deciding who goes first
+URL: https://www.cbc.ca/lite/story/9.7328614
+Published: 2 days ago
 
 ```
 <br/>

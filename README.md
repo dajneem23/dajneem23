@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: GPT-6 Astra
-URL: https://openai.com/index/gpt-6-astra/
+Title: Actively exploited sandbox RCE in all Chromium versions
+URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
 Published: 1 day ago
 
-Title: .name Termination
-URL: https://neil.fraser.name/news/2026/09/03/
+Title: Formalizing Fermat's Last Theorem
+URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem
 Published: 1 day ago
 
-Title: Qwen 3.8 27B available on Cerebras at 1500 tokens/s
-URL: https://inference-docs.cerebras.ai/models/overview
+Title: Artificial Analysis Intelligence Index v4.2
+URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
+Published: today
+
+Title: Discovery of a new OpenAI agent message board
+URL: https://collusion.wiki/
 Published: 1 day ago
 
-Title: The largest electric aircraft just flew [video]
-URL: https://www.youtube.com/watch?v=nM86DBOqgPM
-Published: 3 days ago
-
-Title: New type of dice guarantees no tie when deciding who goes first
-URL: https://www.cbc.ca/lite/story/9.7328614
-Published: 2 days ago
+Title: Statichost.eu – European static site hosting
+URL: https://www.statichost.eu/
+Published: 1 day ago
 
 ```
 <br/>

@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Actively exploited sandbox RCE in all Chromium versions
-URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
-Published: 1 day ago
-
-Title: Formalizing Fermat's Last Theorem
-URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem
-Published: 1 day ago
-
-Title: Artificial Analysis Intelligence Index v4.2
-URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
+Title: Cloud in a Bottle: making self-hosting accessible to everyone
+URL: https://cloudinabottle.org/blog/launch-post
 Published: today
 
-Title: Discovery of a new OpenAI agent message board
-URL: https://collusion.wiki/
+Title: The revolt of the reader
+URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
 Published: 1 day ago
 
-Title: Statichost.eu – European static site hosting
-URL: https://www.statichost.eu/
+Title: Private German rocket makes history, reaches orbit from European soil
+URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+Published: 1 day ago
+
+Title: Learn Programming with OCaml
+URL: https://usr.lmf.cnrs.fr/lpo/
+Published: 1 day ago
+
+Title: The "$60 Gaming PC" – AMD BC-250 (2025)
+URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
 Published: 1 day ago
 
 ```

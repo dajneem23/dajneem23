@@ -98,7 +98,7 @@
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 weeks ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (4 weeks ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 month ago)
 
@@ -108,7 +108,7 @@
 
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 weeks ago)
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (4 weeks ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Cloud in a Bottle: making self-hosting accessible to everyone
-URL: https://cloudinabottle.org/blog/launch-post
-Published: today
-
-Title: The revolt of the reader
-URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+Title: Making a Python interpreter in 1024 bytes
+URL: https://austinhenley.com/blog/python1024.html
 Published: 1 day ago
 
-Title: Private German rocket makes history, reaches orbit from European soil
-URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+Title: GrapheneOS Overhauled Default Apps and Secure Clipboard
+URL: https://grapheneos.social/@GrapheneOS/117225539756835649
 Published: 1 day ago
 
-Title: Learn Programming with OCaml
-URL: https://usr.lmf.cnrs.fr/lpo/
+Title: It took a year to ship WebAssembly in Anubis
+URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/
 Published: 1 day ago
 
-Title: The "$60 Gaming PC" – AMD BC-250 (2025)
-URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
+Title: Your intellectual fly is open (2025)
+URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+Published: 1 day ago
+
+Title: Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
+URL: https://github.com/marsbos/mador
 Published: 1 day ago
 
 ```

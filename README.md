@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Making a Python interpreter in 1024 bytes
-URL: https://austinhenley.com/blog/python1024.html
+Title: I've factored the RSA keys of a Certificate Authority from the 90s
+URL: https://mcpherrin.ca/2026/09/07/rsa.html
+Published: today
+
+Title: TALA Is Open-Source
+URL: https://d2lang.com/blog/tala-is-open-source/
 Published: 1 day ago
 
-Title: GrapheneOS Overhauled Default Apps and Secure Clipboard
-URL: https://grapheneos.social/@GrapheneOS/117225539756835649
+Title: Watch Los Angeles get built, one building at a time (1880–2026)
+URL: https://lax-skyline.parcelscope.net/
 Published: 1 day ago
 
-Title: It took a year to ship WebAssembly in Anubis
-URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/
+Title: Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
+URL: https://github.com/Sadpainy/Stuxnet
 Published: 1 day ago
 
-Title: Your intellectual fly is open (2025)
-URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
-Published: 1 day ago
-
-Title: Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
-URL: https://github.com/marsbos/mador
+Title: Leaving VMware just got harder after Broadcom pulled VDDK downloads
+URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
 Published: 1 day ago
 
 ```

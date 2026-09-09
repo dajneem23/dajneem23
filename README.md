@@ -96,9 +96,9 @@
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 weeks ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 weeks ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 weeks ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (4 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 month ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 month ago)
 
@@ -108,7 +108,7 @@
 
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 weeks ago)
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (4 weeks ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: I've factored the RSA keys of a Certificate Authority from the 90s
-URL: https://mcpherrin.ca/2026/09/07/rsa.html
-Published: today
-
-Title: TALA Is Open-Source
-URL: https://d2lang.com/blog/tala-is-open-source/
+Title: Muse – Meta’s personal AI agent
+URL: https://ai.meta.com/muse/
 Published: 1 day ago
 
-Title: Watch Los Angeles get built, one building at a time (1880–2026)
-URL: https://lax-skyline.parcelscope.net/
+Title: Large language models develop novel social biases through adaptive exploration
+URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
 Published: 1 day ago
 
-Title: Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
-URL: https://github.com/Sadpainy/Stuxnet
+Title: How to build a printer
+URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
 Published: 1 day ago
 
-Title: Leaving VMware just got harder after Broadcom pulled VDDK downloads
-URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
+Title: Navier-Stokes – Tristan Buckmaster [pdf]
+URL: https://cims.nyu.edu/~tristanb/statement.pdf
+Published: 1 day ago
+
+Title: AlphaGenome Atlas: a high-resolution map of human DNA
+URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
 Published: 1 day ago
 
 ```

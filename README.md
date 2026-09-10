@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Muse – Meta’s personal AI agent
-URL: https://ai.meta.com/muse/
+Title: iPhone Duo
+URL: https://www.apple.com/iphone-duo/
 Published: 1 day ago
 
-Title: Large language models develop novel social biases through adaptive exploration
-URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
+Title: Shopify acquires Tailwind
+URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 Published: 1 day ago
 
-Title: How to build a printer
-URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
+Title: What do Visa and Mastercard do? An intro to card networks
+URL: https://tautology.town/2026/06/01/card-networks.html
+Published: 2 days ago
+
+Title: AirPods 5
+URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/
 Published: 1 day ago
 
-Title: Navier-Stokes – Tristan Buckmaster [pdf]
-URL: https://cims.nyu.edu/~tristanb/statement.pdf
-Published: 1 day ago
-
-Title: AlphaGenome Atlas: a high-resolution map of human DNA
-URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+Title: Growing proof that autonomous cars save lives
+URL: https://spectrum.ieee.org/are-self-driving-cars-safe
 Published: 1 day ago
 
 ```

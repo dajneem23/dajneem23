@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 weeks ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 weeks ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 weeks ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 weeks ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: iPhone Duo
-URL: https://www.apple.com/iphone-duo/
+Title: YuE2 · Frontier Music with Symbolic Planning
+URL: https://map-yue2.github.io/
+Published: today
+
+Title: Shopify is moving from React Native back to Swift and Kotlin
+URL: https://shopify.engineering/back-to-native
 Published: 1 day ago
 
-Title: Shopify acquires Tailwind
-URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+Title: Google will buy half the electricity of a nuclear power plant
+URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
+Published: today
+
+Title: More questions about whether researchers can trust OpenAI with unpublished math
+URL: https://mathstodon.xyz/@andreasthom/117240535270608201
 Published: 1 day ago
 
-Title: What do Visa and Mastercard do? An intro to card networks
-URL: https://tautology.town/2026/06/01/card-networks.html
-Published: 2 days ago
-
-Title: AirPods 5
-URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/
-Published: 1 day ago
-
-Title: Growing proof that autonomous cars save lives
-URL: https://spectrum.ieee.org/are-self-driving-cars-safe
+Title: OpenAI Agents API
+URL: https://developers.openai.com/api/docs/guides/agents-api/overview
 Published: 1 day ago
 
 ```

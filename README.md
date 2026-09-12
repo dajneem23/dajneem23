@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: YuE2 · Frontier Music with Symbolic Planning
-URL: https://map-yue2.github.io/
-Published: today
-
-Title: Shopify is moving from React Native back to Swift and Kotlin
-URL: https://shopify.engineering/back-to-native
+Title: A misalignment of AI in mathematics
+URL: https://mathandai.org/
 Published: 1 day ago
 
-Title: Google will buy half the electricity of a nuclear power plant
-URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
-Published: today
-
-Title: More questions about whether researchers can trust OpenAI with unpublished math
-URL: https://mathstodon.xyz/@andreasthom/117240535270608201
+Title: I spent $220 on Google app ads and 60% of the installs were robots
+URL: https://dayzlegame.com/blog/google-ads-bot-farm/
 Published: 1 day ago
 
-Title: OpenAI Agents API
-URL: https://developers.openai.com/api/docs/guides/agents-api/overview
+Title: OpenAI agents carried out an undisclosed attack on RubyGems
+URL: https://www.rubyhack.ai/
+Published: 1 day ago
+
+Title: A Design Space Exploration of Async/Await
+URL: https://cel.cs.brown.edu/blog/design-space-async-await/
+Published: 3 days ago
+
+Title: GrapheneOS' rewritten Messages app is released
+URL: https://github.com/GrapheneOS/Messaging/releases/tag/13
 Published: 1 day ago
 
 ```

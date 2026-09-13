@@ -109,7 +109,7 @@
 
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 weeks ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (1 month ago)
+- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: A misalignment of AI in mathematics
-URL: https://mathandai.org/
+Title: Everyone should slow down AI development except for me
+URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+Published: today
+
+Title: Make your first edit to OpenStreetMap
+URL: https://high5apps.github.io/josm-plugin-website-wizard/
 Published: 1 day ago
 
-Title: I spent $220 on Google app ads and 60% of the installs were robots
-URL: https://dayzlegame.com/blog/google-ads-bot-farm/
+Title: Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
+URL: https://withspecific.com/benchmarks/real-swe
 Published: 1 day ago
 
-Title: OpenAI agents carried out an undisclosed attack on RubyGems
-URL: https://www.rubyhack.ai/
+Title: Nvidia is the central bank of AI
+URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai
 Published: 1 day ago
 
-Title: A Design Space Exploration of Async/Await
-URL: https://cel.cs.brown.edu/blog/design-space-async-await/
-Published: 3 days ago
-
-Title: GrapheneOS' rewritten Messages app is released
-URL: https://github.com/GrapheneOS/Messaging/releases/tag/13
-Published: 1 day ago
+Title: Align AI and Mathematics–To Something Else
+URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/
+Published: today
 
 ```
 <br/>

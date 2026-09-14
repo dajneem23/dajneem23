@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Everyone should slow down AI development except for me
-URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+Title: Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+Published: 1 day ago
+
+Title: Why is Google still serving dodgy ads?
+URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
+Published: 1 day ago
+
+Title: The case against JPEG XL
+URL: https://giannirosato.com/blog/post/case-against-jxl/
 Published: today
 
-Title: Make your first edit to OpenStreetMap
-URL: https://high5apps.github.io/josm-plugin-website-wizard/
+Title: Registration without a phone number on Signal will use zero-knowledge proofs
+URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10
 Published: 1 day ago
 
-Title: Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
-URL: https://withspecific.com/benchmarks/real-swe
-Published: 1 day ago
-
-Title: Nvidia is the central bank of AI
-URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai
-Published: 1 day ago
-
-Title: Align AI and Mathematics–To Something Else
-URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/
+Title: Open-Source AI and Open Models Reading List
+URL: https://www.interconnects.ai/p/open-source-ai-reading-list
 Published: today
 
 ```

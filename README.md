@@ -102,7 +102,7 @@
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 month ago)
 
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (1 month ago)
+- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 months ago)
 
 #### 🎉 Recent releases
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
-URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+Title: iOS 27, iPadOS 27, and macOS 27
+URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/
 Published: 1 day ago
 
-Title: Why is Google still serving dodgy ads?
-URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
+Title: Pion, an agent designed to run any company autonomously
+URL: https://andonlabs.com/blog/why-we-built-pion
 Published: 1 day ago
 
-Title: The case against JPEG XL
-URL: https://giannirosato.com/blog/post/case-against-jxl/
-Published: today
-
-Title: Registration without a phone number on Signal will use zero-knowledge proofs
-URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10
+Title: Charts built for Chat
+URL: https://dbtcharts.com/blog/charts-built-for-chat/
 Published: 1 day ago
 
-Title: Open-Source AI and Open Models Reading List
-URL: https://www.interconnects.ai/p/open-source-ai-reading-list
-Published: today
+Title: Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+URL: https://github.com/JamesRyanATX/fcbnerd
+Published: 1 day ago
+
+Title: 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
+URL: https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/
+Published: 3 days ago
 
 ```
 <br/>

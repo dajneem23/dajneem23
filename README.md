@@ -96,7 +96,7 @@
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 weeks ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 weeks ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (4 weeks ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: iOS 27, iPadOS 27, and macOS 27
-URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/
+Title: Introducing System One Models and Jev
+URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev
 Published: 1 day ago
 
-Title: Pion, an agent designed to run any company autonomously
-URL: https://andonlabs.com/blog/why-we-built-pion
+Title: Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+URL: https://github.com/arnegiacomo/fugleramme
 Published: 1 day ago
 
-Title: Charts built for Chat
-URL: https://dbtcharts.com/blog/charts-built-for-chat/
+Title: An Update on Wayback Machine Access
+URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
 Published: 1 day ago
 
-Title: Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
-URL: https://github.com/JamesRyanATX/fcbnerd
+Title: German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
 Published: 1 day ago
 
-Title: 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
-URL: https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/
-Published: 3 days ago
+Title: Gemini 3.8 Live and 3.8 Live Extended Thinking
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
+Published: 1 day ago
 
 ```
 <br/>

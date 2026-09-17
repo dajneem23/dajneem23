@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Introducing System One Models and Jev
-URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+Title: Nvidia announces native GPU programming in Rust
+URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
 Published: 1 day ago
 
-Title: Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
-URL: https://github.com/arnegiacomo/fugleramme
+Title: Training a 4B model to produce 81% faster query plans than Postgres
+URL: https://rohanbansal.com/qorl
 Published: 1 day ago
 
-Title: An Update on Wayback Machine Access
-URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
+Title: Xiaomi Mimo 2.6 live post-training dashboard
+URL: https://mimo.xiaomi.com/rl/
 Published: 1 day ago
 
-Title: German Rheinmetall open-sources its Battlesuite connected weapon system protcol
-URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
+Title: Breaking the 1.58-bit Barrier for Ternary LLMs
+URL: https://arxiv.org/abs/2609.16338
 Published: 1 day ago
 
-Title: Gemini 3.8 Live and 3.8 Live Extended Thinking
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
+Title: Backups Aren't Simple
+URL: https://filipovski.net/2026/09/16/backups-arent-simple.html
 Published: 1 day ago
 
 ```

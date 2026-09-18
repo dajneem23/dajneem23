@@ -94,20 +94,20 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 weeks ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (4 weeks ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (4 weeks ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 month ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 month ago)
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (1 month ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 months ago)
 
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 months ago)
 
 #### 🎉 Recent releases
 
 
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 weeks ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (4 weeks ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Nvidia announces native GPU programming in Rust
-URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+Title: Astra for Law
+URL: https://openai.com/index/astra-for-law/
 Published: 1 day ago
 
-Title: Training a 4B model to produce 81% faster query plans than Postgres
-URL: https://rohanbansal.com/qorl
+Title: Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+URL: https://prismml.com/news/bonsai-2-27b
 Published: 1 day ago
 
-Title: Xiaomi Mimo 2.6 live post-training dashboard
-URL: https://mimo.xiaomi.com/rl/
+Title: Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe
+URL: https://github.com/aardappel/goose/tree/master
+Published: today
+
+Title: Bend – A language that blocks AI mistakes via proof, on CPU and GPU
+URL: https://bend-lang.com/
 Published: 1 day ago
 
-Title: Breaking the 1.58-bit Barrier for Ternary LLMs
-URL: https://arxiv.org/abs/2609.16338
-Published: 1 day ago
-
-Title: Backups Aren't Simple
-URL: https://filipovski.net/2026/09/16/backups-arent-simple.html
+Title: Hister: A private search engine for the pages you visit and the files you keep
+URL: https://github.com/asciimoo/hister
 Published: 1 day ago
 
 ```

@@ -107,11 +107,11 @@
 #### 🎉 Recent releases
 
 
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 day ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (4 weeks ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.8.0) - `server-0.8.0` (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Astra for Law
-URL: https://openai.com/index/astra-for-law/
+Title: Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
+URL: https://grapheneos.social/@GrapheneOS/117282080803799576
 Published: 1 day ago
 
-Title: Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
-URL: https://prismml.com/news/bonsai-2-27b
+Title: Cloudflare Quick Tunnels
+URL: https://try.cloudflare.com/
 Published: 1 day ago
 
-Title: Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe
-URL: https://github.com/aardappel/goose/tree/master
-Published: today
-
-Title: Bend – A language that blocks AI mistakes via proof, on CPU and GPU
-URL: https://bend-lang.com/
+Title: Saving another 100TB of RAM
+URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
 Published: 1 day ago
 
-Title: Hister: A private search engine for the pages you visit and the files you keep
-URL: https://github.com/asciimoo/hister
-Published: 1 day ago
+Title: The Farnese letter
+URL: https://simonklee.dk/farnese-letter
+Published: 2 days ago
+
+Title: How to Write with an LLM
+URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
+Published: 2 days ago
 
 ```
 <br/>

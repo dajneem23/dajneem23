@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (5 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Xiaomi MiMo v2.6
-URL: https://mimo.xiaomi.com/mimo-v2-6
+Title: GPT-6 Sol and Luna
+URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/
 Published: 1 day ago
 
-Title: Claude Status – Elevated errors for multiple models
-URL: https://status.claude.com/incidents/7g1qpkyz5gxh
-Published: today
-
-Title: Spymarks, Not Watermarks
-URL: https://brand.io/article/spymarks/
+Title: Claude Opus 5.5
+URL: https://www.anthropic.com/claude-opus-5-5
 Published: 1 day ago
 
-Title: I don't want to read what you didn't write
-URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+Title: 'We hacked the FBI:' Hackers say they have data on all FBI employees
+URL: https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/
 Published: 1 day ago
 
-Title: Transformers Explained Visually
-URL: https://poloclub.github.io/transformer-explainer/
+Title: OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html
 Published: 1 day ago
+
+Title: ReBarUEFI: Resizable BAR for almost any UEFI system
+URL: https://github.com/xCuri0/ReBarUEFI
+Published: 2 days ago
 
 ```
 <br/>

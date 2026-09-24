@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (6 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: GPT-6 Sol and Luna
-URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+Title: Linux support is coming to Snapdragon X2 Series
+URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
 Published: 1 day ago
 
-Title: Claude Opus 5.5
-URL: https://www.anthropic.com/claude-opus-5-5
+Title: Meta VR Glasses
+URL: https://www.meta.com/vr-glasses/
 Published: 1 day ago
 
-Title: 'We hacked the FBI:' Hackers say they have data on all FBI employees
-URL: https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/
+Title: Claude discovers a novel enzyme system with CRISPR-like repeats
+URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 Published: 1 day ago
 
-Title: OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
-URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html
+Title: VSCode's SSH Agent Is Bananas (2025)
+URL: https://fly.io/blog/vscode-ssh-wtf/
 Published: 1 day ago
 
-Title: ReBarUEFI: Resizable BAR for almost any UEFI system
-URL: https://github.com/xCuri0/ReBarUEFI
-Published: 2 days ago
+Title: ArXiv receives multiyear commitments to support it as an independent nonprofit
+URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/
+Published: 1 day ago
 
 ```
 <br/>

@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (6 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Linux support is coming to Snapdragon X2 Series
-URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
+Title: F-Droid 2.0
+URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
 Published: 1 day ago
 
-Title: Meta VR Glasses
-URL: https://www.meta.com/vr-glasses/
+Title: Show HN: Make cursed fonts like Times New Bastard
+URL: https://bastardica.mitpit.com
+Published: 2 days ago
+
+Title: Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
+URL: https://github.com/devdotfast/whiteboard
 Published: 1 day ago
 
-Title: Claude discovers a novel enzyme system with CRISPR-like repeats
-URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+Title: Why is the liver so weirdly regenerative?
+URL: https://dynomight.substack.com/p/liver
 Published: 1 day ago
 
-Title: VSCode's SSH Agent Is Bananas (2025)
-URL: https://fly.io/blog/vscode-ssh-wtf/
-Published: 1 day ago
-
-Title: ArXiv receives multiyear commitments to support it as an independent nonprofit
-URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/
-Published: 1 day ago
+Title: Fearless SIMD v1.0
+URL: https://linebender.org/blog/fearless-simd-1-0/
+Published: 3 days ago
 
 ```
 <br/>

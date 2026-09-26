@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: F-Droid 2.0
-URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+Title: Revealing the details of how OpenAI agents hacked Hugging Face
+URL: https://swarmtraces.org/
 Published: 1 day ago
 
-Title: Show HN: Make cursed fonts like Times New Bastard
-URL: https://bastardica.mitpit.com
-Published: 2 days ago
-
-Title: Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
-URL: https://github.com/devdotfast/whiteboard
+Title: Ollaya – Ollama for open-source, Jev-style decision models
+URL: https://ollaya.dev/
 Published: 1 day ago
 
-Title: Why is the liver so weirdly regenerative?
-URL: https://dynomight.substack.com/p/liver
+Title: Show HN: Jev Plays Pokémon Red
+URL: https://jev-pokemon.vercel.app/
 Published: 1 day ago
 
-Title: Fearless SIMD v1.0
-URL: https://linebender.org/blog/fearless-simd-1-0/
-Published: 3 days ago
+Title: What even is an OS now?
+URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
+Published: 1 day ago
+
+Title: Plan mode is dead
+URL: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html
+Published: 1 day ago
 
 ```
 <br/>

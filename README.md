@@ -110,8 +110,8 @@
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
-- [OpenZeppelin/openzeppelin-monitor](https://github.com/OpenZeppelin/openzeppelin-monitor/releases/tag/v1.6.0) - `v1.6.0` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Revealing the details of how OpenAI agents hacked Hugging Face
-URL: https://swarmtraces.org/
+Title: Does Georgism work? Five years later
+URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later
+Published: 2 days ago
+
+Title: DeepSeek Elastic Compute (DSec)
+URL: https://arxiv.org/abs/2609.22978
 Published: 1 day ago
 
-Title: Ollaya – Ollama for open-source, Jev-style decision models
-URL: https://ollaya.dev/
+Title: PipePipe: NewPipe hard fork implementing SponsorBlock
+URL: https://github.com/InfinityLoop1308/PipePipe
+Published: 2 days ago
+
+Title: Show HN: Reladraw – A diagram language where you decide where to place things
+URL: https://github.com/reladraw/reladraw
 Published: 1 day ago
 
-Title: Show HN: Jev Plays Pokémon Red
-URL: https://jev-pokemon.vercel.app/
-Published: 1 day ago
-
-Title: What even is an OS now?
-URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
-Published: 1 day ago
-
-Title: Plan mode is dead
-URL: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html
+Title: Go Concurrency Distilled
+URL: https://antonz.org/go-concurrency-distilled/
 Published: 1 day ago
 
 ```

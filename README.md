@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Does Georgism work? Five years later
-URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later
+Title: Self-parking car using genetic algorithm (2021)
+URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+Published: today
+
+Title: When did Google get so weird?
+URL: https://sancho.bearblog.dev/google-weird/
+Published: 1 day ago
+
+Title: Ember-1
+URL: https://fireworks.ai/blog/ember-1
+Published: 1 day ago
+
+Title: Research finds 485 chemicals in US pesticide products linked to breast cancer
+URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products
+Published: today
+
+Title: Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06
+URL: https://github.com/dashersw/coyopedal
 Published: 2 days ago
-
-Title: DeepSeek Elastic Compute (DSec)
-URL: https://arxiv.org/abs/2609.22978
-Published: 1 day ago
-
-Title: PipePipe: NewPipe hard fork implementing SponsorBlock
-URL: https://github.com/InfinityLoop1308/PipePipe
-Published: 2 days ago
-
-Title: Show HN: Reladraw – A diagram language where you decide where to place things
-URL: https://github.com/reladraw/reladraw
-Published: 1 day ago
-
-Title: Go Concurrency Distilled
-URL: https://antonz.org/go-concurrency-distilled/
-Published: 1 day ago
 
 ```
 <br/>

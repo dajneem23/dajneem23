@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Self-parking car using genetic algorithm (2021)
-URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/
-Published: today
-
-Title: When did Google get so weird?
-URL: https://sancho.bearblog.dev/google-weird/
+Title: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
+URL: https://github.com/firelex/jeff
 Published: 1 day ago
 
-Title: Ember-1
-URL: https://fireworks.ai/blog/ember-1
+Title: Pirating the Pirates
+URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
 Published: 1 day ago
 
-Title: Research finds 485 chemicals in US pesticide products linked to breast cancer
-URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products
-Published: today
+Title: 12,000-year-old Göbeklitepe burials explain scattered bones
+URL: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/
+Published: 3 days ago
 
-Title: Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06
-URL: https://github.com/dashersw/coyopedal
-Published: 2 days ago
+Title: MicroLLM Lab – Try 7 tiny LLM's in the browser
+URL: https://stateofutopia.com/experiments/microllmlab/
+Published: 1 day ago
+
+Title: 1996 chat room simulator connected to Win95 and System 7 web desktops
+URL: https://lolchat.rip/
+Published: today
 
 ```
 <br/>

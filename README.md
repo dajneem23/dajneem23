@@ -94,6 +94,8 @@
 
 
 
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 day ago)
+
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 month ago)
@@ -101,8 +103,6 @@
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 month ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 months ago)
-
-- [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl) (2 months ago)
 
 #### 🎉 Recent releases
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
-URL: https://github.com/firelex/jeff
+Title: Livenerf: Has Opus 5.5 been nerfed yet?
+URL: https://github.com/ninjahawk/livenerf
 Published: 1 day ago
 
-Title: Pirating the Pirates
-URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
+Title: U.S. postal inspectors shut down website selling counterfeit postage labels
+URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
 Published: 1 day ago
 
-Title: 12,000-year-old Göbeklitepe burials explain scattered bones
-URL: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/
-Published: 3 days ago
-
-Title: MicroLLM Lab – Try 7 tiny LLM's in the browser
-URL: https://stateofutopia.com/experiments/microllmlab/
+Title: Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
+URL: https://space.bl2.net/
 Published: 1 day ago
 
-Title: 1996 chat room simulator connected to Win95 and System 7 web desktops
-URL: https://lolchat.rip/
-Published: today
+Title: America.gov
+URL: https://america.gov/
+Published: 1 day ago
+
+Title: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+URL: https://openai.com/index/introducing-gpt-6-1-sol/
+Published: 1 day ago
 
 ```
 <br/>

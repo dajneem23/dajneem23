@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 day ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Livenerf: Has Opus 5.5 been nerfed yet?
-URL: https://github.com/ninjahawk/livenerf
+Title: Gemini 4 Argon
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
 Published: 1 day ago
 
-Title: U.S. postal inspectors shut down website selling counterfeit postage labels
-URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
+Title: The top secret URSALA, RAQUEL, and FARRAH satellites
+URL: https://www.thespacereview.com/article/4951/1
 Published: 1 day ago
 
-Title: Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
-URL: https://space.bl2.net/
+Title: 56k.rip – the 1996 dial-up internet experience
+URL: https://56k.rip/
 Published: 1 day ago
 
-Title: America.gov
-URL: https://america.gov/
+Title: Surprisingly complex waves reveal the brain's inner workings
+URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/
 Published: 1 day ago
 
-Title: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
-URL: https://openai.com/index/introducing-gpt-6-1-sol/
-Published: 1 day ago
+Title: Why the Bronze Age Collapsed
+URL: https://www.worksinprogress.news/p/why-really-caused-the-bronze-age
+Published: 2 days ago
 
 ```
 <br/>

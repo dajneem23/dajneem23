@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 day ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 week ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 4 Argon
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+Title: Pi 1.0
+URL: https://earendil.com/posts/pi-1-0/
 Published: 1 day ago
 
-Title: The top secret URSALA, RAQUEL, and FARRAH satellites
-URL: https://www.thespacereview.com/article/4951/1
+Title: Several vulnerabilities have been discovered in the Linux kernel
+URL: https://lwn.net/Articles/1097401/
 Published: 1 day ago
 
-Title: 56k.rip – the 1996 dial-up internet experience
-URL: https://56k.rip/
+Title: Clef: Open-weight decision models, and new RL fine-tuning platform
+URL: https://blog.cloudflare.com/clef-decision-models/
 Published: 1 day ago
 
-Title: Surprisingly complex waves reveal the brain's inner workings
-URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/
+Title: SvelteKit 3
+URL: https://svelte.dev/blog/sveltekit-3-is-here
 Published: 1 day ago
 
-Title: Why the Bronze Age Collapsed
-URL: https://www.worksinprogress.news/p/why-really-caused-the-bronze-age
-Published: 2 days ago
+Title: Ask HN: Who is hiring? (October 2026)
+URL: https://news.ycombinator.com/item?id=49922569
+Published: 1 day ago
 
 ```
 <br/>

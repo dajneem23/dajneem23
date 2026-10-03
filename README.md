@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 day ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -110,7 +110,7 @@
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (4 months ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (11 months ago)
 
 #### 🌱 My latest projects
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Pi 1.0
-URL: https://earendil.com/posts/pi-1-0/
+Title: Things That Apparently Cause Cancer
+URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+Published: today
+
+Title: The Forgetful CPU (Linux on M4)
+URL: https://yuka.dev/blog-2026-10-02-linux-m4.html
 Published: 1 day ago
 
-Title: Several vulnerabilities have been discovered in the Linux kernel
-URL: https://lwn.net/Articles/1097401/
-Published: 1 day ago
+Title: Court agrees with EFF: Utah's VPN law demands a technical impossibility
+URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
+Published: 2 days ago
 
-Title: Clef: Open-weight decision models, and new RL fine-tuning platform
-URL: https://blog.cloudflare.com/clef-decision-models/
-Published: 1 day ago
+Title: Newgrounds.com – A community of games, music, and art
+URL: https://www.newgrounds.com/
+Published: today
 
-Title: SvelteKit 3
-URL: https://svelte.dev/blog/sveltekit-3-is-here
-Published: 1 day ago
-
-Title: Ask HN: Who is hiring? (October 2026)
-URL: https://news.ycombinator.com/item?id=49922569
-Published: 1 day ago
+Title: Mike Tomlin spent 12 years building a Minecraft city
+URL: https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/
+Published: 2 days ago
 
 ```
 <br/>

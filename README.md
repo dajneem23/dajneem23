@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Things That Apparently Cause Cancer
-URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+Title: We're going to need default hard budget caps on pretty much everything
+URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
 Published: today
 
-Title: The Forgetful CPU (Linux on M4)
-URL: https://yuka.dev/blog-2026-10-02-linux-m4.html
+Title: Bob Cringely Has Died
+URL: https://news.ycombinator.com/item?id=49949438
+Published: today
+
+Title: Treachery in the Rodin Museum 3D scan verdict
+URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
 Published: 1 day ago
 
-Title: Court agrees with EFF: Utah's VPN law demands a technical impossibility
-URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
-Published: 2 days ago
+Title: Hole Punch: Sling your spaceship around gravitational fields
+URL: https://notoriousbfg.com/hole-punch/
+Published: 1 day ago
 
-Title: Newgrounds.com – A community of games, music, and art
-URL: https://www.newgrounds.com/
-Published: today
-
-Title: Mike Tomlin spent 12 years building a Minecraft city
-URL: https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/
-Published: 2 days ago
+Title: The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
+URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+Published: 1 day ago
 
 ```
 <br/>

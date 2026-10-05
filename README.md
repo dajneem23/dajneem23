@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: We're going to need default hard budget caps on pretty much everything
-URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+Title: Powerless F1 drivers frustrated by Bahrain F1 software glitch
+URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/
 Published: today
 
-Title: Bob Cringely Has Died
-URL: https://news.ycombinator.com/item?id=49949438
-Published: today
-
-Title: Treachery in the Rodin Museum 3D scan verdict
-URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
+Title: Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
+URL: https://github.com/Niko1221/Strata
 Published: 1 day ago
 
-Title: Hole Punch: Sling your spaceship around gravitational fields
-URL: https://notoriousbfg.com/hole-punch/
+Title: In the wake of closure, a digital archive of animated materials appears online
+URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/
 Published: 1 day ago
 
-Title: The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
-URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
-Published: 1 day ago
+Title: Infidel goes wild
+URL: https://blog.zarfhome.com/2026/10/infidel-goes-wild
+Published: 2 days ago
+
+Title: The Tao of Backup
+URL: http://www.taobackup.com/index.html
+Published: 3 days ago
 
 ```
 <br/>

@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (5 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Powerless F1 drivers frustrated by Bahrain F1 software glitch
-URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/
+Title: A single license fee of £100k.00
+URL: https://dbushell.com/copyright/
 Published: today
 
-Title: Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
-URL: https://github.com/Niko1221/Strata
+Title: Beam: Reflection's 501B open-weight model
+URL: https://reflection.ai/blog/introducing-beam
 Published: 1 day ago
 
-Title: In the wake of closure, a digital archive of animated materials appears online
-URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/
+Title: Example.com just launched the biggest redesign in decades
+URL: https://www.debugbear.com/blog/example-dot-com-redesign-history
 Published: 1 day ago
 
-Title: Infidel goes wild
-URL: https://blog.zarfhome.com/2026/10/infidel-goes-wild
-Published: 2 days ago
+Title: Find the flattest route between any two points in SF
+URL: https://flattensf.com/
+Published: 1 day ago
 
-Title: The Tao of Backup
-URL: http://www.taobackup.com/index.html
-Published: 3 days ago
+Title: Dust: Pretraining Transformers Without Backpropagation
+URL: https://qlabs.sh/research/dust
+Published: 1 day ago
 
 ```
 <br/>

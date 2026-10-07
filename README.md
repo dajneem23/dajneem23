@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (5 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (6 days ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: A single license fee of £100k.00
-URL: https://dbushell.com/copyright/
+Title: Sharing AI progress in mathematics
+URL: https://openai.com/index/sharing-ai-progress-in-mathematics/
+Published: 1 day ago
+
+Title: Strands Decider 2B: a small, open-source, decision model
+URL: https://strandsagents.com/blog/introducing-strands-decider/
 Published: today
 
-Title: Beam: Reflection's 501B open-weight model
-URL: https://reflection.ai/blog/introducing-beam
+Title: Mistral Large 4
+URL: https://mistral.ai/news/mistral-large-4/\
 Published: 1 day ago
 
-Title: Example.com just launched the biggest redesign in decades
-URL: https://www.debugbear.com/blog/example-dot-com-redesign-history
+Title: Decisions API is in public beta
+URL: https://developers.openai.com/api/docs/guides/decisions
 Published: 1 day ago
 
-Title: Find the flattest route between any two points in SF
-URL: https://flattensf.com/
-Published: 1 day ago
-
-Title: Dust: Pretraining Transformers Without Backpropagation
-URL: https://qlabs.sh/research/dust
+Title: Penguin Mail – open-source Rust email client for Linux with AI
+URL: https://penguin-mail.com/
 Published: 1 day ago
 
 ```

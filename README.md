@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (6 days ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Sharing AI progress in mathematics
-URL: https://openai.com/index/sharing-ai-progress-in-mathematics/
+Title: Claude Haiku 5.5
+URL: https://www.anthropic.com/claude-haiku-5-5
 Published: 1 day ago
 
-Title: Strands Decider 2B: a small, open-source, decision model
-URL: https://strandsagents.com/blog/introducing-strands-decider/
-Published: today
-
-Title: Mistral Large 4
-URL: https://mistral.ai/news/mistral-large-4/\
+Title: Margaret Hamilton has died
+URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
 Published: 1 day ago
 
-Title: Decisions API is in public beta
-URL: https://developers.openai.com/api/docs/guides/decisions
-Published: 1 day ago
+Title: Cleo (Mathematician)
+URL: https://en.wikipedia.org/wiki/Cleo_(mathematician)
+Published: 2 days ago
 
-Title: Penguin Mail – open-source Rust email client for Linux with AI
-URL: https://penguin-mail.com/
-Published: 1 day ago
+Title: How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't
+URL: https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t
+Published: 3 days ago
+
+Title: Living off-grid: Hundred Rabbits
+URL: https://100r.ca/site/home.html
+Published: 3 days ago
 
 ```
 <br/>

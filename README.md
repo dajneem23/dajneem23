@@ -100,16 +100,16 @@
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 month ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (1 month ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 months ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 months ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (2 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (1 month ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (11 months ago)
 
@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Haiku 5.5
-URL: https://www.anthropic.com/claude-haiku-5-5
+Title: What should we tell our students?
+URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/
+Published: today
+
+Title: Whistle: Speech to Text in 16.9 MB
+URL: https://cactuscompute.com/blog/whistle
 Published: 1 day ago
 
-Title: Margaret Hamilton has died
-URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
+Title: Theranos.world
+URL: https://www.theranos.world/
 Published: 1 day ago
 
-Title: Cleo (Mathematician)
-URL: https://en.wikipedia.org/wiki/Cleo_(mathematician)
+Title: Reducing undefined behavior in the C language
+URL: https://lwn.net/Articles/1095811/
+Published: today
+
+Title: Man discovers his parents' coffee machine used 1TB of data in 10 days
+URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
 Published: 2 days ago
-
-Title: How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't
-URL: https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t
-Published: 3 days ago
-
-Title: Living off-grid: Hundred Rabbits
-URL: https://100r.ca/site/home.html
-Published: 3 days ago
 
 ```
 <br/>

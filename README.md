@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: What should we tell our students?
-URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/
+Title: REA Reverse – Engineer Anything
+URL: https://rea.tools/
 Published: today
 
-Title: Whistle: Speech to Text in 16.9 MB
-URL: https://cactuscompute.com/blog/whistle
+Title: Cloudflare acquires Deno
+URL: https://deno.com/blog/cloudflare
 Published: 1 day ago
 
-Title: Theranos.world
-URL: https://www.theranos.world/
+Title: Triple-A Minesweeper
+URL: https://minesweeper.mikelacher.com/
 Published: 1 day ago
 
-Title: Reducing undefined behavior in the C language
-URL: https://lwn.net/Articles/1095811/
-Published: today
+Title: Our $445M Series D
+URL: https://oxide.computer/blog/our-445m-series-d
+Published: 1 day ago
 
-Title: Man discovers his parents' coffee machine used 1TB of data in 10 days
-URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
-Published: 2 days ago
+Title: Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
+URL: https://carrierexplode.com/
+Published: 1 day ago
 
 ```
 <br/>

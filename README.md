@@ -200,25 +200,25 @@
 <!-- placehodler -->
 ```
 
-Title: REA Reverse – Engineer Anything
-URL: https://rea.tools/
+Title: WallHop – 12ft.io is gone, so I built a replacement
+URL: https://wallhop.io/
 Published: today
 
-Title: Cloudflare acquires Deno
-URL: https://deno.com/blog/cloudflare
+Title: Build your own decision model
+URL: https://nishtahir.com/build-your-own-decision-model/
 Published: 1 day ago
 
-Title: Triple-A Minesweeper
-URL: https://minesweeper.mikelacher.com/
+Title: 2D Vehicles
+URL: https://patkerr.co.uk/2d-vehicles/
+Published: 4 days ago
+
+Title: A city-building game in which the city would prefer you didn't
+URL: https://housing.over.pizza/
 Published: 1 day ago
 
-Title: Our $445M Series D
-URL: https://oxide.computer/blog/our-445m-series-d
-Published: 1 day ago
-
-Title: Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
-URL: https://carrierexplode.com/
-Published: 1 day ago
+Title: Generative AI scandal has come to one of Nikon's competitions
+URL: https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/
+Published: today
 
 ```
 <br/>

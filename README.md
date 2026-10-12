@@ -111,7 +111,7 @@
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (11 months ago)
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: WallHop – 12ft.io is gone, so I built a replacement
-URL: https://wallhop.io/
-Published: today
-
-Title: Build your own decision model
-URL: https://nishtahir.com/build-your-own-decision-model/
+Title: Whatever became of holography? (2011)
+URL: https://www.americanscientist.org/article/whatever-became-of-holography
 Published: 1 day ago
 
-Title: 2D Vehicles
-URL: https://patkerr.co.uk/2d-vehicles/
-Published: 4 days ago
-
-Title: A city-building game in which the city would prefer you didn't
-URL: https://housing.over.pizza/
+Title: Total Annihilation, rebuilt for modern computers
+URL: https://nanolathe.gg
 Published: 1 day ago
 
-Title: Generative AI scandal has come to one of Nikon's competitions
-URL: https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/
+Title: Fingerprints are the new cookies
+URL: https://royfish.dev/fingerprints-are-the-new-cookies
+Published: 1 day ago
+
+Title: Cartographers of North Korea (2019)
+URL: https://cartographers-nk.wonyoung.so/
+Published: 1 day ago
+
+Title: Sorry we made you grind LeetCode
+URL: https://www.hackerrank.com/writing/why-were-sorry
 Published: today
 
 ```

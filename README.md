@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: The baffling intelligence of a single cell (2024)
-URL: https://jsomers.net/e-coli-chemotaxis/
+Title: Gemini 4 Argon
+URL: https://deepmind.google/models/gemini/
+Published: 1 day ago
+
+Title: Show HN: Guitoro, a virtual guitar you strum with your keyboard
+URL: https://guitoro.com/
+Published: 1 day ago
+
+Title: Ledger confirms spy chip implant behind wallet crypto thefts
+URL: https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/
 Published: 2 days ago
 
-Title: AI Models Can Provably Hide Arbitrary Capabilities
-URL: https://arxiv.org/abs/2610.13928
-Published: today
-
-Title: GLM-Legal
-URL: https://z.ai/blog/glm-legal
+Title: Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
+URL: https://pulseos.finance
 Published: 1 day ago
 
-Title: A Modern Web App in C
-URL: https://prophitt.me/writing/a-modern-web-app-in-c
-Published: 1 day ago
-
-Title: Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
-URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
+Title: Redesigning source control at Anthropic
+URL: https://www.anthropic.com/engineering/redesigning-source-control
 Published: 1 day ago
 
 ```

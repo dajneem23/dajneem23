@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 week ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 4 Argon
-URL: https://deepmind.google/models/gemini/
+Title: Things to know when you get cancer
+URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
 Published: 1 day ago
 
-Title: Show HN: Guitoro, a virtual guitar you strum with your keyboard
-URL: https://guitoro.com/
+Title: OpenCode 2.0
+URL: https://anoma.ly/notes/opencode-2-0/
 Published: 1 day ago
 
-Title: Ledger confirms spy chip implant behind wallet crypto thefts
-URL: https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/
-Published: 2 days ago
-
-Title: Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
-URL: https://pulseos.finance
+Title: Tiny Little Office
+URL: https://tinylittleoffice.com/
 Published: 1 day ago
 
-Title: Redesigning source control at Anthropic
-URL: https://www.anthropic.com/engineering/redesigning-source-control
+Title: LFM2.5-24B-A2B: Built for fast on-device agents
+URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b
+Published: 1 day ago
+
+Title: We’re releasing Jev 1.14.0 along with experimental features for dreamers
+URL: https://typesafe.ai/blog/jev-1-14
 Published: 1 day ago
 
 ```

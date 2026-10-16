@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (3 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (4 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Things to know when you get cancer
-URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
+Title: Muse Spark Open
+URL: https://research.meta.ai/blog/muse-spark-open
 Published: 1 day ago
 
-Title: OpenCode 2.0
-URL: https://anoma.ly/notes/opencode-2-0/
+Title: RPKI now protects 70% of internet routes
+URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes
+Published: today
+
+Title: What I Self-Host
+URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
 Published: 1 day ago
 
-Title: Tiny Little Office
-URL: https://tinylittleoffice.com/
-Published: 1 day ago
+Title: Tesla Roadster
+URL: https://www.tesla.com/roadster
+Published: today
 
-Title: LFM2.5-24B-A2B: Built for fast on-device agents
-URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b
-Published: 1 day ago
-
-Title: We’re releasing Jev 1.14.0 along with experimental features for dreamers
-URL: https://typesafe.ai/blog/jev-1-14
+Title: Neural networks are clean
+URL: https://already-clean.goodfire.com/
 Published: 1 day ago
 
 ```

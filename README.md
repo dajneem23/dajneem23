@@ -200,24 +200,24 @@
 <!-- placehodler -->
 ```
 
-Title: Muse Spark Open
-URL: https://research.meta.ai/blog/muse-spark-open
-Published: 1 day ago
-
-Title: RPKI now protects 70% of internet routes
-URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes
-Published: today
-
-Title: What I Self-Host
-URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
-Published: 1 day ago
-
 Title: Tesla Roadster
 URL: https://www.tesla.com/roadster
-Published: today
+Published: 1 day ago
 
-Title: Neural networks are clean
-URL: https://already-clean.goodfire.com/
+Title: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
+URL: https://github.com/cobanov/PS5LM
+Published: 1 day ago
+
+Title: Claude reveals ECDSA curve origins
+URL: https://www.anthropic.com/research/ecdsa-curve-origins
+Published: 1 day ago
+
+Title: FLUX 3 Image Klein
+URL: https://bfl.ai/blog/flux-3-image-klein
+Published: 1 day ago
+
+Title: You could have invented transformers from memory
+URL: https://alexwang.ai/posts/associative-memory/
 Published: 1 day ago
 
 ```

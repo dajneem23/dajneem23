@@ -98,20 +98,19 @@
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (1 month ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 months ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 months ago)
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (2 months ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 months ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (4 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
-- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters/releases/tag/latest) - `latest` (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -200,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Tesla Roadster
-URL: https://www.tesla.com/roadster
+Title: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day
+URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day
+Published: today
+
+Title: Bleached corals thrive within days when touching healthy neighbour
+URL: https://www.nature.com/articles/d41586-026-03266-x
+Published: 2 days ago
+
+Title: Dam removals are bringing fish back across the northeastern United States
+URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/
+Published: 2 days ago
+
+Title: DeepSeek-v4.1-Flash-1017
+URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
 Published: 1 day ago
 
-Title: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
-URL: https://github.com/cobanov/PS5LM
-Published: 1 day ago
-
-Title: Claude reveals ECDSA curve origins
-URL: https://www.anthropic.com/research/ecdsa-curve-origins
-Published: 1 day ago
-
-Title: FLUX 3 Image Klein
-URL: https://bfl.ai/blog/flux-3-image-klein
-Published: 1 day ago
-
-Title: You could have invented transformers from memory
-URL: https://alexwang.ai/posts/associative-memory/
-Published: 1 day ago
+Title: Furifont, a Japanese font that shows furigana
+URL: https://furifont.antfu.me/
+Published: 3 days ago
 
 ```
 <br/>

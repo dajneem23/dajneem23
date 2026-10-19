@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day
-URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day
-Published: today
-
-Title: Bleached corals thrive within days when touching healthy neighbour
-URL: https://www.nature.com/articles/d41586-026-03266-x
-Published: 2 days ago
-
-Title: Dam removals are bringing fish back across the northeastern United States
-URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/
-Published: 2 days ago
-
-Title: DeepSeek-v4.1-Flash-1017
-URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+Title: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
+URL: https://arxiv.org/abs/2610.18861
 Published: 1 day ago
 
-Title: Furifont, a Japanese font that shows furigana
-URL: https://furifont.antfu.me/
-Published: 3 days ago
+Title: William Gibson and the trademarking of cyberspace
+URL: https://colo.to/cyberspace.html
+Published: 1 day ago
+
+Title: There's never been a better time to go into math (by: 3blue1brown) [video]
+URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc
+Published: 2 days ago
+
+Title: If you don't run your own LLM proxy, how do you know whats going on?
+URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
+Published: 1 day ago
+
+Title: Someone behind the software
+URL: https://karrisaarinen.com/posts/someone-behind-the-software/
+Published: 1 day ago
 
 ```
 <br/>

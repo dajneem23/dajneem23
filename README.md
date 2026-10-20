@@ -96,7 +96,7 @@
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (1 month ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 months ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 months ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 month ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (1 month ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
-URL: https://arxiv.org/abs/2610.18861
+Title: Lula supporters protest against Meta to denounce its 'electoral interference'
+URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/
+Published: today
+
+Title: MiniMax M3.1 Flash
+URL: https://www.minimax.io/blog/minimax-m31f
 Published: 1 day ago
 
-Title: William Gibson and the trademarking of cyberspace
-URL: https://colo.to/cyberspace.html
+Title: I built a drone with only one motor [video]
+URL: https://www.youtube.com/watch?v=Ndftcft6XhU
 Published: 1 day ago
 
-Title: There's never been a better time to go into math (by: 3blue1brown) [video]
-URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc
+Title: Wine ported to OpenBSD
+URL: https://marc.info/?l=openbsd-ports&m=179236125692175
+Published: 1 day ago
+
+Title: Weball: Play Katamari on Websites
+URL: https://www.funwithcomputervision.com/weball/
 Published: 2 days ago
-
-Title: If you don't run your own LLM proxy, how do you know whats going on?
-URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
-Published: 1 day ago
-
-Title: Someone behind the software
-URL: https://karrisaarinen.com/posts/someone-behind-the-software/
-Published: 1 day ago
 
 ```
 <br/>

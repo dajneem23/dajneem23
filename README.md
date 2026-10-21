@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Lula supporters protest against Meta to denounce its 'electoral interference'
-URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/
+Title: Show HN: SimCity, but with Permits
+URL: https://permit.petercai.com/
+Published: 1 day ago
+
+Title: Feds suspect ransom negotiator ran ShinyHunters extortion site
+URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+Published: 1 day ago
+
+Title: Voxtral 3
+URL: https://mistral.ai/news/voxtral-3/
+Published: 1 day ago
+
+Title: Learning to live with Waymos
+URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird
 Published: today
 
-Title: MiniMax M3.1 Flash
-URL: https://www.minimax.io/blog/minimax-m31f
+Title: The Other Epidemic: Trying to get off benzodiazepines
+URL: https://www.thebeliever.net/the-other-epidemic/
 Published: 1 day ago
-
-Title: I built a drone with only one motor [video]
-URL: https://www.youtube.com/watch?v=Ndftcft6XhU
-Published: 1 day ago
-
-Title: Wine ported to OpenBSD
-URL: https://marc.info/?l=openbsd-ports&m=179236125692175
-Published: 1 day ago
-
-Title: Weball: Play Katamari on Websites
-URL: https://www.funwithcomputervision.com/weball/
-Published: 2 days ago
 
 ```
 <br/>

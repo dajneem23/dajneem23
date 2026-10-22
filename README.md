@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (2 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: SimCity, but with Permits
-URL: https://permit.petercai.com/
+Title: mitmproxy adds --emudhra option
+URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b
 Published: 1 day ago
 
-Title: Feds suspect ransom negotiator ran ShinyHunters extortion site
-URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+Title: Railway Security Disclosure
+URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
 Published: 1 day ago
 
-Title: Voxtral 3
-URL: https://mistral.ai/news/voxtral-3/
+Title: There isn't an easy exploit for this PHP vulnerability
+URL: https://eliastaylor.com/noexploit/
 Published: 1 day ago
 
-Title: Learning to live with Waymos
-URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird
-Published: today
+Title: Today's PHP security release, and how we're strengthening security
+URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
+Published: 1 day ago
 
-Title: The Other Epidemic: Trying to get off benzodiazepines
-URL: https://www.thebeliever.net/the-other-epidemic/
+Title: GitLab Critical Patch Release
+URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
 Published: 1 day ago
 
 ```

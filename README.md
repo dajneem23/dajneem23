@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: mitmproxy adds --emudhra option
-URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b
+Title: Docker is weird
+URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird
 Published: 1 day ago
 
-Title: Railway Security Disclosure
-URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+Title: LLMs are making formal software verification feasible at a much larger scale
+URL: https://www.anthropic.com/research/formal-verification
 Published: 1 day ago
 
-Title: There isn't an easy exploit for this PHP vulnerability
-URL: https://eliastaylor.com/noexploit/
+Title: The foolishness of "natural language programming" (1978)
+URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
+Published: today
+
+Title: Quad9 (DNS Resolver) to Exit France
+URL: https://quad9.net/news/blog/au-revoir-france/
 Published: 1 day ago
 
-Title: Today's PHP security release, and how we're strengthening security
-URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
-Published: 1 day ago
-
-Title: GitLab Critical Patch Release
-URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
+Title: OpenShell – A safe, private runtime for fleets of autonomous AI agents
+URL: https://github.com/NVIDIA/OpenShell
 Published: 1 day ago
 
 ```

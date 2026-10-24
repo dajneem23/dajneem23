@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Docker is weird
-URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird
+Title: Kimi K3.1 Pro and K3.1 Pro Highspeed
+URL: https://www.kimi.ai/blog/kimi-k3-1-pro
 Published: 1 day ago
 
-Title: LLMs are making formal software verification feasible at a much larger scale
-URL: https://www.anthropic.com/research/formal-verification
+Title: Evolving Threat: http2shell is an RCE in node, Python, and more
+URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8
 Published: 1 day ago
 
-Title: The foolishness of "natural language programming" (1978)
-URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
-Published: today
-
-Title: Quad9 (DNS Resolver) to Exit France
-URL: https://quad9.net/news/blog/au-revoir-france/
+Title: Apple Music 404 Not Found
+URL: https://music.apple.com/this-url-doesnt-exist
 Published: 1 day ago
 
-Title: OpenShell – A safe, private runtime for fleets of autonomous AI agents
-URL: https://github.com/NVIDIA/OpenShell
+Title: CVE Tracker
+URL: https://cve.0xosprey.com/
+Published: 1 day ago
+
+Title: Dessa: the most authentic full-duplex speech model ever built
+URL: https://block.xyz/dessa
 Published: 1 day ago
 
 ```

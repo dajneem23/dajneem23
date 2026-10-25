@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Kimi K3.1 Pro and K3.1 Pro Highspeed
-URL: https://www.kimi.ai/blog/kimi-k3-1-pro
+Title: We should be more ambitious with the software we build
+URL: https://danluu.com/ambitious/
 Published: 1 day ago
 
-Title: Evolving Threat: http2shell is an RCE in node, Python, and more
-URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8
+Title: Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
+URL: https://missileer.watch
 Published: 1 day ago
 
-Title: Apple Music 404 Not Found
-URL: https://music.apple.com/this-url-doesnt-exist
+Title: America has lost 200k of jobs in media, film and the arts. How much is AI?
+URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
 Published: 1 day ago
 
-Title: CVE Tracker
-URL: https://cve.0xosprey.com/
+Title: The Goose Programming Language
+URL: https://aardappel.github.io/goose/
 Published: 1 day ago
 
-Title: Dessa: the most authentic full-duplex speech model ever built
-URL: https://block.xyz/dessa
+Title: Why Gopher in 2026?
+URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
 Published: 1 day ago
 
 ```

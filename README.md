@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: We should be more ambitious with the software we build
-URL: https://danluu.com/ambitious/
+Title: Dolly Parton's Imagination Library
+URL: https://imaginationlibrary.com/
 Published: 1 day ago
 
-Title: Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
-URL: https://missileer.watch
+Title: Overgrown, when plants invade your abandoned tabs
+URL: https://charliegerard.dev/blog/overgrown-extension/
+Published: 4 days ago
+
+Title: F-Zero X on Nintendo 3DS
+URL: https://hypnotize.works/gdx-3ds/postmortem/index.html
 Published: 1 day ago
 
-Title: America has lost 200k of jobs in media, film and the arts. How much is AI?
-URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+Title: Attention Is Not What You Need (2025)
+URL: https://arxiv.org/abs/2512.19428
 Published: 1 day ago
 
-Title: The Goose Programming Language
-URL: https://aardappel.github.io/goose/
-Published: 1 day ago
-
-Title: Why Gopher in 2026?
-URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
+Title: Why I Am a Programmer
+URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html
 Published: 1 day ago
 
 ```

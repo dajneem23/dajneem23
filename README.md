@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Dolly Parton's Imagination Library
-URL: https://imaginationlibrary.com/
+Title: Three new discoveries in mathematics, computer science, and physics
+URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/
 Published: 1 day ago
 
-Title: Overgrown, when plants invade your abandoned tabs
-URL: https://charliegerard.dev/blog/overgrown-extension/
-Published: 4 days ago
-
-Title: F-Zero X on Nintendo 3DS
-URL: https://hypnotize.works/gdx-3ds/postmortem/index.html
+Title: The Exponential Time Hypothesis Is False [pdf]
+URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
 Published: 1 day ago
 
-Title: Attention Is Not What You Need (2025)
-URL: https://arxiv.org/abs/2512.19428
+Title: Sebastian Raschka's from-scratch video course on building reasoning models
+URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
 Published: 1 day ago
 
-Title: Why I Am a Programmer
-URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html
+Title: Oldest GUI application that still runs on Windows 11
+URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
+Published: 1 day ago
+
+Title: Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/
 Published: 1 day ago
 
 ```

@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Three new discoveries in mathematics, computer science, and physics
-URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/
+Title: Genie 4
+URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
 Published: 1 day ago
 
-Title: The Exponential Time Hypothesis Is False [pdf]
-URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
+Title: Git for US Legislation
+URL: https://lexifina.com/blog/git-for-the-us-code
+Published: today
+
+Title: Ghostty 1.4
+URL: https://ghostty.org/docs/install/release-notes/1-4-0
 Published: 1 day ago
 
-Title: Sebastian Raschka's from-scratch video course on building reasoning models
-URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
-Published: 1 day ago
+Title: Ink droplets in motion snag top prize in Nikon Small World contest
+URL: https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
+Published: 3 days ago
 
-Title: Oldest GUI application that still runs on Windows 11
-URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
-Published: 1 day ago
-
-Title: Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
-URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+Title: Early progress on accelerating drug development with Claude
+URL: https://www.anthropic.com/research/early-progress-drug-development
 Published: 1 day ago
 
 ```

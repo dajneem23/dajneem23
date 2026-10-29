@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (3 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 weeks ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 months ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Genie 4
-URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
-Published: 1 day ago
-
-Title: Git for US Legislation
-URL: https://lexifina.com/blog/git-for-the-us-code
+Title: Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+URL: https://divagr.com/blog/qwenputer
 Published: today
 
-Title: Ghostty 1.4
-URL: https://ghostty.org/docs/install/release-notes/1-4-0
+Title: Why is this fingerprinting script creating bioweapons?
+URL: https://nullpt.rs/fingerprinting-bioweapons
 Published: 1 day ago
 
-Title: Ink droplets in motion snag top prize in Nikon Small World contest
-URL: https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
-Published: 3 days ago
+Title: GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
+URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
+Published: 1 day ago
 
-Title: Early progress on accelerating drug development with Claude
-URL: https://www.anthropic.com/research/early-progress-drug-development
+Title: A Health Update
+URL: https://furbo.org/2026/10/28/a-health-update/
+Published: 1 day ago
+
+Title: CNC Stone Carving
+URL: https://carmelitegothic.com/cnc-stone-carving/
 Published: 1 day ago
 
 ```

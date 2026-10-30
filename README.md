@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
-URL: https://divagr.com/blog/qwenputer
-Published: today
-
-Title: Why is this fingerprinting script creating bioweapons?
-URL: https://nullpt.rs/fingerprinting-bioweapons
+Title: Binance-hacker-1029 – $5.6B stolen from Binance
+URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
 Published: 1 day ago
 
-Title: GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
-URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
+Title: We're releasing the weights of Mistral Large 4
+URL: https://mistral.ai/news/mistral-large-4-oss/
 Published: 1 day ago
 
-Title: A Health Update
-URL: https://furbo.org/2026/10/28/a-health-update/
+Title: Cuis: The Modern Smalltalk-80
+URL: https://cuis.st/
+Published: 3 days ago
+
+Title: We ran AI agent swarms in Minecraft and Mindustry
+URL: https://labs.ycombinator.com/projects/games/index.html
 Published: 1 day ago
 
-Title: CNC Stone Carving
-URL: https://carmelitegothic.com/cnc-stone-carving/
-Published: 1 day ago
+Title: Astroterm: A Planetarium for Your Terminal
+URL: https://github.com/da-luce/astroterm
+Published: 2 days ago
 
 ```
 <br/>

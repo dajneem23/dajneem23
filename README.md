@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (4 weeks ago)
+- [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Binance-hacker-1029 – $5.6B stolen from Binance
-URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+Title: Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+URL: https://tng.episodle.com/
 Published: 1 day ago
 
-Title: We're releasing the weights of Mistral Large 4
-URL: https://mistral.ai/news/mistral-large-4-oss/
-Published: 1 day ago
-
-Title: Cuis: The Modern Smalltalk-80
-URL: https://cuis.st/
+Title: Cloudflare Turnstile solver library (no headless browser required)
+URL: https://github.com/chris124567/cfsolve
 Published: 3 days ago
 
-Title: We ran AI agent swarms in Minecraft and Mindustry
-URL: https://labs.ycombinator.com/projects/games/index.html
+Title: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
+URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/
 Published: 1 day ago
 
-Title: Astroterm: A Planetarium for Your Terminal
-URL: https://github.com/da-luce/astroterm
-Published: 2 days ago
+Title: My favourite PowerMac is a Nintendo Wii
+URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+Published: 1 day ago
+
+Title: Northflank Breached
+URL: https://status.northflank.com
+Published: 1 day ago
 
 ```
 <br/>

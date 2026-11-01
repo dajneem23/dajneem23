@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
-URL: https://tng.episodle.com/
+Title: HackerTube: YouTube built from videos recommended by HN
+URL: https://karpathy.bearblog.dev/hacker-tube/
 Published: 1 day ago
 
-Title: Cloudflare Turnstile solver library (no headless browser required)
-URL: https://github.com/chris124567/cfsolve
-Published: 3 days ago
-
-Title: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
-URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/
+Title: An Italian farmer found some unknown seeds in his attic and planted them
+URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
 Published: 1 day ago
 
-Title: My favourite PowerMac is a Nintendo Wii
-URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+Title: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
 Published: 1 day ago
 
-Title: Northflank Breached
-URL: https://status.northflank.com
+Title: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+Published: 1 day ago
+
+Title: Altoids Project
+URL: https://uvdn7.github.io/altoids-project/
 Published: 1 day ago
 
 ```

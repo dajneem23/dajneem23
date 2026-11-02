@@ -110,7 +110,7 @@
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 month ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
-- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (5 months ago)
+- [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
+Title: Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+URL: https://hackerbooks.org
+Published: 1 day ago
+
+Title: F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/
+Published: today
+
+Title: Postgres 19 is late because so many more bugs are being found now
+URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
+Published: 2 days ago
+
 Title: HackerTube: YouTube built from videos recommended by HN
 URL: https://karpathy.bearblog.dev/hacker-tube/
-Published: 1 day ago
+Published: 2 days ago
 
-Title: An Italian farmer found some unknown seeds in his attic and planted them
-URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
-Published: 1 day ago
-
-Title: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
-URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
-Published: 1 day ago
-
-Title: Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
-URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
-Published: 1 day ago
-
-Title: Altoids Project
-URL: https://uvdn7.github.io/altoids-project/
-Published: 1 day ago
+Title: Nibnib: Image compression with extreme decompression speed
+URL: https://github.com/raphlinus/nibnib
+Published: 3 days ago
 
 ```
 <br/>

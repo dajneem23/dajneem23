@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Show HN: HackerBooks – HackerTube, but for books mentioned on HN
-URL: https://hackerbooks.org
-Published: 1 day ago
-
-Title: F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
-URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/
+Title: Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)
+URL: https://www.keepingup.com/benchmarks/net-worth/age-30-33
 Published: today
 
-Title: Postgres 19 is late because so many more bugs are being found now
-URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
-Published: 2 days ago
+Title: Astra can read and write weights to improve Qwen
+URL: https://rikiyat.github.io/blog/weight-space-programming/
+Published: 1 day ago
 
-Title: HackerTube: YouTube built from videos recommended by HN
-URL: https://karpathy.bearblog.dev/hacker-tube/
-Published: 2 days ago
+Title: Show HN: Hacker Times, a New York Times-inspired version of Hacker News
+URL: https://hackertimes.ca/
+Published: today
 
-Title: Nibnib: Image compression with extreme decompression speed
-URL: https://github.com/raphlinus/nibnib
-Published: 3 days ago
+Title: DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
+URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+Published: today
+
+Title: Show HN: Subvocal – Talk to your computer without making noise
+URL: https://news.ycombinator.com/item?id=50340088
+Published: 1 day ago
 
 ```
 <br/>

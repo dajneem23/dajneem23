@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)
-URL: https://www.keepingup.com/benchmarks/net-worth/age-30-33
-Published: today
-
-Title: Astra can read and write weights to improve Qwen
-URL: https://rikiyat.github.io/blog/weight-space-programming/
+Title: The Internals of PostgreSQL
+URL: https://www.interdb.jp/pg/index.html
 Published: 1 day ago
 
-Title: Show HN: Hacker Times, a New York Times-inspired version of Hacker News
-URL: https://hackertimes.ca/
+Title: C++26 Disapproved
+URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
 Published: today
 
-Title: DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
-URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
-Published: today
+Title: Jailbreaking my car's navigation system just so I can change the time
+URL: https://blog.nns.ee/2026/11/02/renault-hack/
+Published: 2 days ago
 
-Title: Show HN: Subvocal – Talk to your computer without making noise
-URL: https://news.ycombinator.com/item?id=50340088
+Title: Stringman, an $800 open-source room scale gripper robot
+URL: https://neufangled.com/
 Published: 1 day ago
+
+Title: Giant canyon on Mars is still tectonically active
+URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
+Published: today
 
 ```
 <br/>

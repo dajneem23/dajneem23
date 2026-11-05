@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: The Internals of PostgreSQL
-URL: https://www.interdb.jp/pg/index.html
+Title: Residential proxies detected on White House network
+URL: https://layer3intel.com/blog/residential-proxies-white-house-network
 Published: 1 day ago
 
-Title: C++26 Disapproved
-URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
-Published: today
-
-Title: Jailbreaking my car's navigation system just so I can change the time
-URL: https://blog.nns.ee/2026/11/02/renault-hack/
-Published: 2 days ago
-
-Title: Stringman, an $800 open-source room scale gripper robot
-URL: https://neufangled.com/
+Title: Images 2.6
+URL: https://openai.com/index/introducing-images-2-6/
 Published: 1 day ago
 
-Title: Giant canyon on Mars is still tectonically active
-URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
+Title: Starfall – Affordable, routine access to microgravity
+URL: https://www.spacex.com/starfall
 Published: today
+
+Title: A thousand fewer paths to root
+URL: https://openai.com/index/a-thousand-fewer-paths-to-root/
+Published: 1 day ago
+
+Title: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
+URL: https://www.ricursive.com/ripple
+Published: 1 day ago
 
 ```
 <br/>

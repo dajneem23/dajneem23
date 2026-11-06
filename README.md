@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Residential proxies detected on White House network
-URL: https://layer3intel.com/blog/residential-proxies-white-house-network
+Title: Claude Code sends your email address to websites
+URL: https://github.com/anthropics/claude-code/issues/107757
 Published: 1 day ago
 
-Title: Images 2.6
-URL: https://openai.com/index/introducing-images-2-6/
+Title: sshole
+URL: https://sshhole.com
 Published: 1 day ago
 
-Title: Starfall – Affordable, routine access to microgravity
-URL: https://www.spacex.com/starfall
+Title: MS Paint Remote Code Execution Vulnerability
+URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+Published: 1 day ago
+
+Title: Nvidia Kubernetes Engine (NVKE)
+URL: https://github.com/dsx-ai-factory/nvke
 Published: today
 
-Title: A thousand fewer paths to root
-URL: https://openai.com/index/a-thousand-fewer-paths-to-root/
-Published: 1 day ago
-
-Title: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
-URL: https://www.ricursive.com/ripple
-Published: 1 day ago
+Title: Inkling 2 Small
+URL: https://thinkingmachines.ai/news/inkling-2-small/
+Published: today
 
 ```
 <br/>

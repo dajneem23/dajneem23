@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Code sends your email address to websites
-URL: https://github.com/anthropics/claude-code/issues/107757
+Title: Libghostty 1.0
+URL: https://mitchellh.com/writing/libghostty-1-0
 Published: 1 day ago
 
-Title: sshole
-URL: https://sshhole.com
+Title: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+URL: https://hightouch.com/blog/llm-judges-identity-resolution
 Published: 1 day ago
 
-Title: MS Paint Remote Code Execution Vulnerability
-URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
-Published: 1 day ago
-
-Title: Nvidia Kubernetes Engine (NVKE)
-URL: https://github.com/dsx-ai-factory/nvke
+Title: I Toured Unitree's Factory. I'm More Bullish on the West
+URL: https://josef.cn/blog/unitree
 Published: today
 
-Title: Inkling 2 Small
-URL: https://thinkingmachines.ai/news/inkling-2-small/
-Published: today
+Title: Tesla to wind down Cybertruck production
+URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+Published: 1 day ago
+
+Title: Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
+URL: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/
+Published: 3 days ago
 
 ```
 <br/>

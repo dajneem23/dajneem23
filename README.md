@@ -100,16 +100,16 @@
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 months ago)
 
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (2 months ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 months ago)
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 months ago)
 
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.9.0) - `server-0.9.0` (1 month ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (1 day ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
-- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (2 months ago)
+- [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
 
 #### 🌱 My latest projects
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Libghostty 1.0
-URL: https://mitchellh.com/writing/libghostty-1-0
+Title: The end of Microsoft Research's AI Frontiers group
+URL: https://hunch.net/?p=13764006
 Published: 1 day ago
 
-Title: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
-URL: https://hightouch.com/blog/llm-judges-identity-resolution
+Title: What I run on my $10 USD OpenStick homelab
+URL: https://blog.bosscher.ch/posts/openstick/
 Published: 1 day ago
 
-Title: I Toured Unitree's Factory. I'm More Bullish on the West
-URL: https://josef.cn/blog/unitree
-Published: today
-
-Title: Tesla to wind down Cybertruck production
-URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+Title: Apple’s grey list: Words and phrases your iPhone won’t help you spell
+URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you
 Published: 1 day ago
 
-Title: Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
-URL: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/
-Published: 3 days ago
+Title: Making any integer with four 2s (2025)
+URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
+Published: 1 day ago
+
+Title: Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+Published: 1 day ago
 
 ```
 <br/>

@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (2 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (3 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-URL: https://ketchup3d.github.io/app/
+Title: Claude Fable 5.2 and Mythos 5.2
+URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
 Published: 1 day ago
 
-Title: Unlocking any car from X brand in most of the world
-URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
-Published: today
-
-Title: Chimera Vocal Synth
-URL: https://chimera-vocal-synth.vercel.app/
+Title: USPS now offers official ZIP Code boundary polygons
+URL: https://postalpro.usps.com/zcb
 Published: 1 day ago
 
-Title: RIP, Harvest
-URL: https://aphyr.com/posts/427-rip-harvest
-Published: today
-
-Title: Outlook.com Is Quietly Rejecting Email from Domains Without DMARC
-URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+Title: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
+URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
 Published: 1 day ago
+
+Title: E-means: Outperforming k-means in one-tenth the epochs
+URL: https://e-means.github.io/
+Published: 1 day ago
+
+Title: How Many People Work from Home?
+URL: https://nicholasdecker.substack.com/p/how-many-people-work-from-home
+Published: 5 days ago
 
 ```
 <br/>

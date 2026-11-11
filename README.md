@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (3 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (4 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Claude Fable 5.2 and Mythos 5.2
-URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
+Title: After 7 months, Glasswing overwelms maintainers with underwhelming findings
+URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
 Published: 1 day ago
 
-Title: USPS now offers official ZIP Code boundary polygons
-URL: https://postalpro.usps.com/zcb
+Title: A great old-timey game-programming hack (2013)
+URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+Published: today
+
+Title: .name Grandfathered
+URL: https://neil.fraser.name/news/2026/11/10/
 Published: 1 day ago
 
-Title: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
-URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+Title: Smart home devices should work without the internet
+URL: https://docodethatmatters.com/home-automation-overnight-success/
 Published: 1 day ago
 
-Title: E-means: Outperforming k-means in one-tenth the epochs
-URL: https://e-means.github.io/
+Title: Scion is back and is going to sell a kei truck in America
+URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
 Published: 1 day ago
-
-Title: How Many People Work from Home?
-URL: https://nicholasdecker.substack.com/p/how-many-people-work-from-home
-Published: 5 days ago
 
 ```
 <br/>

@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (4 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (5 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: After 7 months, Glasswing overwelms maintainers with underwhelming findings
-URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+Title: 93% of paint splatters are valid Perl programs (2019)
+URL: https://www.mcmillen.dev/sigbovik/
 Published: 1 day ago
 
-Title: A great old-timey game-programming hack (2013)
-URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+Title: Tim Peters has died
+URL: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
+Published: 1 day ago
+
+Title: AWS emulator
+URL: https://github.com/aws/aws-emulator
+Published: 1 day ago
+
+Title: Critical RCE Vulnerability in Apache HTTP Server
+URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
 Published: today
 
-Title: .name Grandfathered
-URL: https://neil.fraser.name/news/2026/11/10/
-Published: 1 day ago
-
-Title: Smart home devices should work without the internet
-URL: https://docodethatmatters.com/home-automation-overnight-success/
-Published: 1 day ago
-
-Title: Scion is back and is going to sell a kei truck in America
-URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
+Title: Nvidia is preparing to oust Jensen Huang
+URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
 Published: 1 day ago
 
 ```

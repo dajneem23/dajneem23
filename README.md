@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (5 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (6 days ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: 93% of paint splatters are valid Perl programs (2019)
-URL: https://www.mcmillen.dev/sigbovik/
-Published: 1 day ago
-
-Title: Tim Peters has died
-URL: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
-Published: 1 day ago
-
-Title: AWS emulator
-URL: https://github.com/aws/aws-emulator
-Published: 1 day ago
-
-Title: Critical RCE Vulnerability in Apache HTTP Server
-URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
+Title: Africa's solar revolution is vast and speedy
+URL: https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy
 Published: today
 
-Title: Nvidia is preparing to oust Jensen Huang
-URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
+Title: Jensen Huang resigns
+URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
+Published: 1 day ago
+
+Title: Rust 1.100
+URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+Published: 1 day ago
+
+Title: Nvidia employees petition to bring back Jensen Huang
+URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/
+Published: today
+
+Title: Gemini 4 Hydrogen and Orchestrator
+URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
 Published: 1 day ago
 
 ```

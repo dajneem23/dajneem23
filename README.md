@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (6 days ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (1 week ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Africa's solar revolution is vast and speedy
-URL: https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy
+Title: Ggml v1.0.0
+URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
 Published: today
 
-Title: Jensen Huang resigns
-URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
-Published: 1 day ago
-
-Title: Rust 1.100
-URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
-Published: 1 day ago
-
-Title: Nvidia employees petition to bring back Jensen Huang
-URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/
+Title: FAA lifted National Ground Stop at 0119Z
+URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5
 Published: today
 
-Title: Gemini 4 Hydrogen and Orchestrator
-URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+Title: FAA issues national ground stop
+URL: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+Published: 1 day ago
+
+Title: Terminal borders that don't cost a cell
+URL: https://www.joshka.net/cell-borders/
+Published: 1 day ago
+
+Title: What Happened to 3Com?
+URL: https://dfarq.homeip.net/what-happened-to-3com/
 Published: 1 day ago
 
 ```

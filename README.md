@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Ggml v1.0.0
-URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
-Published: today
-
-Title: FAA lifted National Ground Stop at 0119Z
-URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5
-Published: today
-
-Title: FAA issues national ground stop
-URL: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+Title: SpaceX catches the Starship to end Flight 15
+URL: https://www.spacex.com/launches/starship-flight-15
 Published: 1 day ago
 
-Title: Terminal borders that don't cost a cell
-URL: https://www.joshka.net/cell-borders/
+Title: Lovable apps expose passport details and more than 200K private messages
+URL: https://www.crissyfield.de/research/lovable-en/
 Published: 1 day ago
 
-Title: What Happened to 3Com?
-URL: https://dfarq.homeip.net/what-happened-to-3com/
+Title: How did Woz write the Apple 1 BASIC before building the computer?
+URL: https://retrocomputing.stackexchange.com/questions/17957
+Published: 1 day ago
+
+Title: A family tree of software job titles
+URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+Published: 1 day ago
+
+Title: Nvidia deliberately kept GPU prices high through circular financing deals
+URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
 Published: 1 day ago
 
 ```

@@ -98,11 +98,11 @@
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 months ago)
 
-- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (2 months ago)
+- [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 months ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 months ago)
 
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (3 months ago)
+- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (4 months ago)
 
 #### 🎉 Recent releases
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: SpaceX catches the Starship to end Flight 15
-URL: https://www.spacex.com/launches/starship-flight-15
+Title: Carnegie Mellon is putting computer science courses on YouTube for free
+URL: https://www.cs.cmu.edu/learn/
 Published: 1 day ago
 
-Title: Lovable apps expose passport details and more than 200K private messages
-URL: https://www.crissyfield.de/research/lovable-en/
+Title: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use
+URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/
 Published: 1 day ago
 
-Title: How did Woz write the Apple 1 BASIC before building the computer?
-URL: https://retrocomputing.stackexchange.com/questions/17957
+Title: BugMeNot has closed
+URL: https://www.bugmenot.com/
 Published: 1 day ago
 
-Title: A family tree of software job titles
-URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+Title: Optimizely compromised, served malware on Zoom, GitLab
+URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
 Published: 1 day ago
 
-Title: Nvidia deliberately kept GPU prices high through circular financing deals
-URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
-Published: 1 day ago
+Title: If an App Asks for Full Disk Access or System and App Protection Override
+URL: https://support.apple.com/en-us/149699
+Published: today
 
 ```
 <br/>

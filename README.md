@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Carnegie Mellon is putting computer science courses on YouTube for free
-URL: https://www.cs.cmu.edu/learn/
+Title: Java4Shell: RCE in OpenJDK when processing Base64
+URL: https://calif.io/java4shell/
 Published: 1 day ago
 
-Title: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use
-URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/
-Published: 1 day ago
-
-Title: BugMeNot has closed
-URL: https://www.bugmenot.com/
-Published: 1 day ago
-
-Title: Optimizely compromised, served malware on Zoom, GitLab
-URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
-Published: 1 day ago
-
-Title: If an App Asks for Full Disk Access or System and App Protection Override
-URL: https://support.apple.com/en-us/149699
+Title: ID.me terms required for IRS sign-in
+URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
 Published: today
+
+Title: Google's AI answers reducing search traffic by 40%
+URL: https://revscope.co/blog/search-seo-geo-2026/
+Published: today
+
+Title: GPT‑6.2 Astra and Sol
+URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+Published: 1 day ago
+
+Title: Quad9's withdrawal from France: A canary in the coal mine
+URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/
+Published: 1 day ago
 
 ```
 <br/>

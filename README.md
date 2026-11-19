@@ -96,7 +96,7 @@
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
-- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (2 months ago)
+- [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 months ago)
 
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 months ago)
 
@@ -108,7 +108,7 @@
 
 
 - [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (1 week ago)
-- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (2 months ago)
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Java4Shell: RCE in OpenJDK when processing Base64
-URL: https://calif.io/java4shell/
+Title: Gemini 4 Neon
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
 Published: 1 day ago
 
-Title: ID.me terms required for IRS sign-in
-URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+Title: Unauthenticated remote code execution in Nginx
+URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+Published: 1 day ago
+
+Title: Gemini 4 Neon looks like an Opus 5.5 competitor
+URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
 Published: today
 
-Title: Google's AI answers reducing search traffic by 40%
-URL: https://revscope.co/blog/search-seo-geo-2026/
+Title: Multiple vulnerabilities in Regexp and String case conversion
+URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/
+Published: 1 day ago
+
+Title: Unreal Tournament 2004 in the Browser
+URL: https://ut2004.dev/
 Published: today
-
-Title: GPT‑6.2 Astra and Sol
-URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
-Published: 1 day ago
-
-Title: Quad9's withdrawal from France: A canary in the coal mine
-URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/
-Published: 1 day ago
 
 ```
 <br/>

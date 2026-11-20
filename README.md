@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 4 Neon
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+Title: Gemini 4 Neon is the new #1 on the Models Engineering Index
+URL: https://git-aarvin.github.io/mei/
 Published: 1 day ago
 
-Title: Unauthenticated remote code execution in Nginx
-URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+Title: Anthropic’s Nasdaq debut
+URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
 Published: 1 day ago
 
-Title: Gemini 4 Neon looks like an Opus 5.5 competitor
-URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
+Title: Pancreatic cancer halted by virus injection in three patients
+URL: https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/
+Published: 1 day ago
+
+Title: OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+URL: https://github.com/openssl/openssl/pull/33652
 Published: today
 
-Title: Multiple vulnerabilities in Regexp and String case conversion
-URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/
-Published: 1 day ago
-
-Title: Unreal Tournament 2004 in the Browser
-URL: https://ut2004.dev/
+Title: Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
+URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/
 Published: today
 
 ```

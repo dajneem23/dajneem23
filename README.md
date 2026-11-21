@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (1 week ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (2 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Gemini 4 Neon is the new #1 on the Models Engineering Index
-URL: https://git-aarvin.github.io/mei/
+Title: Hurried Announcement: Alessandro Masullo GRH
+URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
 Published: 1 day ago
 
-Title: Anthropic’s Nasdaq debut
-URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+Title: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
+URL: https://alpo.ge/remark.pdf
 Published: 1 day ago
 
-Title: Pancreatic cancer halted by virus injection in three patients
-URL: https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/
+Title: Inkling 2 Mini
+URL: https://thinkingmachines.ai/news/inkling-2-mini/
 Published: 1 day ago
 
-Title: OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
-URL: https://github.com/openssl/openssl/pull/33652
-Published: today
+Title: NINLIVE: The Nine Inch Nails live archive
+URL: https://ninlive.com/
+Published: 1 day ago
 
-Title: Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
-URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/
-Published: today
+Title: We promoted developers into architects without informing them
+URL: https://manidoraisamy.com/developer-to-architect.html
+Published: 1 day ago
 
 ```
 <br/>

@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Hurried Announcement: Alessandro Masullo GRH
-URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
+Title: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
+Published: 2 days ago
+
+Title: Lean verification of the Riemann Hypothesis
+URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
 Published: 1 day ago
 
-Title: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
-URL: https://alpo.ge/remark.pdf
+Title: Inkling-2-Mini in 5.4 GB Memory
+URL: https://github.com/ShinMegamiBoson/lookatmyquant
 Published: 1 day ago
 
-Title: Inkling 2 Mini
-URL: https://thinkingmachines.ai/news/inkling-2-mini/
-Published: 1 day ago
+Title: Data Processing Incidents on Inference Providers
+URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+Published: today
 
-Title: NINLIVE: The Nine Inch Nails live archive
-URL: https://ninlive.com/
-Published: 1 day ago
-
-Title: We promoted developers into architects without informing them
-URL: https://manidoraisamy.com/developer-to-architect.html
-Published: 1 day ago
+Title: Sandwich Simulator
+URL: https://stulle.app/
+Published: today
 
 ```
 <br/>

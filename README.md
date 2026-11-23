@@ -94,6 +94,8 @@
 
 
 
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (1 day ago)
+
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
 - [open-flaw/CVE-2026-2005](https://github.com/open-flaw/CVE-2026-2005) (3 months ago)
@@ -101,8 +103,6 @@
 - [open-flaw/CVE-2026-56848](https://github.com/open-flaw/CVE-2026-56848) (3 months ago)
 
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek (3 months ago)
-
-- [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography) (4 months ago)
 
 #### 🎉 Recent releases
 
@@ -116,6 +116,8 @@
 
 
 
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir)
+
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek) - Docker Sandbox Template to Claude Code with DeepSeek
 
 - [dajneem23/Cryptography](https://github.com/dajneem23/Cryptography)
@@ -123,8 +125,6 @@
 - [dajneem23/shortenUrl](https://github.com/dajneem23/shortenUrl)
 
 - [dajneem23/payment-core](https://github.com/dajneem23/payment-core) - A Payment service with Java SPA and NestJS, 
-
-- [dajneem23/upwork-022073436133180469455](https://github.com/dajneem23/upwork-022073436133180469455) - proposal for upwork job
 
 
 #### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
-URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
-Published: 2 days ago
-
-Title: Lean verification of the Riemann Hypothesis
-URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
-Published: 1 day ago
-
-Title: Inkling-2-Mini in 5.4 GB Memory
-URL: https://github.com/ShinMegamiBoson/lookatmyquant
-Published: 1 day ago
-
-Title: Data Processing Incidents on Inference Providers
-URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+Title: Free alternative TV network built from the Internet Archive's forgotten videos
+URL: https://spelunkr.tv
 Published: today
 
-Title: Sandwich Simulator
-URL: https://stulle.app/
-Published: today
+Title: Masullo on the Riemann Hypothesis
+URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
+Published: 1 day ago
+
+Title: A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+Published: 1 day ago
+
+Title: The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
+URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
+Published: 1 day ago
+
+Title: Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches
+URL: https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527
+Published: 5 days ago
 
 ```
 <br/>

@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (1 day ago)
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (2 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Free alternative TV network built from the Internet Archive's forgotten videos
-URL: https://spelunkr.tv
+Title: India's opposition storms Meta's offices to get its Instagram accounts back
+URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html
 Published: today
 
-Title: Masullo on the Riemann Hypothesis
-URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
+Title: Nvidia Reinstates Jensen Huang as CEO
+URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
 Published: 1 day ago
 
-Title: A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
-URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+Title: Stalwart is now a drop-in replacement for Microsoft Exchange
+URL: https://stalw.art/blog/microsoft-exchange-replacement/
 Published: 1 day ago
 
-Title: The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
-URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
+Title: Ladybird is now in alpha
+URL: https://ladybird.org/posts/alpha/
 Published: 1 day ago
 
-Title: Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches
-URL: https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527
-Published: 5 days ago
+Title: Drone Maps of Salvage Yards
+URL: https://salvageyarddrone.wordpress.com/
+Published: today
 
 ```
 <br/>

@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (2 days ago)
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (3 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: India's opposition storms Meta's offices to get its Instagram accounts back
-URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html
+Title: Matrix Multiplication is Θ(n^2.25) [pdf]
+URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
 Published: today
 
-Title: Nvidia Reinstates Jensen Huang as CEO
-URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
-Published: 1 day ago
+Title: Button Sounds – collection of professionally-recorded button clicks and presses
+URL: https://buttons.joshwcomeau.com/
+Published: today
 
-Title: Stalwart is now a drop-in replacement for Microsoft Exchange
-URL: https://stalw.art/blog/microsoft-exchange-replacement/
-Published: 1 day ago
+Title: Models Can Communicate via Inference Servers Despite Being Sandboxed
+URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+Published: today
 
-Title: Ladybird is now in alpha
-URL: https://ladybird.org/posts/alpha/
-Published: 1 day ago
+Title: Gemini refused to give me the lyrics to Twinkle Twinkle Little Star
+URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
+Published: today
 
-Title: Drone Maps of Salvage Yards
-URL: https://salvageyarddrone.wordpress.com/
+Title: I've been drinking wine in my kitchen
+URL: https://scottaaronson.blog/?p=10362
 Published: today
 
 ```

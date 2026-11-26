@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (3 days ago)
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (4 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Matrix Multiplication is Θ(n^2.25) [pdf]
-URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
-Published: today
+Title: Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+URL: https://scottaaronson.blog/?p=10379
+Published: 1 day ago
 
-Title: Button Sounds – collection of professionally-recorded button clicks and presses
-URL: https://buttons.joshwcomeau.com/
-Published: today
+Title: 1Password Security Incident
+URL: https://1password.com/blog/update-on-nov-2026-security-incident
+Published: 1 day ago
 
-Title: Models Can Communicate via Inference Servers Despite Being Sandboxed
-URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
-Published: today
+Title: Much shorter version of GRH Lean verification from Anthropic
+URL: https://github.com/lsernau/grh-lean
+Published: 1 day ago
 
-Title: Gemini refused to give me the lyrics to Twinkle Twinkle Little Star
-URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
-Published: today
+Title: What VP ≠ VNP Means (In 3 Minutes)
+URL: https://www.friedgil.com/vpvnp
+Published: 2 days ago
 
-Title: I've been drinking wine in my kitchen
-URL: https://scottaaronson.blog/?p=10362
+Title: Tell HN: Lots of Ask HNs again
+URL: https://news.ycombinator.com/item?id=50649864
 Published: today
 
 ```

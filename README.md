@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (4 days ago)
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (5 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
@@ -199,25 +199,25 @@
 <!-- placehodler -->
 ```
 
-Title: Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
-URL: https://scottaaronson.blog/?p=10379
-Published: 1 day ago
-
-Title: 1Password Security Incident
-URL: https://1password.com/blog/update-on-nov-2026-security-incident
-Published: 1 day ago
-
-Title: Much shorter version of GRH Lean verification from Anthropic
-URL: https://github.com/lsernau/grh-lean
-Published: 1 day ago
-
-Title: What VP ≠ VNP Means (In 3 Minutes)
-URL: https://www.friedgil.com/vpvnp
-Published: 2 days ago
-
-Title: Tell HN: Lots of Ask HNs again
-URL: https://news.ycombinator.com/item?id=50649864
+Title: Hard Drive pricing has gotten bad
+URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
 Published: today
+
+Title: "What's Claude's Fursona?" and Other Questions
+URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+Published: today
+
+Title: AI made self-hosting fun again
+URL: https://janlukas.blog/posts/ai-self-hosting
+Published: 1 day ago
+
+Title: Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+Published: 1 day ago
+
+Title: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+URL: https://github.com/antonpictures/youtube-punisher
+Published: 1 day ago
 
 ```
 <br/>

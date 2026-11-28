@@ -94,7 +94,7 @@
 
 
 
-- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (5 days ago)
+- [dajneem23/my-own-tree-dir](https://github.com/dajneem23/my-own-tree-dir) (6 days ago)
 
 - [dajneem23/my-nvim-config](https://github.com/dajneem23/my-nvim-config) - This is my personal neovim configuration. (1 month ago)
 
@@ -107,7 +107,7 @@
 #### 🎉 Recent releases
 
 
-- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (2 weeks ago)
+- [apache/iggy](https://github.com/apache/iggy/releases/tag/server-0.10.0) - `server-0.10.0` (3 weeks ago)
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/releases/tag/%40ethereumjs/vm%4010.1.3) - `@ethereumjs/vm@10.1.3` (3 months ago)
 - [dajneem23/docker-sbx-templates-deepseek](https://github.com/dajneem23/docker-sbx-templates-deepseek/releases/tag/v1) - `v1` (3 months ago)
 - [dajneem23/deepseek-mac](https://github.com/dajneem23/deepseek-mac/releases/tag/v1.0.0) - `v1.0.0` (6 months ago)
@@ -199,24 +199,24 @@
 <!-- placehodler -->
 ```
 
-Title: Hard Drive pricing has gotten bad
-URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
+Title: Unkernel: Real Linux kernel, compiled to WebAssembly
+URL: https://unkernel.dev
 Published: today
 
-Title: "What's Claude's Fursona?" and Other Questions
-URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
-Published: today
-
-Title: AI made self-hosting fun again
-URL: https://janlukas.blog/posts/ai-self-hosting
+Title: Google's DeepCrossAttention achieves comparable model quality up to 3x faster
+URL: https://research.google/blog/supercharging-transformer-residual-connections/
 Published: 1 day ago
 
-Title: Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
-URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
-Published: 1 day ago
+Title: The Balatro Timeline
+URL: https://localthunk.com/blog/balatro-timeline-3aarh
+Published: 2 days ago
 
-Title: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
-URL: https://github.com/antonpictures/youtube-punisher
+Title: GPT 6.2 Astra Solves a Historical Mystery
+URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+Published: 3 days ago
+
+Title: Credit card skimming scripts using WebRTC found on popular shopping sites
+URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
 Published: 1 day ago
 
 ```
